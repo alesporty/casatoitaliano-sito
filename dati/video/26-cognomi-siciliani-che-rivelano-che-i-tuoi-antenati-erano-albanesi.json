@@ -1709,10 +1709,6 @@
    "url": "https://it.wikipedia.org/wiki/Girolamo_Sirchia"
   },
   {
-   "titolo": "Cognomix, diffusione dei cognomi in Italia",
-   "url": "https://www.cognomix.it/mappe-dei-cognomi-italiani/"
-  },
-  {
    "titolo": "NARA, Italians to America Passenger Data File 1855-1900",
    "url": "https://catalog.archives.gov/id/1746097"
   },
@@ -1752,5 +1748,5 @@
  "numero": 1,
  "regione": "Sicilia",
  "data": "2026-10-15",
- "pubblica": false
+ "pubblica": true
 }
