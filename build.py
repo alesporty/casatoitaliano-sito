@@ -28,8 +28,8 @@ h1{font-size:40px;line-height:1.15;margin:.2em 0 .5em;font-weight:600}
 .thumb{width:100%;border:1px solid var(--terra);display:block}
 .yt{display:inline-block;margin:14px 0 6px;color:var(--rosso);font:600 16px 'Inter',sans-serif}
 h2{font-size:27px;font-weight:600;border-bottom:1px solid var(--ink);padding-bottom:4px;margin-top:2em}
-ol,ul{padding-left:1.2em}li{margin:.5em 0}a{color:var(--rosso)}
-.cr{display:block;padding:10px 0;border-bottom:1px dashed var(--terra);font-size:19px}
+ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--rosso)}
+.cr{display:block;overflow-wrap:anywhere;padding:10px 0;border-bottom:1px dashed var(--terra);font-size:19px}
 .cr .m{font:500 14px 'Inter',sans-serif;color:var(--grigio);padding-top:4px}.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
 .nota{background:#f4ecda;border-left:3px solid var(--rosso);padding:12px 16px;font-style:italic}
 .ep{display:grid;grid-template-columns:240px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--terra);text-decoration:none;color:var(--ink)}
