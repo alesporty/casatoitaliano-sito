@@ -8,7 +8,7 @@ con in più i campi della pubblicazione: `numero`, `regione`, `youtube_id`, `dat
 dati/video/<slug>.jpg. Ogni episodio con la sua pagina entra anche nella home (decisione di Alessandro del 15/10/2026: a ogni
 episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` esplicito lo tiene fuori dalla home.
 """
-import html, json, os, glob, shutil, datetime
+import html, json, os, glob, shutil, datetime, re
 
 QUI = os.path.dirname(os.path.abspath(__file__))
 BASE = 'https://casatoitaliano.it'
@@ -29,7 +29,7 @@ h1{font-size:40px;line-height:1.15;margin:.2em 0 .5em;font-weight:600}
 .yt{display:inline-block;margin:14px 0 6px;color:var(--rosso);font:600 16px 'Inter',sans-serif}
 h2{font-size:27px;font-weight:600;border-bottom:1px solid var(--ink);padding-bottom:4px;margin-top:2em}
 ol,ul{padding-left:1.2em}li{margin:.5em 0}a{color:var(--rosso)}
-.cr{display:grid;grid-template-columns:52px 1fr;gap:4px 14px;padding:10px 0;border-bottom:1px dashed var(--terra);font-size:19px}
+.cr{display:block;padding:10px 0;border-bottom:1px dashed var(--terra);font-size:19px}
 .cr .m{font:500 14px 'Inter',sans-serif;color:var(--grigio);padding-top:4px}.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
 .nota{background:#f4ecda;border-left:3px solid var(--rosso);padding:12px 16px;font-style:italic}
 .ep{display:grid;grid-template-columns:240px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--terra);text-decoration:none;color:var(--ink)}
@@ -55,19 +55,22 @@ def pagina(v):
     m = v.get('materiali') or {}; g = m.get('generati') or {}
     yt = f'https://www.youtube.com/watch?v={e(v["youtube_id"])}' if v.get('youtube_id') else 'https://www.youtube.com/@casatoitaliano'
     ric = ''.join(f"<li><a href=\"{e(f['url'])}\">{e(f['titolo'])}</a></li>" for f in v.get('fonti_ricerca', []))
-    cr = ''.join(f"<div class=cr><span class=m>{e(r.get('minuto', ''))}</span><span><a href=\"{e(r.get('link', ''))}\">{nome_file(r.get('titolo', ''))}</a><br>"
-                 f"<span class=l>{' · '.join(e(x) for x in (r.get('autore'), r.get('licenza'), r.get('fonte')) if x)}</span></span></div>" for r in m.get('reali', []))
+    # solo le attribuzioni obbligatorie (licenze CC BY / CC BY-SA), senza minutaggi (decisione di Alessandro, 15/10/2026)
+    cr = ''.join(f"<div class=cr><span><a href=\"{e(r.get('link', ''))}\">{nome_file(r.get('titolo', ''))}</a><br>"
+                 f"<span class=l>{' · '.join(e(x) for x in (r.get('autore'), r.get('licenza')) if x)}</span></span></div>"
+                 for r in m.get('reali', []) if re.search(r'\bCC[ -]BY\b', r.get('licenza') or '', re.I))
     corpo = f"<div class=reg>{e(v.get('regione', ''))}</div><h1>{e(v['titolo'])}</h1>"
     if os.path.exists(os.path.join(QUI, 'video', v['slug'], 'thumb.jpg')):
         corpo += f"<a href=\"{yt}\"><img class=thumb src=\"thumb.jpg\" alt=\"{e(v['titolo'])}\"></a>"
     corpo += f"<a class=yt href=\"{yt}\">Guarda il video su YouTube</a>"
     if ric: corpo += f"<h2>Fonti della ricerca</h2><ol>{ric}</ol>"
-    if cr: corpo += f"<h2>Immagini e video</h2>{cr}"
+    if cr: corpo += f"<h2>Attribuzioni di immagini e video</h2>{cr}"
     if g.get('immagini') or g.get('clip'):
         q = ' e '.join(x for x in (f"{g['immagini']} immagini" if g.get('immagini') else '', f"{g['clip']} clip" if g.get('clip') else '') if x)
         corpo += f"<h2>Scene ricostruite</h2><p class=nota>Alcune scene sono ricostruite con l'intelligenza artificiale ({q}). Non sono documenti né fotografie d'epoca.</p>"
     if m.get('dati_mappe'):
-        corpo += "<h2>Mappe</h2><ul>" + ''.join(f"<li>{e(d['titolo'])} · {e(d['licenza'])} · <a href=\"{e(d['link'])}\">fonte</a></li>" for d in m['dati_mappe']) + "</ul>"
+        dm = [d for d in m['dati_mappe'] if re.search(r'\bCC[ -]BY\b', d.get('licenza') or '', re.I)]
+        if dm: corpo += "<h2>Mappe</h2><ul>" + ''.join(f"<li>{e(d['titolo'])} · {e(d['licenza'])} · <a href=\"{e(d['link'])}\">fonte</a></li>" for d in dm) + "</ul>"
     return scheletro(f"{v['titolo']} · Casato Italiano", corpo, f"Fonti e crediti del video «{v['titolo']}»", f"{BASE}/video/{v['slug']}/", '../../')
 
 
