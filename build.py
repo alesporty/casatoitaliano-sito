@@ -39,10 +39,14 @@ footer{text-align:center;color:var(--grigio);font:14px 'Inter',sans-serif;paddin
 @media (max-width:600px){body{font-size:21px}h1{font-size:33px}.ep{grid-template-columns:1fr}.cr{font-size:20px}.cr .l,.cr .m{font-size:15px}}"""
 
 
+import hashlib
+VERSIONE_CSS = hashlib.md5(CSS.encode()).hexdigest()[:8]   # il link al CSS cambia quando cambia lo stile: niente copie vecchie in cache
+
+
 def scheletro(titolo, corpo, descr='', canon='', r=''):   # r = prefisso relativo verso la radice: funziona con e senza dominio
     return f"""<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(titolo)}</title><meta name="description" content="{e(descr)}">{f'<link rel="canonical" href="{e(canon)}">' if canon else ''}
-<link rel="icon" href="{r}assets/favicon.png"><link rel="stylesheet" href="{r}assets/stile.css"></head><body>
+<link rel="icon" href="{r}assets/favicon.png"><link rel="stylesheet" href="{r}assets/stile.css?v={VERSIONE_CSS}"></head><body>
 <header><img src="{r}assets/logo.png" alt=""><a href="{r or './'}">CASATO ITALIANO</a></header><main>{corpo}</main>
 <footer>Casato Italiano · ogni cognome è una storia vera · <a href="https://www.youtube.com/@casatoitaliano">YouTube</a></footer></body></html>"""
 
