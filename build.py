@@ -5,8 +5,8 @@
 
 Dati: dati/video/<slug>.json, cioè il `05_master/pagina_video.json` dell'episodio (skill ytfs-5, pagina_crediti.py),
 con in più i campi della pubblicazione: `numero`, `regione`, `youtube_id`, `data` (AAAA-MM-GG) e la thumbnail in
-dati/video/<slug>.jpg. Una pagina entra nella home solo se ha `pubblica: true` (finché il video non è pubblico resta
-raggiungibile solo col suo link, come la descrizione richiede).
+dati/video/<slug>.jpg. Ogni episodio con la sua pagina entra anche nella home (decisione di Alessandro del 15/10/2026: a ogni
+episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` esplicito lo tiene fuori dalla home.
 """
 import html, json, os, glob, shutil, datetime
 
@@ -80,7 +80,7 @@ def main():
         t = f[:-5] + '.jpg'
         if os.path.exists(t): shutil.copy(t, os.path.join(d, 'thumb.jpg'))
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(pagina(v)); vids.append(v)
-    pub = sorted([v for v in vids if v.get('pubblica')], key=lambda v: v.get('data', ''), reverse=True)
+    pub = sorted([v for v in vids if v.get('pubblica', True) is not False], key=lambda v: v.get('data', ''), reverse=True)
     lista = ''.join(f"<a class=ep href=\"video/{e(v['slug'])}/\"><img src=\"video/{e(v['slug'])}/thumb.jpg\" alt=\"\"><div><div class=reg>{e(v.get('regione', ''))}</div><h3>{e(v['titolo'])}</h3></div></a>" for v in pub)
     corpo = ("<p class=intro>Le radici degli italiani, luogo per luogo. Per ogni video del canale, qui trovi le fonti della ricerca e i crediti di immagini, video e mappe.</p>"
              + (lista or "<p>Il primo episodio arriva presto.</p>"))
