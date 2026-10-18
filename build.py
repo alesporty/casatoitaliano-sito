@@ -48,7 +48,7 @@ def scheletro(titolo, corpo, descr='', canon='', r=''):   # r = prefisso relativ
 <title>{e(titolo)}</title><meta name="description" content="{e(descr)}">{f'<link rel="canonical" href="{e(canon)}">' if canon else ''}
 <link rel="icon" href="{r}assets/favicon.png"><link rel="stylesheet" href="{r}assets/stile.css?v={VERSIONE_CSS}"></head><body>
 <header><img src="{r}assets/logo.png" alt=""><a href="{r or './'}">CASATO ITALIANO</a></header><main>{corpo}</main>
-<footer>Casato Italiano · ogni cognome è una storia vera · <a href="https://www.youtube.com/@casatoitaliano">YouTube</a></footer></body></html>"""
+<footer>Casato Italiano · ogni cognome è una storia vera · <a href="https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg">YouTube</a></footer></body></html>"""
 
 
 def nome_file(t):
@@ -57,7 +57,7 @@ def nome_file(t):
 
 def pagina(v):
     m = v.get('materiali') or {}; g = m.get('generati') or {}
-    yt = f'https://www.youtube.com/watch?v={e(v["youtube_id"])}' if v.get('youtube_id') else 'https://www.youtube.com/@casatoitaliano'
+    yt = f'https://www.youtube.com/watch?v={e(v["youtube_id"])}' if v.get('youtube_id') else 'https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg'
     ric = ''.join(f"<li><a href=\"{e(f['url'])}\">{e(f['titolo'])}</a></li>" for f in v.get('fonti_ricerca', []))
     # solo le attribuzioni obbligatorie (licenze CC BY / CC BY-SA), senza minutaggi (decisione di Alessandro, 15/10/2026)
     cr = ''.join(f"<div class=cr><span><a href=\"{e(r.get('link', ''))}\">{nome_file(r.get('titolo', ''))}</a><br>"
