@@ -597,28 +597,432 @@
  },
  "fonti_ricerca": [
   {
-   "titolo": "Scheda Esposito: https://fondoambiente.it/luoghi/complesso-della-real-casa-dell-annunziata-napoli · https://it.wikipedia.org/wiki/Esposito_(cognome · https://www.lagazzettaitaliana.com/travel/9896-naples-la-ruota-degli-esposti · https://www.napolitoday.it/social/cognomi-piu-diffusi-napoli-e-provincia.html",
+   "titolo": "Esposito · FAI, Complesso della Real Casa dell'Annunziata, Napoli",
    "url": "https://fondoambiente.it/luoghi/complesso-della-real-casa-dell-annunziata-napoli"
   },
   {
-   "titolo": "Scheda Coppola: https://surnamesinitaly.com/surname-meanings/coppola · http://www.nobili-napoletani.it/Coppola.htm · https://archive.org/details/bub_gb_GeNosdvCoM0C · https://it.wikipedia.org/wiki/Congiura_dei_baroni · https://en.wikipedia.org/wiki/Antonello_Petrucci · https://www.napolitoday.it/social/cognomi-piu-diffusi-napoli-e-provincia.html",
+   "titolo": "Esposito · Wikipedia (it), Esposito (cognome)",
+   "url": "https://it.wikipedia.org/wiki/Esposito_(cognome)"
+  },
+  {
+   "titolo": "Esposito · La Gazzetta Italiana, la ruota degli esposti di Napoli",
+   "url": "https://www.lagazzettaitaliana.com/travel/9896-naples-la-ruota-degli-esposti"
+  },
+  {
+   "titolo": "Coppola · Surnames in Italy, Coppola",
    "url": "https://surnamesinitaly.com/surname-meanings/coppola"
   },
   {
-   "titolo": "Scheda De Rosa: https://it.wikipedia.org/wiki/Loise_De_Rosa · https://en.wikipedia.org/wiki/Pacecco_De_Rosa · https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/rosa-anella-de-1613-1649 · https://paese.app/cognomi/de%20rosa · https://archive.org/details/bub_gb_GeNosdvCoM0C · https://it.wikipedia.org/wiki/Cognomi_campani · https://www.napolitoday.it/social/cognomi-piu-diffusi-napoli-e-provincia.html · https://forebears.io/italy/campania/surnames",
+   "titolo": "Coppola · Nobili napoletani, famiglia Coppola",
+   "url": "http://www.nobili-napoletani.it/Coppola.htm"
+  },
+  {
+   "titolo": "Coppola · Wikipedia (it), Congiura dei baroni",
+   "url": "https://it.wikipedia.org/wiki/Congiura_dei_baroni"
+  },
+  {
+   "titolo": "Coppola · Wikipedia (en), Antonello Petrucci",
+   "url": "https://en.wikipedia.org/wiki/Antonello_Petrucci"
+  },
+  {
+   "titolo": "De Rosa · Wikipedia (it), Loise De Rosa",
    "url": "https://it.wikipedia.org/wiki/Loise_De_Rosa"
   },
   {
-   "titolo": "Scheda Ruggiero: https://it.wikipedia.org/wiki/Ruggero_II_di_Sicilia · https://surnamesinitaly.com/surname-meanings/di-ruggiero · https://archive.org/details/bub_gb_GeNosdvCoM0C · https://paese.app/cognomi/ruggiero · https://it.wikipedia.org/wiki/Cognomi_campani · https://www.napolitoday.it/social/cognomi-piu-diffusi-napoli-e-provincia.html · https://forebears.io/italy/surnames",
+   "titolo": "De Rosa · Wikipedia (en), Pacecco De Rosa",
+   "url": "https://en.wikipedia.org/wiki/Pacecco_De_Rosa"
+  },
+  {
+   "titolo": "De Rosa · Encyclopedia.com, Annella De Rosa (1613-1649)",
+   "url": "https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/rosa-anella-de-1613-1649"
+  },
+  {
+   "titolo": "De Rosa · Paese.app, cognome De Rosa",
+   "url": "https://paese.app/cognomi/de%20rosa"
+  },
+  {
+   "titolo": "De Rosa · Wikipedia (it), Cognomi campani",
+   "url": "https://it.wikipedia.org/wiki/Cognomi_campani"
+  },
+  {
+   "titolo": "Ruggiero · Wikipedia (it), Ruggero II di Sicilia",
    "url": "https://it.wikipedia.org/wiki/Ruggero_II_di_Sicilia"
   },
   {
-   "titolo": "Scheda Capasso: https://archive.org/details/bub_gb_GeNosdvCoM0C · http://www.nobili-napoletani.it/Capasso.htm · https://it.wikipedia.org/wiki/Bartolomeo_Capasso · https://www.gutenberg.org/ebooks/52281 · https://paese.app/cognomi/capasso · https://www.napolitoday.it/social/cognomi-piu-diffusi-napoli-e-provincia.html · https://forebears.io/surnames/capasso",
-   "url": "https://archive.org/details/bub_gb_GeNosdvCoM0C"
+   "titolo": "Ruggiero · Surnames in Italy, Di Ruggiero",
+   "url": "https://surnamesinitaly.com/surname-meanings/di-ruggiero"
   },
   {
-   "titolo": "Scheda Di Costanzo: https://www.treccani.it/enciclopedia/angelo-di-costanzo_(Dizionario-Biografico)/ · https://www.iris.unina.it/retrieve/e268a733-83f6-4c8f-e053-1705fe0a812c/M.%20Santangelo_I%20gentilhomini%20antiqui%20della%20capitale.pdf · https://it.wikipedia.org/wiki/Angelo_di_Costanzo · https://en.wikipedia.org/wiki/Constantius_of_Capri · https://paese.app/cognomi/di%20costanzo · https://forebears.io/italy/campania/surnames",
+   "titolo": "Ruggiero · Paese.app, cognome Ruggiero",
+   "url": "https://paese.app/cognomi/ruggiero"
+  },
+  {
+   "titolo": "Ruggiero · Wikipedia (it), Cognomi campani",
+   "url": "https://it.wikipedia.org/wiki/Cognomi_campani"
+  },
+  {
+   "titolo": "Cirillo · Surnames in Italy, Cirillo",
+   "url": "https://surnamesinitaly.com/surname-meanings/cirillo"
+  },
+  {
+   "titolo": "Cirillo · Wikipedia (it), Domenico Cirillo",
+   "url": "https://it.wikipedia.org/wiki/Domenico_Cirillo"
+  },
+  {
+   "titolo": "Cirillo · HiMeTop, casa natale di Domenico Cirillo a Grumo Nevano",
+   "url": "https://himetop.unicampus.it/list-of-countries/italy/naples-and-its-province/domenico-cirillo-s-birthplace/"
+  },
+  {
+   "titolo": "Napolitano · Surnames in Italy, Napolitano",
+   "url": "https://surnamesinitaly.com/surname-meanings/napolitano"
+  },
+  {
+   "titolo": "Napolitano · Paese.app, cognome Napolitano",
+   "url": "https://paese.app/cognomi/napolitano"
+  },
+  {
+   "titolo": "Napolitano · Wikipedia (it), Giorgio Napolitano",
+   "url": "https://it.wikipedia.org/wiki/Giorgio_Napolitano"
+  },
+  {
+   "titolo": "Gargiulo · Wikipedia (en), Gargiulo",
+   "url": "https://en.wikipedia.org/wiki/Gargiulo"
+  },
+  {
+   "titolo": "Gargiulo · Wikipedia (it), Micco Spadaro",
+   "url": "https://it.wikipedia.org/wiki/Micco_Spadaro"
+  },
+  {
+   "titolo": "Gargiulo · Wellcome Collection, scheda dell'opera",
+   "url": "https://identity.wellcomecollection.org/works/rf2g8que"
+  },
+  {
+   "titolo": "Gargiulo · Paese.app, cognome Gargiulo",
+   "url": "https://paese.app/cognomi/gargiulo"
+  },
+  {
+   "titolo": "Capasso · Nobili napoletani, famiglia Capasso",
+   "url": "http://www.nobili-napoletani.it/Capasso.htm"
+  },
+  {
+   "titolo": "Capasso · Wikipedia (it), Bartolomeo Capasso",
+   "url": "https://it.wikipedia.org/wiki/Bartolomeo_Capasso"
+  },
+  {
+   "titolo": "Capasso · Project Gutenberg, ebook 52281",
+   "url": "https://www.gutenberg.org/ebooks/52281"
+  },
+  {
+   "titolo": "Capasso · Paese.app, cognome Capasso",
+   "url": "https://paese.app/cognomi/capasso"
+  },
+  {
+   "titolo": "Capasso · Forebears, cognome Capasso",
+   "url": "https://forebears.io/surnames/capasso"
+  },
+  {
+   "titolo": "Castaldo · Surnames in Italy, Castaldi",
+   "url": "https://surnamesinitaly.com/surname-meanings/castaldi/"
+  },
+  {
+   "titolo": "Castaldo · Wikipedia (en), Alfonso Castaldo",
+   "url": "https://en.wikipedia.org/wiki/Alfonso_Castaldo"
+  },
+  {
+   "titolo": "Castaldo · Wikipedia (en), Francesco Coppola Castaldo",
+   "url": "https://en.wikipedia.org/wiki/Francesco_Coppola_Castaldo"
+  },
+  {
+   "titolo": "Scognamiglio · Surnames in Italy, Scognamiglio",
+   "url": "https://surnamesinitaly.com/surname-meanings/scognamiglio"
+  },
+  {
+   "titolo": "Scognamiglio · Wikipedia (en), Scognamiglio",
+   "url": "https://en.wikipedia.org/wiki/Scognamiglio"
+  },
+  {
+   "titolo": "Scognamiglio · Surnames in Italy, Scognamillo",
+   "url": "https://surnamesinitaly.com/surname-meanings/scognamillo"
+  },
+  {
+   "titolo": "Riccio · Surnames in Italy, Riccio",
+   "url": "https://surnamesinitaly.com/surname-meanings/riccio/"
+  },
+  {
+   "titolo": "Riccio · VesuvioLive, i cognomi più diffusi a Napoli e nel Vesuviano",
+   "url": "https://www.vesuviolive.it/ultime-notizie/30618-cognomi-diffusi-quali-napoli-nel-vesuviano/"
+  },
+  {
+   "titolo": "Barbato · Wikipedia (it), Barbato di Benevento",
+   "url": "https://it.wikipedia.org/wiki/Barbato_di_Benevento"
+  },
+  {
+   "titolo": "Annunziata · Surnames in Italy, Annunziata",
+   "url": "https://surnamesinitaly.com/surname-meanings/annunziata"
+  },
+  {
+   "titolo": "Annunziata · Surnames in Italy, Primo",
+   "url": "https://surnamesinitaly.com/surname-meanings/primo"
+  },
+  {
+   "titolo": "Annunziata · FAI, Complesso della Real Casa dell'Annunziata, Napoli",
+   "url": "https://fondoambiente.it/luoghi/complesso-della-real-casa-dell-annunziata-napoli"
+  },
+  {
+   "titolo": "Annunziata · Paese.app, cognome Annunziata",
+   "url": "https://paese.app/cognomi/annunziata"
+  },
+  {
+   "titolo": "De Martino · INNT, articolo su Ernesto de Martino",
+   "url": "https://innt.it/innt/article/download/636/576/739"
+  },
+  {
+   "titolo": "De Martino · Wikipedia (it), Certosa di San Martino",
+   "url": "https://it.wikipedia.org/wiki/Certosa_di_San_Martino"
+  },
+  {
+   "titolo": "De Martino · Wikipedia (it), Eduardo De Martino",
+   "url": "https://it.wikipedia.org/wiki/Eduardo_De_Martino"
+  },
+  {
+   "titolo": "De Martino · Wikipedia (it), Ernesto de Martino",
+   "url": "https://it.wikipedia.org/wiki/Ernesto_de_Martino"
+  },
+  {
+   "titolo": "De Martino · Paese.app, cognome De Martino",
+   "url": "https://paese.app/cognomi/de%20martino"
+  },
+  {
+   "titolo": "Cuomo · Paese.app, cognome Cuomo",
+   "url": "https://paese.app/cognomi/cuomo"
+  },
+  {
+   "titolo": "Cuomo · Wikipedia (en), Mario Cuomo",
+   "url": "https://en.wikipedia.org/wiki/Mario_Cuomo"
+  },
+  {
+   "titolo": "Borrelli · Surnames in Italy, Borrelli",
+   "url": "https://surnamesinitaly.com/surname-meanings/borrelli/"
+  },
+  {
+   "titolo": "Borrelli · Biblioteca digitale Università della Campania Vanvitelli",
+   "url": "https://www.vdl.unicampania.it/handle/20.500.14011/486"
+  },
+  {
+   "titolo": "Borrelli · Wikipedia (en), Mario Borrelli",
+   "url": "https://en.wikipedia.org/wiki/Mario_Borrelli"
+  },
+  {
+   "titolo": "Borrelli · VesuvioLive, i cognomi più diffusi a Napoli e nel Vesuviano",
+   "url": "https://www.vesuviolive.it/ultime-notizie/30618-cognomi-diffusi-quali-napoli-nel-vesuviano/"
+  },
+  {
+   "titolo": "Liguori · Wikipedia (it), Alfonso Maria de' Liguori",
+   "url": "https://it.wikipedia.org/wiki/Alfonso_Maria_de%27_Liguori"
+  },
+  {
+   "titolo": "Di Maio · S. Di Maio, origine del nome Di Maio",
+   "url": "https://people.ece.ubc.ca/simond/DiMaio_name.html"
+  },
+  {
+   "titolo": "Di Maio · Wikipedia (en), Giuseppe de Majo",
+   "url": "https://en.wikipedia.org/wiki/Giuseppe_de_Majo"
+  },
+  {
+   "titolo": "Di Maio · VesuvioLive, i cognomi più diffusi a Napoli e nel Vesuviano",
+   "url": "https://www.vesuviolive.it/ultime-notizie/30618-cognomi-diffusi-quali-napoli-nel-vesuviano/"
+  },
+  {
+   "titolo": "Capuano · Wikipedia (it), Capuano (famiglia)",
+   "url": "https://it.wikipedia.org/wiki/Capuano_(famiglia)"
+  },
+  {
+   "titolo": "Capuano · Wikipedia (it), Pietro Capuano",
+   "url": "https://it.wikipedia.org/wiki/Pietro_Capuano"
+  },
+  {
+   "titolo": "Iodice · S. Miranda, The Cardinals of the Holy Roman Church, concistori 1382-1385",
+   "url": "https://cardinals.fiu.edu/bios1382-1385.htm"
+  },
+  {
+   "titolo": "Iodice · Wikipedia (en), Boffille de Juge",
+   "url": "https://en.wikipedia.org/wiki/Boffille_de_Juge"
+  },
+  {
+   "titolo": "Iodice · Paese.app, cognome Iodice",
+   "url": "https://paese.app/cognomi/iodice"
+  },
+  {
+   "titolo": "Longobardi · Surnames in Italy, Longobardi",
+   "url": "https://surnamesinitaly.com/surname-meanings/longobardi"
+  },
+  {
+   "titolo": "Piscopo · Surnames in Italy, Pisco",
+   "url": "https://surnamesinitaly.com/surname-meanings/pisco"
+  },
+  {
+   "titolo": "Piscopo · Paese.app, cognome Piscopo",
+   "url": "https://paese.app/cognomi/piscopo"
+  },
+  {
+   "titolo": "Piscopo · Wikipedia (it), Vittorio Piscopo",
+   "url": "https://it.wikipedia.org/wiki/Vittorio_Piscopo"
+  },
+  {
+   "titolo": "Piscopo · Wikipedia (it), Tullio De Piscopo",
+   "url": "https://it.wikipedia.org/wiki/Tullio_De_Piscopo"
+  },
+  {
+   "titolo": "Piscopo · Forebears, cognome Piscopo",
+   "url": "https://forebears.io/surnames/piscopo"
+  },
+  {
+   "titolo": "Migliaccio · Treccani, migliaccio",
+   "url": "https://www.treccani.it/vocabolario/migliaccio/"
+  },
+  {
+   "titolo": "Migliaccio · Gran Caffè Gambrinus, il migliaccio della tradizione napoletana",
+   "url": "https://grancaffegambrinus.com/en/the-migliaccio-sweet-of-the-neapolitan-tradition/"
+  },
+  {
+   "titolo": "Migliaccio · Wikipedia (it), Lucia Migliaccio",
+   "url": "https://it.wikipedia.org/wiki/Lucia_Migliaccio"
+  },
+  {
+   "titolo": "Migliaccio · Baruch College, Italian American Theater",
+   "url": "https://blogs.baruch.cuny.edu/italianamericantheater/?p=17"
+  },
+  {
+   "titolo": "Migliaccio · Paese.app, cognome Migliaccio",
+   "url": "https://paese.app/cognomi/migliaccio"
+  },
+  {
+   "titolo": "Ruocco · Surnames in Italy, Rocci",
+   "url": "https://surnamesinitaly.com/surname-meanings/rocci"
+  },
+  {
+   "titolo": "Ruocco · Wikipedia (it), Ettore Ruocco",
+   "url": "https://it.wikipedia.org/wiki/Ettore_Ruocco"
+  },
+  {
+   "titolo": "Ruocco · Paese.app, cognome Ruocco",
+   "url": "https://paese.app/cognomi/ruocco"
+  },
+  {
+   "titolo": "Ruocco · Forebears, cognome Ruocco",
+   "url": "https://forebears.io/surnames/ruocco"
+  },
+  {
+   "titolo": "Di Costanzo · Treccani, angelo di costanzo (Dizionario Biografico)",
    "url": "https://www.treccani.it/enciclopedia/angelo-di-costanzo_(Dizionario-Biografico)/"
+  },
+  {
+   "titolo": "Di Costanzo · M. Santangelo, I gentilhomini antiqui della capitale (IRIS Università di Napoli Federico II)",
+   "url": "https://www.iris.unina.it/retrieve/e268a733-83f6-4c8f-e053-1705fe0a812c/M.%20Santangelo_I%20gentilhomini%20antiqui%20della%20capitale.pdf"
+  },
+  {
+   "titolo": "Di Costanzo · Wikipedia (it), Angelo di Costanzo",
+   "url": "https://it.wikipedia.org/wiki/Angelo_di_Costanzo"
+  },
+  {
+   "titolo": "Di Costanzo · Wikipedia (en), Constantius of Capri",
+   "url": "https://en.wikipedia.org/wiki/Constantius_of_Capri"
+  },
+  {
+   "titolo": "Di Costanzo · Paese.app, cognome Di Costanzo",
+   "url": "https://paese.app/cognomi/di%20costanzo"
+  },
+  {
+   "titolo": "Ascione · Museo del Corallo Ascione, Napoli",
+   "url": "https://www.ascione.it/museum/?lang=en"
+  },
+  {
+   "titolo": "Ascione · Velvet Box Society, Ascione",
+   "url": "https://www.velvetboxsociety.com/ascione.html"
+  },
+  {
+   "titolo": "Ascione · Wikipedia (en), Aniello Ascione",
+   "url": "https://en.wikipedia.org/wiki/Aniello_Ascione"
+  },
+  {
+   "titolo": "Ascione · Forebears, cognome Ascione",
+   "url": "https://forebears.io/surnames/ascione"
+  },
+  {
+   "titolo": "Ascione · VesuvioLive, i cognomi più diffusi a Napoli e nel Vesuviano",
+   "url": "https://www.vesuviolive.it/ultime-notizie/30618-cognomi-diffusi-quali-napoli-nel-vesuviano/"
+  },
+  {
+   "titolo": "D'Aniello · Wikipedia (en), Agnellus of Naples",
+   "url": "https://en.wikipedia.org/wiki/Agnellus_of_Naples"
+  },
+  {
+   "titolo": "D'Aniello · Comune di Napoli, chiesa di Sant'Aniello a Caponapoli",
+   "url": "https://dmo-napoli.inera.it/en/attraction/church-of-santaniello-a-caponapoli/"
+  },
+  {
+   "titolo": "D'Aniello · Wikipedia (it), Masaniello",
+   "url": "https://it.wikipedia.org/wiki/Masaniello"
+  },
+  {
+   "titolo": "D'Auria · Catalogo generale dei Beni Culturali (ICCD), scheda ICCD3697263",
+   "url": "https://sigecweb.beniculturali.it/sigec/item/print/ICCD3697263"
+  },
+  {
+   "titolo": "D'Auria · Wikipedia (en), Girolamo D'Auria",
+   "url": "https://en.wikipedia.org/wiki/Girolamo_D%27Auria"
+  },
+  {
+   "titolo": "Moccia · M. Santangelo, I gentilhomini antiqui della capitale (IRIS Università di Napoli Federico II)",
+   "url": "https://www.iris.unina.it/retrieve/e268a733-83f6-4c8f-e053-1705fe0a812c/M.%20Santangelo_I%20gentilhomini%20antiqui%20della%20capitale.pdf"
+  },
+  {
+   "titolo": "Moccia · Wikipedia (it), Moccia",
+   "url": "https://it.wikipedia.org/wiki/Moccia"
+  },
+  {
+   "titolo": "De Gennaro · Surnames in Italy, De Gennaro",
+   "url": "https://surnamesinitaly.com/surname-meanings/de-gennaro"
+  },
+  {
+   "titolo": "De Gennaro · Nobili napoletani, famiglia Gennaro",
+   "url": "http://www.nobili-napoletani.it/Gennaro.htm"
+  },
+  {
+   "titolo": "De Gennaro · M. Santangelo, I Seggi di Napoli logiche di distinzione sociale (IRIS Università di Napoli Federico II)",
+   "url": "https://www.iris.unina.it/retrieve/e268a733-785f-4c8f-e053-1705fe0a812c/M.%20Santangelo_I%20Seggi%20di%20Napoli%20logiche%20di%20distinzione%20sociale.pdf"
+  },
+  {
+   "titolo": "De Gennaro · Paese.app, cognome De Gennaro",
+   "url": "https://paese.app/cognomi/de%20gennaro"
+  },
+  {
+   "titolo": "Santaniello · Wikipedia (en), Sant'Agnello Maggiore",
+   "url": "https://en.wikipedia.org/wiki/Sant%27Agnello_Maggiore"
+  },
+  {
+   "titolo": "Santaniello · Comune di Napoli, chiesa di Sant'Aniello a Caponapoli",
+   "url": "https://dmo-napoli.inera.it/en/attraction/church-of-santaniello-a-caponapoli/"
+  },
+  {
+   "titolo": "Santaniello · NostroFiglio.it, il nome Aniello",
+   "url": "https://www.nostrofiglio.it/nomi/aniello"
+  },
+  {
+   "titolo": "Santaniello · Paese.app, cognome Santaniello",
+   "url": "https://paese.app/cognomi/santaniello"
+  },
+  {
+   "titolo": "Santaniello · Forebears, cognome Santaniello",
+   "url": "https://forebears.io/surnames/santaniello"
+  },
+  {
+   "titolo": "Mormile · M. Santangelo, I gentilhomini antiqui della capitale (IRIS Università di Napoli Federico II)",
+   "url": "https://www.iris.unina.it/retrieve/e268a733-83f6-4c8f-e053-1705fe0a812c/M.%20Santangelo_I%20gentilhomini%20antiqui%20della%20capitale.pdf"
+  },
+  {
+   "titolo": "Mormile · Canadian Centre for Architecture, scheda bibliografica",
+   "url": "https://www.cca.qc.ca/en/search/details/library/publication/78232264"
   },
   {
    "titolo": "Scipione Mazzella, Descrittione del Regno di Napoli, Napoli 1601 (pubblico dominio, scansione Google Books su archive.org)",
@@ -655,6 +1059,10 @@
   {
    "titolo": "NARA, Numerical Identification Files (NUMIDENT) — Application (SS-5) Files 1936-2007, RG 47, pubblico dominio; solo persone decedute entro il 2007 (o nate prima del 1897)",
    "url": "https://aad.archives.gov/aad/series-description.jsp?s=5057"
+  },
+  {
+   "titolo": "Forebears, cognomi più diffusi in Italia",
+   "url": "https://forebears.io/italy/surnames"
   }
  ],
  "numero": 4,
