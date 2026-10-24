@@ -1068,5 +1068,6 @@
  "numero": 4,
  "regione": "Napoli",
  "data": "2026-10-20",
- "pubblica": true
+ "pubblica": true,
+ "serie": "cognomi"
 }

@@ -7,6 +7,7 @@ Dati: dati/video/<slug>.json, cioè il `05_master/pagina_video.json` dell'episod
 con in più i campi della pubblicazione: `numero`, `regione`, `youtube_id`, `data` (AAAA-MM-GG) e la thumbnail in
 dati/video/<slug>.jpg. Ogni episodio con la sua pagina entra anche nella home (decisione di Alessandro del 15/10/2026: a ogni
 episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` esplicito lo tiene fuori dalla home.
+24/10/2026: il canale racconta le famiglie. In home il motto, prima le famiglie e poi la serie dei cognomi (campo `serie`: «famiglie», default, o «cognomi»). Stile: TEMA=notte (default) o carta.
 """
 import html, json, os, glob, shutil, datetime, re
 
@@ -14,7 +15,7 @@ QUI = os.path.dirname(os.path.abspath(__file__))
 BASE = 'https://casatoitaliano.it'
 e = html.escape
 
-CSS = """@font-face{font-family:'Cormorant';src:url(fonts/CormorantGaramond[wght].ttf);font-weight:300 700;font-display:swap}
+CSS_CARTA = """@font-face{font-family:'Cormorant';src:url(fonts/CormorantGaramond[wght].ttf);font-weight:300 700;font-display:swap}
 @font-face{font-family:'Cormorant';src:url(fonts/CormorantGaramond-Italic[wght].ttf);font-style:italic;font-weight:300 700;font-display:swap}
 @font-face{font-family:'Inter';src:url(fonts/Inter[opsz,wght].ttf);font-weight:100 900;font-display:swap}
 :root{--carta:#ECE2CC;--terra:#D9CAA8;--ink:#2A2018;--grigio:#6B5C49;--rosso:#8C1C13}
@@ -36,7 +37,36 @@ ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--r
 .ep img{width:100%;border:1px solid var(--terra)}.ep h3{margin:.1em 0;font-size:25px;line-height:1.2;font-weight:600}
 .intro{font-size:22px;font-style:italic}
 footer{text-align:center;color:var(--grigio);font:14px 'Inter',sans-serif;padding:30px}
-@media (max-width:600px){body{font-size:21px}h1{font-size:33px}.ep{grid-template-columns:1fr}.cr{font-size:20px}.cr .l,.cr .m{font-size:15px}}"""
+@media (max-width:600px){body{font-size:21px}h1{font-size:33px}.ep{grid-template-columns:1fr}.cr{font-size:20px}.cr .l,.cr .m{font-size:15px}}
+.motto{font-size:30px;font-weight:600;line-height:1.2;margin:.2em 0 .3em}.serie{font:600 14px 'Inter',sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--grigio);margin:2.4em 0 .2em;border-bottom:1px solid var(--terra);padding-bottom:6px}"""
+
+CSS_NOTTE = """@font-face{font-family:'Anton';src:url(fonts/Anton-Regular.ttf);font-display:swap}
+@font-face{font-family:'Inter';src:url(fonts/Inter[opsz,wght].ttf);font-weight:100 900;font-display:swap}
+:root{--fondo:#0B1222;--fondo2:#141d33;--linea:#28324d;--testo:#F1ECE0;--grigio:#9AA3BC;--oro:#F7BE16}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(ellipse at top,#16203a 0,var(--fondo) 55%) fixed,var(--fondo);color:var(--testo);font:18px/1.65 'Inter',system-ui,sans-serif}
+header{border-bottom:1px solid var(--linea);padding:12px 20px;display:flex;align-items:center;gap:12px}
+header img{width:44px;height:44px;border-radius:50%}header a{color:#fff;text-decoration:none;font:26px 'Anton',Impact,sans-serif;letter-spacing:.04em}
+main{max-width:820px;margin:0 auto;padding:28px 20px 60px}
+.reg{font:700 12px 'Inter',sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--oro)}
+h1{font:40px/1.12 'Anton',Impact,sans-serif;color:#fff;margin:.2em 0 .5em;letter-spacing:.01em}
+.thumb{width:100%;border-radius:8px;display:block}
+.yt{display:inline-block;margin:14px 0 6px;color:var(--oro);font:700 16px 'Inter',sans-serif}
+h2{font:26px 'Anton',Impact,sans-serif;color:#fff;border-bottom:1px solid var(--linea);padding-bottom:6px;margin-top:2em;letter-spacing:.02em}
+ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--oro)}
+.cr{display:block;overflow-wrap:anywhere;padding:10px 0;border-bottom:1px dashed var(--linea);font-size:17px}
+.cr .m,.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
+.nota{background:var(--fondo2);border-left:3px solid var(--oro);padding:12px 16px}
+.ep{display:grid;grid-template-columns:260px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--linea);text-decoration:none;color:var(--testo)}
+.ep img{width:100%;border-radius:6px}.ep h3{margin:.15em 0;font:24px/1.15 'Anton',Impact,sans-serif;color:#fff;letter-spacing:.01em}
+.motto{font:46px/1.05 'Anton',Impact,sans-serif;color:#fff;margin:.1em 0 .25em;text-transform:uppercase}
+.intro{font-size:19px;color:var(--testo)}
+.serie{font:700 13px 'Inter',sans-serif;letter-spacing:.2em;text-transform:uppercase;color:var(--oro);margin:2.4em 0 .2em;border-bottom:1px solid var(--linea);padding-bottom:6px}
+footer{text-align:center;color:var(--grigio);font:14px 'Inter',sans-serif;padding:30px}
+@media (max-width:600px){body{font-size:18px}h1{font-size:32px}.motto{font-size:36px}.ep{grid-template-columns:1fr}}"""
+TEMA = os.environ.get('TEMA', 'notte')   # 24/10/2026: stile del sito (notte = come banner e grafiche; carta = stile dei cognomi)
+CSS = CSS_NOTTE if TEMA == 'notte' else CSS_CARTA
+MOTTO = "Le famiglie che possiedono l'Italia"
 
 
 import hashlib
@@ -48,7 +78,7 @@ def scheletro(titolo, corpo, descr='', canon='', r=''):   # r = prefisso relativ
 <title>{e(titolo)}</title><meta name="description" content="{e(descr)}">{f'<link rel="canonical" href="{e(canon)}">' if canon else ''}
 <link rel="icon" href="{r}assets/favicon.png"><link rel="stylesheet" href="{r}assets/stile.css?v={VERSIONE_CSS}"></head><body>
 <header><img src="{r}assets/logo.png" alt=""><a href="{r or './'}">CASATO ITALIANO</a></header><main>{corpo}</main>
-<footer>Casato Italiano · ogni cognome è una storia vera · <a href="https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg">YouTube</a></footer></body></html>"""
+<footer>Casato Italiano · {MOTTO} · <a href="https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg">YouTube</a></footer></body></html>"""
 
 
 def nome_file(t):
@@ -88,10 +118,15 @@ def main():
         if os.path.exists(t): shutil.copy(t, os.path.join(d, 'thumb.jpg'))
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(pagina(v)); vids.append(v)
     pub = sorted([v for v in vids if v.get('pubblica', True) is not False], key=lambda v: v.get('data', ''), reverse=True)
-    lista = ''.join(f"<a class=ep href=\"video/{e(v['slug'])}/\"><img src=\"video/{e(v['slug'])}/thumb.jpg\" alt=\"\"><div><div class=reg>{e(v.get('regione', ''))}</div><h3>{e(v['titolo'])}</h3></div></a>" for v in pub)
-    corpo = ("<p class=intro>Le radici degli italiani, luogo per luogo. Per ogni video del canale, qui trovi le fonti della ricerca e i crediti di immagini, video e mappe.</p>"
-             + (lista or "<p>Il primo episodio arriva presto.</p>"))
-    open(os.path.join(QUI, 'index.html'), 'w', encoding='utf-8').write(scheletro('Casato Italiano · fonti e crediti dei video', corpo, 'Fonti e crediti dei video del canale YouTube Casato Italiano', BASE + '/'))
+    voce = lambda v: f"<a class=ep href=\"video/{e(v['slug'])}/\"><img src=\"video/{e(v['slug'])}/thumb.jpg\" alt=\"\"><div><div class=reg>{e(v.get('regione', ''))}</div><h3>{e(v['titolo'])}</h3></div></a>"
+    fam = [v for v in pub if v.get('serie', 'famiglie') != 'cognomi']; cog = [v for v in pub if v.get('serie') == 'cognomi']
+    # 24/10/2026: il canale racconta le famiglie; i video sui cognomi restano in una sezione a parte, sotto
+    corpo = (f"<div class=motto>{e(MOTTO)}</div>"
+             "<p class=intro>Chi sono le famiglie più ricche d'Italia, regione per regione e tema per tema: da dove vengono, come hanno fatto i soldi "
+             "e quali dei loro marchi usi già ogni giorno. Per ogni video del canale, qui trovi le fonti della ricerca e i crediti di immagini, video e mappe.</p>"
+             + (f"<div class=serie>Le famiglie</div>{''.join(voce(v) for v in fam)}" if fam else "<p>Il primo episodio arriva presto.</p>")
+             + (f"<div class=serie>La prima serie: i cognomi</div>{''.join(voce(v) for v in cog)}" if cog else ''))
+    open(os.path.join(QUI, 'index.html'), 'w', encoding='utf-8').write(scheletro(f'Casato Italiano · {MOTTO}', corpo, f"Casato Italiano, il canale YouTube sulle famiglie più ricche d'Italia: fonti e crediti di ogni video", BASE + '/'))
     open(os.path.join(QUI, '404.html'), 'w', encoding='utf-8').write(scheletro('Pagina non trovata · Casato Italiano',
         "<h1>Pagina non trovata</h1><p>Questa pagina non esiste. <a href=\"/\">Torna all'elenco dei video</a>.</p>", r='/'))
     oggi = datetime.date.today().isoformat()

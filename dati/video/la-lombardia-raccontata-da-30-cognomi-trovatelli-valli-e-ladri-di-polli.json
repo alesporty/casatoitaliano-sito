@@ -1637,5 +1637,6 @@
  "numero": 5,
  "regione": "Lombardia",
  "data": "2026-10-22",
- "pubblica": true
+ "pubblica": true,
+ "serie": "cognomi"
 }

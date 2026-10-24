@@ -1145,5 +1145,6 @@
  "numero": 3,
  "regione": "Veneto",
  "data": "2026-10-19",
- "pubblica": true
+ "pubblica": true,
+ "serie": "cognomi"
 }
