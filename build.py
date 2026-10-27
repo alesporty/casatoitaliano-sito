@@ -9,7 +9,7 @@ dati/video/<slug>.jpg. Ogni episodio con la sua pagina entra anche nella home (d
 episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` esplicito lo tiene fuori dalla home.
 27/10/2026: un episodio entra in home e nella sitemap solo quando il video è uscito: serve `youtube_id` e, se c'è, `uscita`
 (data e ora di pubblicazione di YouTube, ISO con fuso, es. 2026-10-28T11:00:00Z) già passata. Prima la pagina singola dice quando esce.
-Una GitHub Action rigenera il sito ogni ora, così l'episodio compare da solo dopo l'uscita.
+Una GitHub Action rigenera il sito ogni giorno alle 12:07 italiane, così l'episodio compare da solo dopo l'uscita delle 12.
 24/10/2026: il canale racconta le famiglie. In home il motto, prima le famiglie e poi la serie dei cognomi (campo `serie`: «famiglie», default, o «cognomi»). Stile: TEMA=notte (default) o carta.
 """
 import html, json, os, glob, shutil, datetime, re
