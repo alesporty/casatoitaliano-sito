@@ -7,6 +7,9 @@ Dati: dati/video/<slug>.json, cioè il `05_master/pagina_video.json` dell'episod
 con in più i campi della pubblicazione: `numero`, `regione`, `youtube_id`, `data` (AAAA-MM-GG) e la thumbnail in
 dati/video/<slug>.jpg. Ogni episodio con la sua pagina entra anche nella home (decisione di Alessandro del 15/10/2026: a ogni
 episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` esplicito lo tiene fuori dalla home.
+27/10/2026: un episodio entra in home e nella sitemap solo quando il video è uscito: serve `youtube_id` e, se c'è, `uscita`
+(data e ora di pubblicazione di YouTube, ISO con fuso, es. 2026-10-28T11:00:00Z) già passata. Prima la pagina singola dice quando esce.
+Una GitHub Action rigenera il sito ogni ora, così l'episodio compare da solo dopo l'uscita.
 24/10/2026: il canale racconta le famiglie. In home il motto, prima le famiglie e poi la serie dei cognomi (campo `serie`: «famiglie», default, o «cognomi»). Stile: TEMA=notte (default) o carta.
 """
 import html, json, os, glob, shutil, datetime, re
@@ -81,6 +84,34 @@ def scheletro(titolo, corpo, descr='', canon='', r=''):   # r = prefisso relativ
 <footer>Casato Italiano · {MOTTO} · <a href="https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg">YouTube</a></footer></body></html>"""
 
 
+ADESSO = datetime.datetime.now(datetime.timezone.utc)
+MESI = 'gennaio febbraio marzo aprile maggio giugno luglio agosto settembre ottobre novembre dicembre'.split()
+
+
+def uscita(v):
+    """data e ora di uscita del video (datetime UTC) o None"""
+    u = v.get('uscita')
+    if not u: return None
+    d = datetime.datetime.fromisoformat(u.replace('Z', '+00:00'))
+    return d if d.tzinfo else d.replace(tzinfo=datetime.timezone.utc)
+
+
+def uscito(v):
+    u = uscita(v)
+    return bool(v.get('youtube_id')) and (u is None or u <= ADESSO)
+
+
+def quando(v):
+    u = uscita(v)
+    if not u: return 'presto'
+    try:
+        from zoneinfo import ZoneInfo
+        u = u.astimezone(ZoneInfo('Europe/Rome'))
+    except Exception:
+        pass
+    return f"il {u.day} {MESI[u.month - 1]} alle {u.hour}:{u.minute:02d}"
+
+
 def nome_file(t):
     return e(t.replace('File:', '').replace('_', ' ').rsplit('.', 1)[0]) if t.startswith('File:') else e(t)
 
@@ -94,9 +125,12 @@ def pagina(v):
                  f"<span class=l>{' · '.join(e(x) for x in (r.get('autore'), r.get('licenza')) if x)}</span></span></div>"
                  for r in m.get('reali', []) if re.search(r'\bCC[ -]BY\b', r.get('licenza') or '', re.I))
     corpo = f"<div class=reg>{e(v.get('regione', ''))}</div><h1>{e(v['titolo'])}</h1>"
+    fuori = uscito(v)
     if os.path.exists(os.path.join(QUI, 'video', v['slug'], 'thumb.jpg')):
-        corpo += f"<a href=\"{yt}\"><img class=thumb src=\"thumb.jpg\" alt=\"{e(v['titolo'])}\"></a>"
-    corpo += f"<a class=yt href=\"{yt}\">Guarda il video su YouTube</a>"
+        img = f"<img class=thumb src=\"thumb.jpg\" alt=\"{e(v['titolo'])}\">"
+        corpo += f"<a href=\"{yt}\">{img}</a>" if fuori else img
+    corpo += (f"<a class=yt href=\"{yt}\">Guarda il video su YouTube</a>" if fuori
+              else f"<p class=yt>Il video esce su YouTube {e(quando(v))}.</p>")
     if ric: corpo += f"<h2>Fonti della ricerca</h2><ol>{ric}</ol>"
     if cr: corpo += f"<h2>Attribuzioni di immagini e video</h2>{cr}"
     if g.get('immagini') or g.get('clip'):
@@ -117,7 +151,7 @@ def main():
         t = f[:-5] + '.jpg'
         if os.path.exists(t): shutil.copy(t, os.path.join(d, 'thumb.jpg'))
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(pagina(v)); vids.append(v)
-    pub = sorted([v for v in vids if v.get('pubblica', True) is not False], key=lambda v: v.get('data', ''), reverse=True)
+    pub = sorted([v for v in vids if v.get('pubblica', True) is not False and uscito(v)], key=lambda v: v.get('data', ''), reverse=True)
     voce = lambda v: f"<a class=ep href=\"video/{e(v['slug'])}/\"><img src=\"video/{e(v['slug'])}/thumb.jpg\" alt=\"\"><div><div class=reg>{e(v.get('regione', ''))}</div><h3>{e(v['titolo'])}</h3></div></a>"
     fam = [v for v in pub if v.get('serie', 'famiglie') != 'cognomi']; cog = [v for v in pub if v.get('serie') == 'cognomi']
     # 24/10/2026: il canale racconta le famiglie; i video sui cognomi restano in una sezione a parte, sotto
@@ -132,7 +166,8 @@ def main():
     oggi = datetime.date.today().isoformat()
     sm = ''.join(f"<url><loc>{BASE}/video/{v['slug']}/</loc><lastmod>{v.get('data', oggi)}</lastmod></url>" for v in pub)
     open(os.path.join(QUI, 'sitemap.xml'), 'w').write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>{BASE}/</loc></url>{sm}</urlset>')
-    print(f'sito: {len(vids)} pagine video, {len(pub)} in home')
+    attesa = [f"{v['slug'][:40]} ({quando(v)})" for v in vids if not uscito(v)]
+    print(f'sito: {len(vids)} pagine video, {len(pub)} in home' + (f"; in attesa dell'uscita: {', '.join(attesa)}" if attesa else ''))
 
 
 if __name__ == '__main__':

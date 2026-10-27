@@ -1,0 +1,31 @@
+# Rigenera il sito ogni ora: gli episodi programmati compaiono in home appena il video esce su YouTube
+# (campo `uscita` in dati/video/<slug>.json, vedi build.py). Aggiunto il 27/10/2026.
+name: Uscite programmate
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: uscite
+  cancel-in-progress: false
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rigenera il sito
+        run: python3 build.py
+      - name: Pubblica se qualcosa è cambiato
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then echo "niente da pubblicare"; exit 0; fi
+          git config user.name "casato-uscite"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Uscita programmata: episodi in home ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
+          gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "build di Pages non richiesta (parte comunque dal push)"
