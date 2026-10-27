@@ -1,0 +1,631 @@
+{
+ "titolo": "Le 12 famiglie sarde più RICCHE (una ha cominciato con i carri a cavallo)",
+ "slug": "le-12-famiglie-sarde-piu-ricche-una-ha-cominciato-con-i-carri-a-cavallo",
+ "link": "https://casatoitaliano.it/video/le-12-famiglie-sarde-piu-ricche-una-ha-cominciato-con-i-carri-a-cavallo/",
+ "materiali": {
+  "reali": [
+   {
+    "titolo": "File:Cala Goloritze o.jpg",
+    "autore": "delaere",
+    "licenza": "CC BY 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Cala_Goloritze_o.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Torre della Pelosa - Stintino (SS).jpg",
+    "autore": "CapoDelFalcone.JPG: Mihael Grmek derivative work: Gianni Careddu (talk)",
+    "licenza": "CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Torre_della_Pelosa_-_Stintino_%28SS%29.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Cagliari, vista da piazzetta mercede mundula 00.jpg",
+    "autore": "Sailko",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Cagliari%2C_vista_da_piazzetta_mercede_mundula_00.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Chiesa Santa Maria Sibiola Serdiana.jpg",
+    "autore": "www.synkadv.com",
+    "licenza": "CC BY 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Chiesa_Santa_Maria_Sibiola_Serdiana.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Vinitaly 2011 sign.jpg",
+    "autore": "Bruno Cordioli",
+    "licenza": "CC BY 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Vinitaly_2011_sign.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Cagliari haven 2018 3.jpg",
+    "autore": "Smiley.toerist",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Cagliari_haven_2018_3.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Bastione di Saint Remy - Cagliari, Italy 2024-03-28.jpg",
+    "autore": "Ryan Hodnett",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Bastione_di_Saint_Remy_-_Cagliari,_Italy_2024-03-28.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:1970 European Car of the Year - Fiat 128 - Umberto Agnelli & Dante Giacosa - CROPPED.jpg",
+    "autore": "Original:  Eric Koch for Anefo  / Derivative work:  Danyele",
+    "licenza": "CC BY 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:1970_European_Car_of_the_Year_-_Fiat_128_-_Umberto_Agnelli_%26_Dante_Giacosa_-_CROPPED.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Sardegna palau - panoramio.jpg",
+    "autore": "brunobarbato",
+    "licenza": "CC BY 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Sardegna_palau_-_panoramio.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Rena Bianca Beach, Santa Teresa Gallura.jpg",
+    "autore": "Or kriminal",
+    "licenza": "CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Rena_Bianca_Beach,_Santa_Teresa_Gallura.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Tourists at Capo d'Orso, Palau, Sardinia, Italy.jpg",
+    "autore": "Marek Ślusarczyk (Tupungato) Photo gallery",
+    "licenza": "CC BY 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Tourists_at_Capo_d%27Orso,_Palau,_Sardinia,_Italy.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Badesi - Spiaggia di Poltu Biancu - panoramio.jpg",
+    "autore": "Alessandro Zenari",
+    "licenza": "CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Badesi_-_Spiaggia_di_Poltu_Biancu_-_panoramio.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Aggius, panorama (01).jpg",
+    "autore": "Gianni Careddu",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Aggius%2C_panorama_%2801%29.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Sardinia, Sassari, Piazza d'Italia, Prefettura, monumento a Vittorio Emanuele II.jpg",
+    "autore": "Dr. Thomas Liptak",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Sardinia%2C_Sassari%2C_Piazza_d%27Italia%2C_Prefettura%2C_monumento_a_Vittorio_Emanuele_II.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Porto Cervo 85DSC 0168 (49690429046).jpg",
+    "autore": "János Korom Dr. >17 Million views from Wien, Austria",
+    "licenza": "CC BY-SA 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Porto_Cervo_85DSC_0168_%2849690429046%29.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:20260421 Supramonte1.jpg",
+    "autore": "Nivora",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:20260421_Supramonte1.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Thiesi - Panorama (02).jpg",
+    "autore": "Gianni Careddu",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Thiesi_-_Panorama_%2802%29.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Poetto beach.jpg",
+    "autore": "Chris",
+    "licenza": "CC BY 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Poetto_beach.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Arsenale la maddalena 2.jpg",
+    "autore": "br1dotcom",
+    "licenza": "CC BY 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Arsenale_la_maddalena_2.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Cese di Preturo.jpg",
+    "autore": "Lasacrasillaba",
+    "licenza": "CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Cese_di_Preturo.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Santa giusta, cattedrale di santa giusta, 1135-45, esterno 01.jpg",
+    "autore": "Sailko",
+    "licenza": "CC BY 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Santa_giusta%2C_cattedrale_di_santa_giusta%2C_1135-45%2C_esterno_01.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Sanluri - Panorama (01).jpg",
+    "autore": "Gianni Careddu",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Sanluri_-_Panorama_%2801%29.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Santa Teresa Gallura - Capo Testa (04).JPG",
+    "autore": "Gianni Careddu",
+    "licenza": "CC BY-SA 3.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Santa_Teresa_Gallura_-_Capo_Testa_%2804%29.JPG",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Tiscali.jpg",
+    "autore": "The original uploader was Myworld at Italian Wikipedia.",
+    "licenza": "CC BY-SA 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Tiscali.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Stagno Santa Giusta.jpg",
+    "autore": "Cristiano Cani",
+    "licenza": "CC BY 2.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Stagno_Santa_Giusta.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Skyline terrazze Duomo.jpg",
+    "autore": "Cris*Milano",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Skyline_terrazze_Duomo.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Unipol Domus interior from mainstand.jpg",
+    "autore": "Municipality of Cagliari",
+    "licenza": "CC BY-SA 3.0 it",
+    "link": "https://commons.wikimedia.org/wiki/File:Unipol_Domus_interior_from_mainstand.jpg",
+    "fonte": "Wikimedia Commons"
+   },
+   {
+    "titolo": "File:Stintino - La Pelosa (03).JPG",
+    "autore": "Gianni Careddu",
+    "licenza": "CC BY-SA 4.0",
+    "link": "https://commons.wikimedia.org/wiki/File:Stintino_-_La_Pelosa_%2803%29.JPG",
+    "fonte": "Wikimedia Commons"
+   }
+  ],
+  "generati": {
+   "immagini": 45,
+   "clip": 3,
+   "modello": "gpt_image_2"
+  },
+  "motion": 165,
+  "dati_mappe": [
+   {
+    "titolo": "Confini amministrativi italiani (openpolis/geojson-italy, dati ISTAT)",
+    "autore": "openpolis",
+    "licenza": "CC BY 4.0",
+    "link": "https://github.com/openpolis/geojson-italy"
+   }
+  ]
+ },
+ "fonti_ricerca": [
+  {
+   "titolo": "lebensmittelpraxis.de",
+   "url": "https://lebensmittelpraxis.de/lp-international/189-lpinternational-nachrichten/30125-italien-fratelli-ibba-crai-kauft-supermercati-gieffe.html"
+  },
+  {
+   "titolo": "atoka.io",
+   "url": "https://atoka.io/public/it/azienda/superemme-srl/89a27a72cfdc"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/economia/lad-di-pan-e-hardis-piu-vicini-ai-sardi-con-prodotti-locali-e-negozi-sostenibili-g7c84yzx"
+  },
+  {
+   "titolo": "wikipedia.org",
+   "url": "https://it.wikipedia.org/wiki/Argiolas"
+  },
+  {
+   "titolo": "linkiesta.it",
+   "url": "https://www.linkiesta.it/2026/07/a-serdiana-argiolas-trasforma-il-vino-in-ospitalita/"
+  },
+  {
+   "titolo": "winebow.com",
+   "url": "https://www.winebow.com/our-brands/argiolas"
+  },
+  {
+   "titolo": "forbes.it",
+   "url": "https://forbes.it/2023/09/28/cantina-argiolas-sardegna-resto-mondo/"
+  },
+  {
+   "titolo": "winenews.it",
+   "url": "https://winenews.it/en/?p=330784"
+  },
+  {
+   "titolo": "thedrinksbusiness.com",
+   "url": "https://www.thedrinksbusiness.com/2018/12/argiolas-celebrates-80-years-of-winemaking-in-sardinia/"
+  },
+  {
+   "titolo": "meranowinefestival.com",
+   "url": "https://meranowinefestival.com/wp-content/uploads/2019/09/storia-azienda.pdf"
+  },
+  {
+   "titolo": "avvinare.com",
+   "url": "https://avvinare.com/2009/06/23/passing-of-a-patriarch-antonio-argiolas-dies-at-102/"
+  },
+  {
+   "titolo": "winewithseth.com",
+   "url": "https://www.winewithseth.com/winewiki/argiolas/"
+  },
+  {
+   "titolo": "lavocedinewyork.com",
+   "url": "https://lavocedinewyork.com/food/cucina-italiana/2017/09/25/dalla-sardegna-alla-california-e-ritorno-argiolas-e-il-vino-nel-destino"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/verona-sisters-valentina-and-francesca-argiolas-receive-the-vinitaly-international-award-ymfzarzw"
+  },
+  {
+   "titolo": "fradelloni.it",
+   "url": "https://www.fradelloni.it/"
+  },
+  {
+   "titolo": "fradelloni.it",
+   "url": "https://www.fradelloni.it/storia-azienda-logistica/"
+  },
+  {
+   "titolo": "ondulor.com",
+   "url": "https://www.ondulor.com/azienda/team"
+  },
+  {
+   "titolo": "ondulor.com",
+   "url": "https://www.ondulor.com/"
+  },
+  {
+   "titolo": "ondulor.com",
+   "url": "https://www.ondulor.com/azienda"
+  },
+  {
+   "titolo": "ondulor.com",
+   "url": "https://www.ondulor.com/ondulor-50-anni-insieme"
+  },
+  {
+   "titolo": "aziende.it",
+   "url": "https://www.aziende.it/ondulor-s-r-l"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/acentro-turns-70-and-confirms-its-position-as-the-no-1-dealer-in-sardinia-duyw0a2x"
+  },
+  {
+   "titolo": "atoka.io",
+   "url": "https://atoka.io/public/it/azienda/acentro-srl/ef7b0a622376"
+  },
+  {
+   "titolo": "gruppoacentro.it",
+   "url": "https://www.gruppoacentro.it/"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/sardinia/nanni-fodde-quot-good-taste-and-thrift-saved-mequot-sh4zcgie"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/news-sardegna/quella-partita-a-golf-con-agnellinanni-fodde-e-l-impero-acentro-tkmg94e3"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/acentro-already-a-leader-on-the-island-acquires-citroen-and-peugeot-rh9casng"
+  },
+  {
+   "titolo": "money.it",
+   "url": "https://www.money.it/top-10-aziende-di-cagliari-per-fatturato"
+  },
+  {
+   "titolo": "ecoseven.net",
+   "url": "https://www.ecoseven.net/lavoro/quirinale-muntoni-risultato-che-condivido-con-famiglia-delphina-e-comunita-territori-in-cui-operiamo/"
+  },
+  {
+   "titolo": "italpress.com",
+   "url": "https://www.italpress.com/?p=449038"
+  },
+  {
+   "titolo": "intesasanpaolo.com",
+   "url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/newsroom/comunicati-stampa-it/2021/07/2021_07_09_IntesaSP_Sloan_Delphina.pdf"
+  },
+  {
+   "titolo": "charmingsardinia.com",
+   "url": "https://www.charmingsardinia.com/sardegna/Delphina-hotels-resort.html"
+  },
+  {
+   "titolo": "linkiesta.it",
+   "url": "https://www.linkiesta.it/2025/09/trentanni-di-ospitalita-sarda/"
+  },
+  {
+   "titolo": "qualitytravel.it",
+   "url": "https://www.qualitytravel.it/delphina-hotels-resorts-apre-da-giugno-dopo-un-investimento-da-15-milioni/94347"
+  },
+  {
+   "titolo": "ilsole24ore.com",
+   "url": "https://en.ilsole24ore.com/art/delphina-brilla-le-star-AGDZysSD"
+  },
+  {
+   "titolo": "forbes.it",
+   "url": "https://forbes.it/2022/01/13/delphina-catena-alberghiera-sardegna-green-al-mondo/"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/azienda-delphina-spa-01541220909"
+  },
+  {
+   "titolo": "agenziaentrate.gov.it",
+   "url": "https://agenziaentrate.gov.it/portale/documents/20143/5863604/Determina+102-2024+gasolio.pdf/044b4c98-5c6e-41d5-40aa-67c1ca77f52a"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/azienda-testoni-srl-00060620903"
+  },
+  {
+   "titolo": "pinnaformaggi.it",
+   "url": "https://www.pinnaformaggi.it/en/company/story"
+  },
+  {
+   "titolo": "atoka.io",
+   "url": "https://atoka.io/public/it/azienda/flli-pinna-industria-casearia-spa/ca6bcd09e735"
+  },
+  {
+   "titolo": "pinnaformaggi.it",
+   "url": "https://www.pinnaformaggi.it/it/azienda/storia"
+  },
+  {
+   "titolo": "gamberorossointernational.com",
+   "url": "https://www.gamberorossointernational.com/?p=371566"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/lavori-di-adeguamento-dellitinerario-sassari-olbia-della-s-s-729/"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/intersezione-stradale-de-is-pontis-paris-nei-comuni-di-cagliari-quartu-s-e-quartucciu-selargius-e-monserrato/"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/chi-siamo/profilo/"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/realizzazione-nuova-residenza-universitaria-comune-di-cagliari/"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/category/progetti/residenziale-e-strutture-ricettive/"
+  },
+  {
+   "titolo": "impresapellegrini.it",
+   "url": "https://impresapellegrini.it/tunisie-autoroutes-tunisia/"
+  },
+  {
+   "titolo": "gruppocellino.it",
+   "url": "https://www.gruppocellino.it/it/pasta.html"
+  },
+  {
+   "titolo": "gruppocellino.it",
+   "url": "https://www.gruppocellino.it/it/about.html"
+  },
+  {
+   "titolo": "dinamobasket.com",
+   "url": "https://www.dinamobasket.com/sites/default/files/2023-09/Comunicato%2520stampa%2520n%25206%2520del%252027-08-2016%2520Dinamo%2520e%2520Pasta%2520Cellino%2520eccellenze%2520made%2520in%2520Sardinia.pdf"
+  },
+  {
+   "titolo": "ice.it",
+   "url": "https://plmaams25.eventidigitali.ice.it/azienda/pastificio-f-lli-cellino-s-p-a"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/cellino-brothers-pasta-at-controlled-prices-throughout-2025-in-sardinia-h9r4mbuq"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/economia/alberto-cellino-lisola-crescera-con-agricoltura-e-zootecnia-grt4ri6u"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/economia/confidustria-sardegna-alberto-cellino-e-il-nuovo-presidente-m02uxp72"
+  },
+  {
+   "titolo": "molinosimec.it",
+   "url": "https://www.molinosimec.it/"
+  },
+  {
+   "titolo": "ubibanca.it",
+   "url": "https://www.ubibanca.it/content/dam/portalgroup/repository-documenti/newsroom/comunicati-stampa-it/2024/02/2024_02_15_CS%20Accordo%20ISP%20Superemme.pdf"
+  },
+  {
+   "titolo": "shippingitaly.it",
+   "url": "https://shippingitaly.it/2021/08/25/via-libera-al-secondo-rigassificatore-di-oristano-di-ivi-petrolifera"
+  },
+  {
+   "titolo": "ivi.company",
+   "url": "https://www.ivi.company/chi-siamo/"
+  },
+  {
+   "titolo": "federmetano.it",
+   "url": "https://federmetano.it/wp-content/uploads/2024/09/CS_IVI-Petrolifera-inaugura-limpianto-di-distribuzione-GNL-e-GNC-Unico-in-Europa.pdf"
+  },
+  {
+   "titolo": "oristano.it",
+   "url": "https://www.comune.oristano.it/.galleries/doc-documenti/PIANO-DI-EMERGENZA-IVI-PETROLIFERA.pdf"
+  },
+  {
+   "titolo": "ivi.company",
+   "url": "https://www.ivi.company/energia/"
+  },
+  {
+   "titolo": "federmetano.it",
+   "url": "https://www.federmetano.it/wp-content/uploads/2024/09/CS_BLU-PLUS_-Inaugurazione-dellImpianto-di-Distribuzione-a-metano-nel-Porto-Industriale_IVI-PETROLIFERA.pdf"
+  },
+  {
+   "titolo": "agcm.it",
+   "url": "https://test01.agcm.it/dotcmsdoc/bollettini/2025/4-25.pdf"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/giangiacomo-ibba-named-knight-of-labor-t9bejxz7"
+  },
+  {
+   "titolo": "forbes.it",
+   "url": "https://forbes.it/2026/05/28/mattarella-nomina-25-nuovi-cavalieri-del-lavoro-chi-sono-gli-imprenditori-premiati"
+  },
+  {
+   "titolo": "ilsole24ore.com",
+   "url": "https://en.ilsole24ore.com/art/giangiacomo-ibba-1976-oristano-tertiary-large-distribution-AI8gArKD"
+  },
+  {
+   "titolo": "cdp.it",
+   "url": "https://www.cdp.it/resources/cms/documents/Comunicato%20stampa%20n.%20100%20del%2012%2008%202020_F.LLI%20IBBA.pdf"
+  },
+  {
+   "titolo": "esmmagazine.com",
+   "url": "https://www.esmmagazine.com/features/winning-ways-crai-president-giangiacomo-ibba-on-transforming-the-cooperative-chain-312386"
+  },
+  {
+   "titolo": "forbes.it",
+   "url": "https://forbes.it/2024/11/21/futuro-grande-distribuzione-crai/"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/centro-cash-twenty-years-of-growth-in-sardinia-tlqogc5z"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/en/deloitte-private-once-again-recognizes-fratelli-ibba-as-an-example-of-italian-excellence-w64r0aes"
+  },
+  {
+   "titolo": "spar-international.com",
+   "url": "https://spar-international.com/news/spar-expands-its-retail-footprint-in-sardinia/"
+  },
+  {
+   "titolo": "dissapore.com",
+   "url": "https://www.dissapore.com/notizie/supermercati-il-marchio-gieffe-e-stato-acquisito-dal-gruppo-abbi-crai"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/fratelli-ibba-srl-00042340950"
+  },
+  {
+   "titolo": "isprambiente.gov.it",
+   "url": "https://www.isprambiente.gov.it/files2018/controlli-ambientali/Chemtech190919FLUORSIDMuntoni.pdf"
+  },
+  {
+   "titolo": "wikipedia.org",
+   "url": "https://it.wikipedia.org/wiki/Fluorsid"
+  },
+  {
+   "titolo": "italpress.com",
+   "url": "https://www.italpress.com/fluorsid-punta-sulla-sostenibilita-e-guarda-al-medio-oriente/"
+  },
+  {
+   "titolo": "qds.it",
+   "url": "https://qds.it/metzinger-fluorsid-la-domanda-di-alluminio-continuera-a-crescere/"
+  },
+  {
+   "titolo": "fluorsid.com",
+   "url": "https://fluorsid.com/who-we-are/where/milan-italy/"
+  },
+  {
+   "titolo": "borsaefinanza.it",
+   "url": "https://borsaefinanza.it/tommaso-giulini-chi-e-cosa-fa-presidente-cagliari/"
+  },
+  {
+   "titolo": "wikipedia.org",
+   "url": "https://it.wikipedia.org/wiki/Tommaso_Giulini"
+  },
+  {
+   "titolo": "fluorsid.com",
+   "url": "https://www.fluorsid.com/"
+  },
+  {
+   "titolo": "ansa.it",
+   "url": "https://www.ansa.it/english/news/2014/06/11/soccer-cagliari-sold-to-milan-businessman_bee2da79-b68d-4290-8c57-ff1e66b7fb6c.html"
+  },
+  {
+   "titolo": "wikipedia.org",
+   "url": "https://it.wikipedia.org/wiki/Massimo_Cellino"
+  },
+  {
+   "titolo": "argiolas.it",
+   "url": "https://www.argiolas.it/argiolas/"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/argiolas-spa-potra-anche-far-uso-della-denominazione-abbreviata-ar-spa-00273980920"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/fradelloni-raffaele-e-figli-spa-ed-in-forma-abbreviata-fradelloni-tras-01510940925"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/regione/sardegna/3"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/regione/sardegna/2"
+  },
+  {
+   "titolo": "testonisrl.com",
+   "url": "https://www.testonisrl.com/chi-siamo/"
+  },
+  {
+   "titolo": "testonisrl.com",
+   "url": "https://www.testonisrl.com"
+  },
+  {
+   "titolo": "pinnaformaggi.it",
+   "url": "https://www.pinnaformaggi.it"
+  },
+  {
+   "titolo": "pinnaformaggi.it",
+   "url": "https://pinnaformaggi.it/en/company/story"
+  },
+  {
+   "titolo": "atoka.io",
+   "url": "https://atoka.io/public/it/azienda/impresa-di-costruzioni-ing-raffaello-pellegrini-srl-denominazione-abbreviata-impresa-pellegrini-srl/ac89c65875c8"
+  },
+  {
+   "titolo": "molinosimec.it",
+   "url": "https://www.molinosimec.it"
+  },
+  {
+   "titolo": "companyreports.it",
+   "url": "https://www.companyreports.it/societa-industria-molitoria-ercole-cellino-spa-denabbr-simec-spa-00218500924"
+  },
+  {
+   "titolo": "breakingtravelnews.com",
+   "url": "https://www.breakingtravelnews.com/focus/article/breaking-travel-news-interview-elena-muntoni-brand-manager-delphina-ho1/"
+  },
+  {
+   "titolo": "unionesarda.it",
+   "url": "https://www.unionesarda.it/3-minuti-con/casa-dello-studente-in-dirittura-d-arrivo-aqjodod5"
+  }
+ ],
+ "numero": "22",
+ "regione": "Sardegna",
+ "data": "2026-10-27",
+ "pubblica": true,
+ "serie": "famiglie",
+ "youtube_id_privato": "D0u4NxmJ2w0"
+}
