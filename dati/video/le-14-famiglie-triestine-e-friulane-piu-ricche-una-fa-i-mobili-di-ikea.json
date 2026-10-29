@@ -2,7 +2,6 @@
  "titolo": "Le 14 famiglie triestine e friulane più RICCHE (una fa i mobili di IKEA)",
  "slug": "le-14-famiglie-triestine-e-friulane-piu-ricche-una-fa-i-mobili-di-ikea",
  "link": "https://casatoitaliano.it/video/le-14-famiglie-triestine-e-friulane-piu-ricche-una-fa-i-mobili-di-ikea/",
- "youtube_id": null,
  "materiali": {
   "reali": [
    {
@@ -789,5 +788,6 @@
  "regione": "Friuli Venezia Giulia",
  "data": "2026-10-28",
  "pubblica": true,
- "serie": "famiglie"
+ "serie": "famiglie",
+ "youtube_id_privato": "7CzsU_4SPg0"
 }
