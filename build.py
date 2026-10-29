@@ -12,7 +12,7 @@ episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` espl
 Una GitHub Action rigenera il sito ogni giorno alle 12:07 italiane, così l'episodio compare da solo dopo l'uscita delle 12.
 24/10/2026: il canale racconta le famiglie. In home il motto, prima le famiglie e poi la serie dei cognomi (campo `serie`: «famiglie», default, o «cognomi»). Stile: TEMA=notte (default) o carta.
 """
-import html, json, os, glob, shutil, datetime, re
+import html, json, os, glob, shutil, datetime, re, sys
 
 QUI = os.path.dirname(os.path.abspath(__file__))
 BASE = 'https://casatoitaliano.it'
@@ -119,7 +119,7 @@ def nome_file(t):
 def pagina(v):
     m = v.get('materiali') or {}; g = m.get('generati') or {}
     yt = f'https://www.youtube.com/watch?v={e(v["youtube_id"])}' if v.get('youtube_id') else 'https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg'
-    ric = ''.join(f"<li><a href=\"{e(f['url'])}\">{e(f['titolo'])}</a></li>" for f in v.get('fonti_ricerca', []))
+    ric = ''.join(f"<li><a href=\"{e(f['url'].replace(' ', '%20'))}\">{e(f['titolo'])}</a></li>" for f in v.get('fonti_ricerca', []))
     # solo le attribuzioni obbligatorie (licenze CC BY / CC BY-SA), senza minutaggi (decisione di Alessandro, 15/10/2026)
     cr = ''.join(f"<div class=cr><span><a href=\"{e(r.get('link', ''))}\">{nome_file(r.get('titolo', ''))}</a><br>"
                  f"<span class=l>{' · '.join(e(x) for x in (r.get('autore'), r.get('licenza')) if x)}</span></span></div>"
@@ -142,10 +142,23 @@ def pagina(v):
     return scheletro(f"{v['titolo']} · Casato Italiano", corpo, f"Fonti e crediti del video «{v['titolo']}»", f"{BASE}/video/{v['slug']}/", '../../')
 
 
+# 29/10/2026: appunti di lavoro finiti come titoli delle fonti (EP Toscana, EP Friuli). Il sito non si genera se capita di nuovo.
+SPIA = re.compile(r'verifica da zero|verificat|\.json|\.py\b|bibbia|soglia_|interno:|TODO|da verificare|01_script|02_|fase \d', re.I)
+def controlla_fonti(v):
+    err = []
+    for f in v.get('fonti_ricerca', []):
+        t, u = f.get('titolo', ''), f.get('url', '')
+        if (SPIA.search(t) or t.startswith('http') or re.fullmatch(r'[a-z0-9]+(_[a-z0-9]+)+', t)
+                or not u.startswith('http') or ' ; ' in u):
+            err.append(f"{v['slug']}: «{t}» → {u}")
+    return err
+
 def main():
     os.makedirs(os.path.join(QUI, 'assets'), exist_ok=True)
     open(os.path.join(QUI, 'assets/stile.css'), 'w').write(CSS)
     vids = []
+    errori = [x for f in sorted(glob.glob(os.path.join(QUI, 'dati/video/*.json'))) for x in controlla_fonti(json.load(open(f, encoding='utf-8')))]
+    if errori: sys.exit('FONTI NON PUBBLICABILI:\n' + '\n'.join(errori))
     for f in sorted(glob.glob(os.path.join(QUI, 'dati/video/*.json'))):
         v = json.load(open(f, encoding='utf-8')); d = os.path.join(QUI, 'video', v['slug']); os.makedirs(d, exist_ok=True)
         t = f[:-5] + '.jpg'
