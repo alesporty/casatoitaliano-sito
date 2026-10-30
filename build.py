@@ -7,9 +7,11 @@ Dati: dati/video/<slug>.json, cioè il `05_master/pagina_video.json` dell'episod
 con in più i campi della pubblicazione: `numero`, `regione`, `youtube_id`, `data` (AAAA-MM-GG) e la thumbnail in
 dati/video/<slug>.jpg. Ogni episodio con la sua pagina entra anche nella home (decisione di Alessandro del 15/10/2026: a ogni
 episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` esplicito lo tiene fuori dalla home.
-27/10/2026: un episodio entra in home e nella sitemap solo quando il video è uscito: serve `youtube_id` e, se c'è, `uscita`
+27/10/2026: un episodio entra in home e nella sitemap solo quando il video è uscito: serve `youtube_id` e `uscita`
 (data e ora di pubblicazione di YouTube, ISO con fuso, es. 2026-10-28T11:00:00Z) già passata. Prima la pagina singola dice quando esce.
-Una GitHub Action rigenera il sito ogni giorno alle 12:07 italiane, così l'episodio compare da solo dopo l'uscita delle 12.
+Una GitHub Action rigenera il sito ogni giorno dopo l'uscita delle 13 (12:17 UTC), così l'episodio compare da solo.
+30/10/2026: se YouTube risponde, decide YouTube (video pubblico o no, via oEmbed); la data `uscita` vale solo quando YouTube
+non è raggiungibile e per scrivere sulla pagina quando esce. CASATO_YT=0 per non chiedere a YouTube.
 24/10/2026: il canale racconta le famiglie. In home il motto, prima le famiglie e poi la serie dei cognomi (campo `serie`: «famiglie», default, o «cognomi»). Stile: TEMA=notte (default) o carta.
 """
 import html, json, os, glob, shutil, datetime, re, sys
@@ -96,14 +98,38 @@ def uscita(v):
     return d if d.tzinfo else d.replace(tzinfo=datetime.timezone.utc)
 
 
+def pubblico_su_youtube(yid):
+    """30/10/2026: chiede a YouTube se il video è pubblico (oEmbed, nessuna chiave): True pubblico, False privato o
+    programmato, None se YouTube non risponde (es. fuori dalla GitHub Action): allora vale la data `uscita` dei dati.
+    Così un'uscita spostata in YouTube Studio non porta in home un video ancora privato (Puglia, 30/10/2026)."""
+    if yid in _STATO_YT: return _STATO_YT[yid]
+    import urllib.request, urllib.error
+    u = f'https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v={yid}'
+    try:
+        urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'casatoitaliano-build'}), timeout=15).read(); r = True
+    except urllib.error.HTTPError as x:
+        r = False if x.code in (400, 401, 403, 404) else None
+    except Exception:
+        r = None
+    _STATO_YT[yid] = r
+    return r
+
+
+_STATO_YT = {}
+
+
 def uscito(v):
+    if not v.get('youtube_id'): return False
+    if os.environ.get('CASATO_YT', '1') != '0':
+        s = pubblico_su_youtube(v['youtube_id'])
+        if s is not None: return s
     u = uscita(v)
-    return bool(v.get('youtube_id')) and (u is None or u <= ADESSO)
+    return u is not None and u <= ADESSO   # senza YouTube e senza data: si aspetta (un video caricato privato non va in home)
 
 
 def quando(v):
     u = uscita(v)
-    if not u: return 'presto'
+    if not u or u <= ADESSO: return 'a breve'   # data passata ma video ancora privato: uscita spostata
     try:
         from zoneinfo import ZoneInfo
         u = u.astimezone(ZoneInfo('Europe/Rome'))

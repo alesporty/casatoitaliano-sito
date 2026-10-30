@@ -1,9 +1,10 @@
-# Rigenera il sito una volta al giorno, alle 12:07 italiane (11:07 UTC; con l'ora legale 13:07): gli episodi programmati alle 12 compaiono in home il giorno dell'uscita
+# Rigenera il sito una volta al giorno alle 12:17 UTC (13:17 italiane d'inverno, 14:17 d'estate): i video escono alle 12:00 UTC.
+# Dal 30/10/2026 build.py chiede a YouTube se ogni video è pubblico: un'uscita spostata in Studio non porta più in home un video privato
 # (campo `uscita` in dati/video/<slug>.json, vedi build.py). Aggiunto il 27/10/2026; giornaliero da subito su richiesta di Alessandro.
 name: Uscite programmate
 on:
   schedule:
-    - cron: "7 11 * * *"
+    - cron: "17 12 * * *"
   workflow_dispatch:
 permissions:
   contents: write
