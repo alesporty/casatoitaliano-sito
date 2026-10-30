@@ -206,6 +206,9 @@ def main():
     sm = ''.join(f"<url><loc>{BASE}/video/{v['slug']}/</loc><lastmod>{v.get('data', oggi)}</lastmod></url>" for v in pub)
     open(os.path.join(QUI, 'sitemap.xml'), 'w').write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>{BASE}/</loc></url>{sm}</urlset>')
     attesa = [f"{v['slug'][:40]} ({quando(v)})" for v in vids if not uscito(v)]
+    if os.environ.get('GITHUB_ACTIONS'):   # visibile nelle annotazioni della run
+        risp = sum(1 for x in _STATO_YT.values() if x is not None)
+        print(f"::notice title=YouTube::{risp} video su {len(_STATO_YT)} verificati su YouTube; in home {len(pub)}")
     print(f'sito: {len(vids)} pagine video, {len(pub)} in home' + (f"; in attesa dell'uscita: {', '.join(attesa)}" if attesa else ''))
 
 
