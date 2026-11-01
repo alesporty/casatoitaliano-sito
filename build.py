@@ -169,7 +169,7 @@ def pagina(v):
 
 
 # 29/10/2026: appunti di lavoro finiti come titoli delle fonti (EP Toscana, EP Friuli). Il sito non si genera se capita di nuovo.
-SPIA = re.compile(r'verifica da zero|verificat|\.json|\.py\b|bibbia|soglia_|interno:|TODO|da verificare|01_script|02_|fase \d', re.I)
+SPIA = re.compile(r'verifica da zero|verificat|\.json|\.py\b|bibbia|soglia_|interno:|\bTODO\b|da verificare|01_script|02_|fase \d', re.I)
 def controlla_fonti(v):
     err = []
     for f in v.get('fonti_ricerca', []):
