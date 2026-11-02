@@ -71,7 +71,7 @@ footer{text-align:center;color:var(--grigio);font:14px 'Inter',sans-serif;paddin
 @media (max-width:600px){body{font-size:18px}h1{font-size:32px}.motto{font-size:36px}.ep{grid-template-columns:1fr}}"""
 TEMA = os.environ.get('TEMA', 'notte')   # 24/10/2026: stile del sito (notte = come banner e grafiche; carta = stile dei cognomi)
 CSS = CSS_NOTTE if TEMA == 'notte' else CSS_CARTA
-MOTTO = "Le famiglie che possiedono l'Italia"
+MOTTO = "Orgoglio italiano, luogo per luogo"
 
 
 import hashlib
@@ -195,11 +195,11 @@ def main():
     fam = [v for v in pub if v.get('serie', 'famiglie') != 'cognomi']; cog = [v for v in pub if v.get('serie') == 'cognomi']
     # 24/10/2026: il canale racconta le famiglie; i video sui cognomi restano in una sezione a parte, sotto
     corpo = (f"<div class=motto>{e(MOTTO)}</div>"
-             "<p class=intro>Chi sono le famiglie più ricche d'Italia, regione per regione e tema per tema: da dove vengono, come hanno fatto i soldi "
-             "e quali dei loro marchi usi già ogni giorno. Per ogni video del canale, qui trovi le fonti della ricerca e i crediti di immagini, video e mappe.</p>"
+             "<p class=intro>Le famiglie, gli imprenditori e le aziende che sono partiti da un posto preciso d'Italia e sono arrivati lontano: "
+             "regione per regione, città per città, settore per settore. Per ogni video del canale, qui trovi le fonti della ricerca e i crediti di immagini, video e mappe.</p>"
              + (f"<div class=serie>Le famiglie</div>{''.join(voce(v) for v in fam)}" if fam else "<p>Il primo episodio arriva presto.</p>")
              + (f"<div class=serie>La prima serie: i cognomi</div>{''.join(voce(v) for v in cog)}" if cog else ''))
-    open(os.path.join(QUI, 'index.html'), 'w', encoding='utf-8').write(scheletro(f'Casato Italiano · {MOTTO}', corpo, f"Casato Italiano, il canale YouTube sulle famiglie più ricche d'Italia: fonti e crediti di ogni video", BASE + '/'))
+    open(os.path.join(QUI, 'index.html'), 'w', encoding='utf-8').write(scheletro(f'Casato Italiano · {MOTTO}', corpo, "Casato Italiano, il canale YouTube sull'orgoglio italiano, luogo per luogo: fonti e crediti di ogni video", BASE + '/'))
     open(os.path.join(QUI, '404.html'), 'w', encoding='utf-8').write(scheletro('Pagina non trovata · Casato Italiano',
         "<h1>Pagina non trovata</h1><p>Questa pagina non esiste. <a href=\"/\">Torna all'elenco dei video</a>.</p>", r='/'))
     oggi = datetime.date.today().isoformat()

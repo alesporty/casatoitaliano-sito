@@ -1,6 +1,6 @@
 # casatoitaliano-sito
 
-Sito delle fonti e dei crediti dei video di Casato Italiano («Le famiglie che possiedono l'Italia»), pubblicato con GitHub Pages. Stile «notte e oro» dal 24/10/2026 (`TEMA=carta` per lo stile precedente).
+Sito delle fonti e dei crediti dei video di Casato Italiano («Orgoglio italiano, luogo per luogo»), pubblicato con GitHub Pages. Stile «notte e oro» dal 24/10/2026 (`TEMA=carta` per lo stile precedente).
 
 ## Pubblicare un episodio
 1. Copia in `dati/video/<slug>.json` il `05_master/pagina_video.json` dell'episodio, con in più `numero`, `regione`, `youtube_id`, `data` (AAAA-MM-GG), `youtube_id` anche se il video è ancora privato, `uscita` (data e ora di pubblicazione su YouTube, ISO con fuso, es. `2026-10-28T12:00:00Z`: il `publishAt` di YouTube) e `serie` («famiglie», default, o «cognomi» per la prima serie). Il titolo è quello di YouTube.
