@@ -34,7 +34,7 @@ h1{font-size:40px;line-height:1.15;margin:.2em 0 .5em;font-weight:600}
 .thumb{width:100%;border:1px solid var(--terra);display:block}
 .yt{display:inline-block;margin:14px 0 6px;color:var(--rosso);font:600 16px 'Inter',sans-serif}
 h2{font-size:27px;font-weight:600;border-bottom:1px solid var(--ink);padding-bottom:4px;margin-top:2em}
-ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--rosso)}
+ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--rosso)}h3.fg{font-size:20px;font-weight:600;margin:1.6em 0 .2em}
 .cr{display:block;overflow-wrap:anywhere;padding:10px 0;border-bottom:1px dashed var(--terra);font-size:19px}
 .cr .m{font:500 14px 'Inter',sans-serif;color:var(--grigio);padding-top:4px}.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
 .nota{background:#f4ecda;border-left:3px solid var(--rosso);padding:12px 16px;font-style:italic}
@@ -58,7 +58,7 @@ h1{font:40px/1.12 'Anton',Impact,sans-serif;color:#fff;margin:.2em 0 .5em;letter
 .thumb{width:100%;border-radius:8px;display:block}
 .yt{display:inline-block;margin:14px 0 6px;color:var(--oro);font:700 16px 'Inter',sans-serif}
 h2{font:26px 'Anton',Impact,sans-serif;color:#fff;border-bottom:1px solid var(--linea);padding-bottom:6px;margin-top:2em;letter-spacing:.02em}
-ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--oro)}
+ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--oro)}h3.fg{font:21px/1.2 'Anton',Impact,sans-serif;color:#fff;letter-spacing:.02em;margin:1.6em 0 .2em}
 .cr{display:block;overflow-wrap:anywhere;padding:10px 0;border-bottom:1px dashed var(--linea);font-size:17px}
 .cr .m,.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
 .nota{background:var(--fondo2);border-left:3px solid var(--oro);padding:12px 16px}
@@ -145,7 +145,15 @@ def nome_file(t):
 def pagina(v):
     m = v.get('materiali') or {}; g = m.get('generati') or {}
     yt = f'https://www.youtube.com/watch?v={e(v["youtube_id"])}' if v.get('youtube_id') else 'https://www.youtube.com/channel/UCxcCEZ9jiKbM7oYoAsfrAKg'
-    ric = ''.join(f"<li><a href=\"{e(f['url'].replace(' ', '%20'))}\">{e(f['titolo'])}</a></li>" for f in v.get('fonti_ricerca', []))
+    # 05/11/2026 (EP31): fonti raggruppate per voce del video (campo `gruppo`); una fonte senza url (Registro delle Imprese:
+    # i suoi link portano a pagine d'errore) si scrive come testo, senza link.
+    li = lambda f: (f"<li><a href=\"{e(f['url'].replace(' ', '%20'))}\">{e(f['titolo'])}</a></li>" if f.get('url') else f"<li>{e(f['titolo'])}</li>")
+    ric, gp = '', None
+    for f in v.get('fonti_ricerca', []):
+        if f.get('gruppo') and f['gruppo'] != gp:
+            ric += ('</ul>' if gp else '') + f"<h3 class=fg>{e(f['gruppo'])}</h3><ul>"; gp = f['gruppo']
+        ric += li(f)
+    if gp: ric += '</ul>'
     # solo le attribuzioni obbligatorie (licenze CC BY / CC BY-SA), senza minutaggi (decisione di Alessandro, 15/10/2026)
     cr = ''.join(f"<div class=cr><span><a href=\"{e(r.get('link', ''))}\">{nome_file(r.get('titolo', ''))}</a><br>"
                  f"<span class=l>{' · '.join(e(x) for x in (r.get('autore'), r.get('licenza')) if x)}</span></span></div>"
@@ -157,7 +165,7 @@ def pagina(v):
         corpo += f"<a href=\"{yt}\">{img}</a>" if fuori else img
     corpo += (f"<a class=yt href=\"{yt}\">Guarda il video su YouTube</a>" if fuori
               else f"<p class=yt>Il video esce su YouTube {e(quando(v))}.</p>")
-    if ric: corpo += f"<h2>Fonti della ricerca</h2><ol>{ric}</ol>"
+    if ric: corpo += f"<h2>Fonti della ricerca</h2><p class=nota>Divise per voce del video, nell'ordine in cui compaiono. Le fonti del Registro delle Imprese sono indicate senza link: le sue pagine non si aprono senza accesso.</p>{ric}" if gp else f"<h2>Fonti della ricerca</h2><ol>{ric}</ol>"
     if cr: corpo += f"<h2>Attribuzioni di immagini e video</h2>{cr}"
     if g.get('immagini') or g.get('clip'):
         q = ' e '.join(x for x in (f"{g['immagini']} immagini" if g.get('immagini') else '', f"{g['clip']} clip" if g.get('clip') else '') if x)
@@ -170,12 +178,14 @@ def pagina(v):
 
 # 29/10/2026: appunti di lavoro finiti come titoli delle fonti (EP Toscana, EP Friuli). Il sito non si genera se capita di nuovo.
 SPIA = re.compile(r'verifica da zero|verificat|\.json|\.py\b|bibbia|soglia_|interno:|\bTODO\b|da verificare|01_script|02_|fase \d', re.I)
+SPAZZ = re.compile(r'too many requests|attention required|cloudflare|just a moment|security checkpoint|access denied|bot check|wartungsmodus|pagina non trovata|page not found', re.I)
 def controlla_fonti(v):
     err = []
     for f in v.get('fonti_ricerca', []):
         t, u = f.get('titolo', ''), f.get('url', '')
-        if (SPIA.search(t) or t.startswith('http') or re.fullmatch(r'[a-z0-9]+(_[a-z0-9]+)+', t)
-                or not u.startswith('http') or ' ; ' in u):
+        if (SPIA.search(t) or t.startswith('http') or re.fullmatch(r'[a-z0-9]+(_[a-z0-9]+)+', t) or not t.strip()
+                or (u and not u.startswith('http')) or ' ; ' in u or 'registroimprese' in u
+                or re.match(r'^(.{3,}?),\s*\1$', t.strip(), re.I) or SPAZZ.search(t)):
             err.append(f"{v['slug']}: «{t}» → {u}")
     return err
 
