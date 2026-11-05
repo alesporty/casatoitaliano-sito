@@ -454,6 +454,13 @@
         "fonte": "Wikimedia Commons"
       },
       {
+        "titolo": "File:Borgo Malanotte.jpg",
+        "autore": "Luca Valentini",
+        "licenza": "CC BY-SA 3.0",
+        "link": "https://commons.wikimedia.org/wiki/File:Borgo_Malanotte.jpg",
+        "fonte": "Wikimedia Commons"
+      },
+      {
         "titolo": "File:Tra le vigne di Collagù - wikiraduno Alle colline del prosecco abc 03.jpg",
         "autore": "Patafisik",
         "licenza": "CC BY-SA 4.0",
@@ -462,11 +469,11 @@
       }
     ],
     "generati": {
-      "immagini": 29,
-      "clip": 22,
+      "immagini": 43,
+      "clip": 8,
       "modello": "gpt_image_2"
     },
-    "motion": 255,
+    "motion": 256,
     "dati_mappe": [
       {
         "titolo": "Confini amministrativi italiani (openpolis/geojson-italy, dati ISTAT)",
