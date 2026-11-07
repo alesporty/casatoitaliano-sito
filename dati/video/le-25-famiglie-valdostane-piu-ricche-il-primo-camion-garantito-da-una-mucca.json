@@ -352,192 +352,6 @@
   },
   "fonti_ricerca": [
     {
-      "titolo": "aziende.it, Salumificio Maison Bertolin S.r.l. Siglabile 'Salumificio",
-      "url": "https://www.aziende.it/salumificio-maison-bertolin-s-r-l",
-      "id": "f001",
-      "gruppo": null
-    },
-    {
-      "titolo": "bertolin.com, Chi siamo - Maison Bertolin",
-      "url": "https://www.bertolin.com/chi-siamo/",
-      "id": "f002",
-      "gruppo": null
-    },
-    {
-      "titolo": "limprenditore.com, Salumificio Maison Bertolin, specialità di montagna nel piatto",
-      "url": "https://www.limprenditore.com/salumificio-maison-bertolin-specialita-di-montagna-nel-piatto/",
-      "id": "f003",
-      "gruppo": null
-    },
-    {
-      "titolo": "ufficiocamerale.it, DATI DELLA SOCIETÀ - ACTIS ALESINA S.R.L.",
-      "url": "https://www.ufficiocamerale.it/6569/actis-alesina-srl",
-      "id": "f004",
-      "gruppo": null
-    },
-    {
-      "titolo": "Wikipedia, Valtournenche (comune)",
-      "url": "https://it.wikipedia.org/wiki/Valtournenche_(comune)",
-      "id": "f005",
-      "gruppo": null
-    },
-    {
-      "titolo": "it.kompass.com, ACTIS ALESINA SRL • Lavori di installazione di impianti elettrici per ...",
-      "url": "https://it.kompass.com/c/actis-alesina-s-r-l/it0365516/",
-      "id": "f006",
-      "gruppo": null
-    },
-    {
-      "titolo": "attestazione.net, Dettaglio - Ricerca SOA",
-      "url": "https://www.attestazione.net/SoaEngine/Dettaglio?piva=01121470015",
-      "id": "f007",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Actis Alesina S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f008",
-      "gruppo": null
-    },
-    {
-      "titolo": "fatturatoitalia.it, Actis Alesina Srl Fatturato, bilanci, dipendenti e dati ufficiali",
-      "url": "https://www.fatturatoitalia.it/actis-alesina-srl-01121470015",
-      "id": "f009",
-      "gruppo": null
-    },
-    {
-      "titolo": "chacardsrl.it, Chi siamo - Chacard s.r.l.",
-      "url": "https://www.chacardsrl.it/chi-siamo/",
-      "id": "f010",
-      "gruppo": null
-    },
-    {
-      "titolo": "regione.vda.it, Région Autonome",
-      "url": "https://www.regione.vda.it/allegato.aspx?pk=113178",
-      "id": "f011",
-      "gruppo": null
-    },
-    {
-      "titolo": "regione.vda.it, Verbale di esecuzione d’urgenza di lavori indifferibili – intervento urgente di disgaggio, chiodatura e sostituzione del rivestimento corticale",
-      "url": "https://www.regione.vda.it/allegato.aspx?pk=119577",
-      "id": "f012",
-      "gruppo": null
-    },
-    {
-      "titolo": "chacardsrl.it, [PDF] N. 38422/35/00 del 07/08/2025 - Chacard s.r.l.",
-      "url": "https://www.chacardsrl.it/wp-content/uploads/2025/08/38433_-_CHACARD_S.R.L1_Copy_Copy.pdf",
-      "id": "f013",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Chacard S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f014",
-      "gruppo": null
-    },
-    {
-      "titolo": "aziende.money.it, Classifiche - Top Aziende a Pollein",
-      "url": "https://aziende.money.it/classifiche/comune/pollein",
-      "id": "f015",
-      "gruppo": null
-    },
-    {
-      "titolo": "ediluboz.it, Camera Valdostana delle Imprese e delle Professioni",
-      "url": "https://www.ediluboz.it/wp-content/uploads/2020/12/Visura-18112020-EDILUBOZ.pdf",
-      "id": "f016",
-      "gruppo": null
-    },
-    {
-      "titolo": "ediluboz.it, Anni di esperienza",
-      "url": "https://www.ediluboz.it/chi-siamo/",
-      "id": "f017",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Ediluboz S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f018",
-      "gruppo": null
-    },
-    {
-      "titolo": "regione.vda.it, ASSESSORATO",
-      "url": "https://www.regione.vda.it/allegato.aspx?pk=116329",
-      "id": "f019",
-      "gruppo": null
-    },
-    {
-      "titolo": "regione.vda.it, Bollettino Ufficiale della Regione Autonoma Valle d’Aosta",
-      "url": "https://www.regione.vda.it/amministrazione/leggi/bollettino_ufficiale_new/archive/2025/66-2025-0.pdf",
-      "id": "f020",
-      "gruppo": null
-    },
-    {
-      "titolo": "fatturatoitalia.it, Ediluboz Srl Fatturato, bilanci, dipendenti e dati ufficiali - FatturatoItalia",
-      "url": "https://www.fatturatoitalia.it/ediluboz_srl-00525930079",
-      "id": "f021",
-      "gruppo": null
-    },
-    {
-      "titolo": "aziende.it, Vda Carni Srl: fatturato 2024 e P.IVA 01184860078",
-      "url": "https://www.aziende.it/vda-carni-s-r-l",
-      "id": "f022",
-      "gruppo": null
-    },
-    {
-      "titolo": "aostasera.it, Crisi, si arrendono due storiche aziende. In liquidazione Alpicar e Valdostana Carni - Aostasera",
-      "url": "https://aostasera.it/notizie/economia/crisi-si-arrendono-due-storiche-aziende-in-liquidazione-alpicar-e-valdostana-carni/",
-      "id": "f023",
-      "gruppo": null
-    },
-    {
-      "titolo": "companyreports.it, Fatturato Vda Carni Srl (AO) Visura, Bilanci e Dati Ufficiali",
-      "url": "https://www.companyreports.it/vda-carni-srl-01184860078",
-      "id": "f024",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di VdA Carni S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f025",
-      "gruppo": null
-    },
-    {
-      "titolo": "reportaziende.it, AUTONOLEGGI GIMAX S.R.L. - Bilancio, Fatturato, Visure, Rating",
-      "url": "https://www.reportaziende.it/autonoleggi_gimax_srl_siglabile_gimax_srl_ao_06883550011",
-      "id": "f026",
-      "gruppo": null
-    },
-    {
-      "titolo": "ufficiocamerale.it, DATI DELLA SOCIETÀ - AUTONOLEGGI GIMAX S.R.L. SIGLABILE GIMAX SRL",
-      "url": "https://www.ufficiocamerale.it/2407/autonoleggi-gimax-srl-siglabile-gimax-srl",
-      "id": "f027",
-      "gruppo": null
-    },
-    {
-      "titolo": "amministrazionicomunali.it, AUTONOLEGGI GIMAX S.R.L. SIGLABILE GIMAX SRL",
-      "url": "https://www.amministrazionicomunali.it/valle-d-aosta/aosta/autonoleggi-gimax-srl-siglabile-gimax-srl",
-      "id": "f028",
-      "gruppo": null
-    },
-    {
-      "titolo": "aziende.money.it, AUTONOLEGGI GIMAX SRL SIGLABILE GIMAX SRL dati aziendali",
-      "url": "https://aziende.money.it/aziende/autonoleggi-gimax-srl-siglabile-gimax-srl-06883550011",
-      "id": "f029",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Autonoleggi Gimax S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f030",
-      "gruppo": null
-    },
-    {
-      "titolo": "fatturatoitalia.it, Gimax Srl | Bilancio, fatturato e dati economici",
-      "url": "https://www.fatturatoitalia.it/gimax-srl-06883550011",
-      "id": "f031",
-      "gruppo": null
-    },
-    {
       "titolo": "tourronde.com, contacts - Tour Ronde Srl",
       "url": "https://www.tourronde.com/contacts",
       "id": "f032",
@@ -562,19 +376,13 @@
       "gruppo": null
     },
     {
-      "titolo": "trasparenza.cittametropolitana.torino.it, ATTO N. DD 2190 DEL 21/04/2023 Rep. ...",
-      "url": "https://trasparenza.cittametropolitana.torino.it/media/9512/download",
-      "id": "f036",
-      "gruppo": null
-    },
-    {
       "titolo": "aziende.money.it, TOUR RONDE S.R.L. - 00593080070 - Dati aziendali ...",
       "url": "https://aziende.money.it/aziende/tour-ronde-srl-00593080070",
       "id": "f037",
       "gruppo": null
     },
     {
-      "titolo": "Registro delle imprese, soci di Tour Ronde S.r.l. (letti via Openapi il 04/11/2026)",
+      "titolo": "Registro delle imprese, soci di Tour Ronde S.r.l. (consultato il 04/11/2026)",
       "url": "",
       "id": "f038",
       "gruppo": null
@@ -589,138 +397,6 @@
       "titolo": "visurissima.it, ECOVAL S.R.L. 01174270072",
       "url": "http://www.visurissima.it/aziende/ECOVAL-SRL_01174270072.html",
       "id": "f040",
-      "gruppo": null
-    },
-    {
-      "titolo": "amministrazionicomunali.it, ECOVAL SRL - Aosta",
-      "url": "https://www.amministrazionicomunali.it/valle-d-aosta/aosta/ecoval-srl",
-      "id": "f041",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Ecoval S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f042",
-      "gruppo": null
-    },
-    {
-      "titolo": "regione.vda.it, Notizia - Regione autonoma Valle d'Aosta",
-      "url": "https://www.regione.vda.it/notizie/details_i.asp?id=552689",
-      "id": "f043",
-      "gruppo": null
-    },
-    {
-      "titolo": "besenvalcostruzioni.it, BESENVAL Costruzioni srl",
-      "url": "https://www.besenvalcostruzioni.it/",
-      "id": "f044",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Besenval Costruzioni S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f045",
-      "gruppo": null
-    },
-    {
-      "titolo": "companyreports.it, Besenval Costruzioni Srl: fatturato 2023, bilancio e visura",
-      "url": "https://www.companyreports.it/besenval-costruzioni-srl-01087780076",
-      "id": "f046",
-      "gruppo": null
-    },
-    {
-      "titolo": "lavanderiaindustriale.org, Noleggio e lavaggio biancheria | Lavanderia Industriale Pollein",
-      "url": "https://www.lavanderiaindustriale.org/chi-siamo/",
-      "id": "f047",
-      "gruppo": null
-    },
-    {
-      "titolo": "amministrazionicomunali.it, LAVANDERIA INDUSTRIALE S.A.S. DI VIERIN VIRGILIO",
-      "url": "https://www.amministrazionicomunali.it/valle-d-aosta/pollein/lavanderia-industriale-sas-di-vierin-virgilio",
-      "id": "f048",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Lavanderia Industriale S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f049",
-      "gruppo": null
-    },
-    {
-      "titolo": "m.companyreports.it, Fatturato Aziende di Pollein in provincia di Valle d'Aosta",
-      "url": "https://m.companyreports.it/comune/pollein",
-      "id": "f050",
-      "gruppo": null
-    },
-    {
-      "titolo": "pramottonmobili.it, Cucine e mobili Aosta - Arredamento Aosta - Pramotton Mobili",
-      "url": "https://www.pramottonmobili.it/",
-      "id": "f051",
-      "gruppo": null
-    },
-    {
-      "titolo": "pramottonmobili.it, Azienda",
-      "url": "https://www.pramottonmobili.it/azienda/",
-      "id": "f052",
-      "gruppo": null
-    },
-    {
-      "titolo": "Wikipedia, Valle d'Aosta",
-      "url": "https://it.wikipedia.org/wiki/Valle_d%27Aosta",
-      "id": "f053",
-      "gruppo": null
-    },
-    {
-      "titolo": "pramottonmobili.it, Mobilier Aoste Italie - Meubles design et haut de gamme ...",
-      "url": "https://www.pramottonmobili.it/fr/",
-      "id": "f054",
-      "gruppo": null
-    },
-    {
-      "titolo": "facilearredo.it, Pramotton Mobili - FacileArredo.it",
-      "url": "https://www.facilearredo.it/12747-pramotton-mobili-strada-statale-26-nus",
-      "id": "f055",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Mobilificio Pramotton S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f056",
-      "gruppo": null
-    },
-    {
-      "titolo": "companyreports.it, Fatturato Aziende di Nus in provincia di Valle d'Aosta",
-      "url": "https://www.companyreports.it/comune/nus",
-      "id": "f057",
-      "gruppo": null
-    },
-    {
-      "titolo": "ao.camcom.it, Vallée Trafor S.r.l. - Camera valdostana",
-      "url": "https://www.ao.camcom.it/en/madeinvda/ricerca-imprese/vallee-trafor-srl",
-      "id": "f058",
-      "gruppo": null
-    },
-    {
-      "titolo": "regione.vda.it, VALLEE TRAFOR SRL",
-      "url": "https://www.regione.vda.it/allegato.aspx?pk=45441",
-      "id": "f059",
-      "gruppo": null
-    },
-    {
-      "titolo": "linkedin.com, Alessandro Zoppo | LinkedIn",
-      "url": "https://www.linkedin.com/in/alessandro-zoppo-7158b0108",
-      "id": "f060",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Vallée Trafor S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f061",
-      "gruppo": null
-    },
-    {
-      "titolo": "aziende.it, Vallee Trafor S.r.l.: fatturato 2025 e P.IVA 01180360073",
-      "url": "https://www.aziende.it/vallee-trafor-s-r-l",
-      "id": "f062",
       "gruppo": null
     },
     {
@@ -739,18 +415,6 @@
       "titolo": "alpiscavi.com, Sistemazione piste e impianto di innevamento",
       "url": "https://www.alpiscavi.com/sistemazione-piste-e-impianto-di-innevamento/",
       "id": "f065",
-      "gruppo": null
-    },
-    {
-      "titolo": "alpiscavi.com, Energie rinnovabili",
-      "url": "https://www.alpiscavi.com/attivita/energie-rinnovabili/",
-      "id": "f066",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, soci di Alpi Scavi S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f067",
       "gruppo": null
     },
     {
@@ -778,12 +442,6 @@
       "gruppo": null
     },
     {
-      "titolo": "Registro delle imprese, soci di Peaquin S.r.l. (letti via Openapi il 04/11/2026)",
-      "url": "",
-      "id": "f072",
-      "gruppo": null
-    },
-    {
       "titolo": "reportaziende.it, PEAQUIN S.R.L. - Bilancio, Fatturato, Visure, Rating",
       "url": "https://www.reportaziende.it/peaquin_srl_ao_01033120070",
       "id": "f073",
@@ -799,12 +457,6 @@
       "titolo": "mdmchatillon.it, Azienda EN - MDM",
       "url": "https://www.mdmchatillon.it/en/azienda-en",
       "id": "f075",
-      "gruppo": null
-    },
-    {
-      "titolo": "mdmchatillon.it, Intervista a Luca Minini Amministratore Delegato di MdM",
-      "url": "https://www.mdmchatillon.it/it/news/intervista-a-luca-minini-amministratore-delegato-di-mdm",
-      "id": "f076",
       "gruppo": null
     },
     {
@@ -847,12 +499,6 @@
       "titolo": "valdostana.bcc.it, Autori - BCC Valdostana - Credito Cooperativo",
       "url": "https://www.valdostana.bcc.it/soci/bancabollo/bancabollo/autori/",
       "id": "f083",
-      "gruppo": null
-    },
-    {
-      "titolo": "Registro delle imprese, elenco imprese della provincia di Aosta (via Openapi, 04/11/2026)",
-      "url": "",
-      "id": "f084",
       "gruppo": null
     },
     {
@@ -922,18 +568,6 @@
       "gruppo": null
     },
     {
-      "titolo": "aziende.money.it, AUTO MONT BLANC S.R.L. - 00585990070 - Dati aziendali, ...",
-      "url": "https://aziende.money.it/aziende/auto-mont-blanc-srl-00585990070",
-      "id": "f096",
-      "gruppo": null
-    },
-    {
-      "titolo": "ufficiocamerale.it, DATI DELLA SOCIETÀ - TECNICAER ENGINEERING S.R.L.",
-      "url": "https://www.ufficiocamerale.it/8873/tecnicaer-engineering-srl",
-      "id": "f097",
-      "gruppo": null
-    },
-    {
       "titolo": "tecnicaer.com, History | Tecnicaer",
       "url": "https://tecnicaer.com/en/story/",
       "id": "f098",
@@ -949,18 +583,6 @@
       "titolo": "tecnicaer.com, People | Tecnicaer",
       "url": "https://tecnicaer.com/en/people/",
       "id": "f100",
-      "gruppo": null
-    },
-    {
-      "titolo": "reportaziende.it, TECNICAER ENGINEERING S.R.L. - Bilancio, Fatturato ...",
-      "url": "https://www.reportaziende.it/tecnicaer_engineering_srl_ao_01030520074",
-      "id": "f101",
-      "gruppo": null
-    },
-    {
-      "titolo": "aziende.it, Quendoz S.r.l.: fatturato 2024 e P.IVA 01013530074",
-      "url": "https://www.aziende.it/quendoz-s-r-l",
-      "id": "f102",
       "gruppo": null
     },
     {
@@ -1030,33 +652,15 @@
       "gruppo": null
     },
     {
-      "titolo": "creditsafe.com, Supermarches Des Alpes S.r.l. | Report aziendale gratis - Creditsafe",
-      "url": "https://www.creditsafe.com/business-index/it-it/company/supermarches-des-alpes-srl-it04526070",
-      "id": "f114",
-      "gruppo": null
-    },
-    {
       "titolo": "fatturatoitalia.it, Supermarches Des Alpes Srl - Dati aziendali - FatturatoItalia",
       "url": "https://www.fatturatoitalia.it/supermarches_des_alpes_srl-01184640074",
       "id": "f115",
       "gruppo": null
     },
     {
-      "titolo": "Cogeis, About us",
-      "url": "https://cogeis.it/en/about-us/",
-      "id": "f116",
-      "gruppo": null
-    },
-    {
       "titolo": "Cogeis, 60 anni di storia",
       "url": "https://cogeis.it/about-us/anniversario/",
       "id": "f117",
-      "gruppo": null
-    },
-    {
-      "titolo": "ivies.cogeis.it, Azienda e Storia - IVIES SpA",
-      "url": "https://ivies.cogeis.it/about-us/",
-      "id": "f118",
       "gruppo": null
     },
     {
@@ -1132,12 +736,6 @@
       "gruppo": null
     },
     {
-      "titolo": "linkedin.com, IDEAL CAR S.R.L. | motor vehicle manufacturing",
-      "url": "https://www.linkedin.com/company/ideal-car-s.r.l.",
-      "id": "f131",
-      "gruppo": null
-    },
-    {
       "titolo": "vicosrl.com, Chi siamo- Vico Srl - Vico Valdostana Impresa Costruzioni",
       "url": "https://vicosrl.com/chi-siamo/",
       "id": "f132",
@@ -1162,21 +760,9 @@
       "gruppo": null
     },
     {
-      "titolo": "fatturatoaziende.com, Ristorfoods Holding: €50M di Fatturato — Ma gli Utili?",
-      "url": "https://fatturatoaziende.com/ristorfoods-holding-00588850073",
-      "id": "f136",
-      "gruppo": null
-    },
-    {
       "titolo": "ufficiocamerale.it, DATI DELLA SOCIETÀ - AV PLUDA S.R.L.",
       "url": "https://www.ufficiocamerale.it/2691/av-pluda-srl",
       "id": "f137",
-      "gruppo": null
-    },
-    {
-      "titolo": "linkedin.com, AV PLUDA S.R.L. | restaurants",
-      "url": "https://www.linkedin.com/company/av-pluda-s.r.l.",
-      "id": "f138",
       "gruppo": null
     },
     {
@@ -1234,21 +820,9 @@
       "gruppo": null
     },
     {
-      "titolo": "italypostimprese.it, Marazzato: «La nostra forza è restare indipendenti in un settore ...",
-      "url": "https://www.italypostimprese.it/marazzato-la-nostra-forza-e-restare-indipendenti-in-un-settore-dominato-dalle-multiutility/",
-      "id": "f148",
-      "gruppo": null
-    },
-    {
       "titolo": "gruppomarazzato.com, Buon compleanno, Marazzato",
       "url": "https://gruppomarazzato.com/70anni-marazzato/",
       "id": "f149",
-      "gruppo": null
-    },
-    {
-      "titolo": "reportaziende.it, marazzato soluzioni ambientali s.r.l. a socio unico",
-      "url": "https://www.reportaziende.it/marazzato_soluzioni_ambientali_srl_a_socio_unico_ao_00468910070",
-      "id": "f150",
       "gruppo": null
     },
     {
@@ -1276,30 +850,6 @@
       "gruppo": null
     },
     {
-      "titolo": "Nuova Auto Alpina, Chi siamo",
-      "url": "https://autoalpina.it/chi-siamo",
-      "id": "f155",
-      "gruppo": null
-    },
-    {
-      "titolo": "topdealersitalia.it, [PDF] SICAV 2000 / NUOVA AUTO ALPINA - Top Dealers Italia",
-      "url": "https://topdealersitalia.it/wp-content/uploads/2023/11/Nuona-Auto-Alpina-GUIDA-TDI-2026.pdf",
-      "id": "f156",
-      "gruppo": null
-    },
-    {
-      "titolo": "aostasera.it, Il gruppo Sicav 2000 consegna all'Adava un'auto elettrica - AostaSera",
-      "url": "https://aostasera.it/notizie/societa/il-gruppo-sicav-2000-consegna-alladava-unauto-elettrica/",
-      "id": "f157",
-      "gruppo": null
-    },
-    {
-      "titolo": "fatturatoitalia.it, Nuova Auto Alpina Srl | Bilancio, fatturato e dati economici",
-      "url": "https://www.fatturatoitalia.it/nuova-auto-alpina-srl-00504650078",
-      "id": "f158",
-      "gruppo": null
-    },
-    {
       "titolo": "Registro delle imprese, soci delle società (2026)",
       "url": "",
       "id": "f159",
@@ -1315,12 +865,6 @@
       "titolo": "Aziende.it, Contoz srl Prodotti petroliferi",
       "url": "https://www.aziende.it/contoz-srl-prodotti-petroliferi",
       "id": "f161",
-      "gruppo": null
-    },
-    {
-      "titolo": "Aziende.it, Ediluboz srl",
-      "url": "https://www.aziende.it/ediluboz-s-r-l",
-      "id": "f162",
       "gruppo": null
     },
     {
@@ -1357,24 +901,6 @@
       "titolo": "gruppomarazzato.com, Gruppo Marazzato, La nostra storia",
       "url": "https://www.gruppomarazzato.com/la-nostra-storia/",
       "id": "f168",
-      "gruppo": null
-    },
-    {
-      "titolo": "aziende.money.it, Money.it Aziende, Nuova Auto Alpina srl",
-      "url": "https://aziende.money.it/aziende/nuova-auto-alpina-srl-00504650078",
-      "id": "f169",
-      "gruppo": null
-    },
-    {
-      "titolo": "fatturatoitalia.it, Edilaosta Srl: risultati economici e dati di bilancio",
-      "url": "https://www.fatturatoitalia.it/edilaosta-srl-00497250076",
-      "id": "f170",
-      "gruppo": null
-    },
-    {
-      "titolo": "fatturatoitalia.it, Ediluboz Srl Fatturato, bilanci, dipendenti e dati ufficiali - FatturatoItalia",
-      "url": "https://www.fatturatoitalia.it/ediluboz-srl-00525930079",
-      "id": "f171",
       "gruppo": null
     },
     {
@@ -1435,36 +961,6 @@
       "titolo": "reportaziende.it, NUOVA AUTO ALPINA S.R.L. - Bilancio, Fatturato, Visure ...",
       "url": "https://www.reportaziende.it/nuova_auto_alpina_srl_ao_00504650078",
       "id": "f181",
-      "gruppo": null
-    },
-    {
-      "titolo": "edilaosta.bigmat.it, EdilAosta BigMat, Dove siamo",
-      "url": "https://edilaosta.bigmat.it/content/253-dove-siamo",
-      "id": "f182",
-      "gruppo": null
-    },
-    {
-      "titolo": "edilaosta.bigmat.it, EdilAosta BigMat, home page",
-      "url": "https://edilaosta.bigmat.it/",
-      "id": "f183",
-      "gruppo": null
-    },
-    {
-      "titolo": "edilaosta.bigmat.it, EdilAosta BigMat, Le persone",
-      "url": "https://edilaosta.bigmat.it/content/252-le-persone",
-      "id": "f184",
-      "gruppo": null
-    },
-    {
-      "titolo": "Gazzetta Matin, Sindacato: la preoccupazione della CGIL sulla tenuta economica della Valle d'Aosta",
-      "url": "https://www.gazzettamatin.com/2026/10/15/sindacato-la-preoccupazione-della-cgil-sulla-tenuta-economica-della-valle-daosta/",
-      "id": "f185",
-      "gruppo": null
-    },
-    {
-      "titolo": "CompanyReports, Fatturato aziende nel Comune di Valtournenche",
-      "url": "https://www.companyreports.it/comune/valtournenche",
-      "id": "f186",
       "gruppo": null
     }
   ],
