@@ -62,6 +62,15 @@ ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--o
 .cr{display:block;overflow-wrap:anywhere;padding:10px 0;border-bottom:1px dashed var(--linea);font-size:17px}
 .cr .m,.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
 .nota{background:var(--fondo2);border-left:3px solid var(--oro);padding:12px 16px}
+.racconta{font-size:20px;color:var(--testo);margin:1.2em 0 0}
+.indice{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0;padding:0;list-style:none}.indice li{margin:0}
+.indice a{display:block;font:600 14px 'Inter',sans-serif;color:var(--testo);text-decoration:none;border:1px solid var(--linea);border-radius:999px;padding:6px 12px}
+.indice a:hover{border-color:var(--oro);color:var(--oro)}
+.cap{margin:2.2em 0 0;padding-top:.2em}.cap h3{font:24px/1.15 'Anton',Impact,sans-serif;color:#fff;letter-spacing:.02em;margin:0 0 .5em;display:flex;gap:12px;align-items:baseline}
+.cap h3 .min{font:600 14px 'Inter',sans-serif;color:var(--oro);letter-spacing:.06em;white-space:nowrap}
+.fonte{padding:10px 0;border-bottom:1px dashed var(--linea);overflow-wrap:anywhere}
+.fonte .t{font:700 12px 'Inter',sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--grigio)}
+.fonte .a{display:block;font-size:18px;line-height:1.3;margin:.15em 0 0}
 .ep{display:grid;grid-template-columns:260px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--linea);text-decoration:none;color:var(--testo)}
 .ep img{width:100%;border-radius:6px}.ep h3{margin:.15em 0;font:24px/1.15 'Anton',Impact,sans-serif;color:#fff;letter-spacing:.01em}
 .motto{font:46px/1.05 'Anton',Impact,sans-serif;color:#fff;margin:.1em 0 .25em;text-transform:uppercase}
@@ -165,6 +174,26 @@ def pagina(v):
         corpo += f"<a href=\"{yt}\">{img}</a>" if fuori else img
     corpo += (f"<a class=yt href=\"{yt}\">Guarda il video su YouTube</a>" if fuori
               else f"<p class=yt>Il video esce su YouTube {e(quando(v))}.</p>")
+    if v.get('standard') == 2:   # 06/11/2026: standard unico della pagina (bibbia del canale §12): testata, fonti per capitolo con cosa sostengono, fonti generali, materiali
+        ric = ''
+        def fonte(f):
+            tit = f"<a class=a href=\"{e(f['url'].replace(' ', '%20'))}\">{e(f['titolo'])}</a>" if f.get('url') else f"<span class=a>{e(f['titolo'])}</span>"
+            return f"<div class=fonte><div class=t>{e(' · '.join(x for x in (f.get('testata'), f.get('data')) if x))}</div>{tit}</div>"
+        caps = v.get('capitoli') or []
+        if v.get('racconta'): corpo += f"<p class=racconta>{e(v['racconta'])}</p>"
+        corpo += "<h2>Le fonti, capitolo per capitolo</h2><p class=nota>Solo le fonti che sostengono qualcosa detto nel video, capitolo per capitolo, nell'ordine in cui il video le usa.</p>"
+        corpo += "<ul class=indice>" + ''.join(f"<li><a href=\"#c{i}\">{e(c['titolo'])}</a></li>" for i, c in enumerate(caps)) + "</ul>"
+        for i, c in enumerate(caps):
+            corpo += f"<section class=cap id=c{i}><h3>{e(c['titolo'])}" + (f"<span class=min>dal minuto {e(c['minuto'])}</span>" if c.get('minuto') else '') + "</h3>" + ''.join(fonte(f) for f in c['fonti']) + "</section>"
+        if v.get('fonti_generali'): corpo += "<h2>Fonti generali</h2><p class=nota>Fonti che sostengono passaggi di più capitoli.</p>" + ''.join(fonte(f) for f in v['fonti_generali'])
+        if cr or g.get('immagini') or g.get('clip') or m.get('dati_mappe'): corpo += "<h2>Materiali</h2>"
+        if cr: corpo += f"<h3 class=fg>Attribuzioni di immagini e video</h3>{cr}"
+        if g.get('immagini') or g.get('clip'):
+            q = ' e '.join(x for x in (f"{g['immagini']} immagini" if g.get('immagini') else '', f"{g['clip']} clip" if g.get('clip') else '') if x)
+            corpo += f"<h3 class=fg>Scene ricostruite</h3><p class=nota>Alcune scene sono ricostruite con l'intelligenza artificiale ({q}). Non sono documenti né fotografie d'epoca.</p>"
+        dm = [d for d in (m.get('dati_mappe') or []) if re.search(r'\bCC[ -]BY\b', d.get('licenza') or '', re.I)]
+        if dm: corpo += "<h3 class=fg>Mappe</h3><ul>" + ''.join(f"<li>{e(d['titolo'])} · {e(d['licenza'])} · <a href=\"{e(d['link'])}\">fonte</a></li>" for d in dm) + "</ul>"
+        return scheletro(f"{v['titolo']} · Casato Italiano", corpo, f"Fonti e crediti del video «{v['titolo']}»", f"{BASE}/video/{v['slug']}/", '../../')
     if ric: corpo += f"<h2>Fonti della ricerca</h2><p class=nota>Divise per voce del video, nell'ordine in cui compaiono. Le fonti del Registro delle Imprese sono indicate senza link: le sue pagine non si aprono senza accesso.</p>{ric}" if gp else f"<h2>Fonti della ricerca</h2><ol>{ric}</ol>"
     if cr: corpo += f"<h2>Attribuzioni di immagini e video</h2>{cr}"
     if g.get('immagini') or g.get('clip'):
@@ -181,7 +210,7 @@ SPIA = re.compile(r'verifica da zero|verificat|\.json|\.py\b|bibbia|soglia_|inte
 SPAZZ = re.compile(r'too many requests|attention required|cloudflare|just a moment|security checkpoint|access denied|bot check|wartungsmodus|pagina non trovata|page not found', re.I)
 def controlla_fonti(v):
     err = []
-    for f in v.get('fonti_ricerca', []):
+    for f in v.get('fonti_ricerca', []) + [r for c in v.get('capitoli') or [] for r in c['fonti']] + (v.get('fonti_generali') or []):
         t, u = f.get('titolo', ''), f.get('url', '')
         if (SPIA.search(t) or t.startswith('http') or re.fullmatch(r'[a-z0-9]+(_[a-z0-9]+)+', t) or not t.strip()
                 or (u and not u.startswith('http')) or ' ; ' in u or 'registroimprese' in u

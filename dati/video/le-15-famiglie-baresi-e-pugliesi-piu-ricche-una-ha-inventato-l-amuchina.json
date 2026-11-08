@@ -399,599 +399,759 @@
       }
     ]
   },
-  "fonti_ricerca": [
-    {
-      "titolo": "Affaritaliani, Apulia Distribuzione e Rossotono, rilancio dell'agroalimentare italiano",
-      "url": "https://www.affaritaliani.it/puglia/apulia-distribuzione-e-rossotono-rilancio-dell-agroalimentare-italiano-685134.html"
-    },
-    {
-      "titolo": "Affaritaliani, Maiora, Cannillo presenta il bilancio di sostenibilità",
-      "url": "https://www.affaritaliani.it/puglia/maiora-cannillo-presenta-il-bilancio-di-sostenibilita-623855.html"
-    },
-    {
-      "titolo": "AGI, «La storia di Borgo Egnazia, dalle origini al G7» (Viviana Minervini, 12/06/2024)",
-      "url": "https://www.agi.it/politica/news/2024-06-12/storia-borgo-egnazia-puglia-g7-26740546/"
-    },
-    {
-      "titolo": "AGI, «Storia e varianti del caffè con ghiaccio, la bevanda dell'estate salentina» (Alberto Ferrigolo, 12/08/2023)",
-      "url": "https://www.agi.it/lifestyle/news/2023-08-12/caff-ghiaccio-bevanda-storia-varianti-22581467/"
-    },
-    {
-      "titolo": "AGI, satellite Sitael in orbita con SpaceX di Elon Musk (05/12/2018)",
-      "url": "https://www.agi.it/blog-italia/startup/sitael_satellite_elon_musk-4708514/post/2018-12-05"
-    },
-    {
-      "titolo": "Aston Martin, \"Aston Martin expands presence in Italy with launch of Aston Martin Rome\"",
-      "url": "https://www.astonmartin.com/en/our-world/news/2025/9/25/aston-martin-expands-presence-in-italy-with-launch-of-aston-martin-rome"
-    },
-    {
-      "titolo": "Atoka, F. Divella Spa | Produzione di prodotti farinacei a Rutigliano | Dati e Contatti",
-      "url": "https://atoka.io/public/it/azienda/f-divella-spa/292f4fa2041e"
-    },
-    {
-      "titolo": "Atoka, Egnathia Iniziative Turistiche E.I.T. S.p.A.",
-      "url": "https://atoka.io/public/it/azienda/egnathia-iniziative-turistiche-eit-spa/e40fdea54ad8"
-    },
-    {
-      "titolo": "Atoka, «G.t.s. - General Transport Service Spa | Movimentazione merci relativa a trasporti ferroviari a Bari | Dati e Contatti»",
-      "url": "https://atoka.io/public/it/azienda/gts-general-transport-service-spa/a4da84c15707"
-    },
-    {
-      "titolo": "Automoto.it, Gruppo Maldarizzi",
-      "url": "https://www.automoto.it/concessionarie/gruppo-43"
-    },
-    {
-      "titolo": "Avvenire, In Alto Adige tutti vogliono salvare le acciaierie Valbruna, ma c'è chi rema contro",
-      "url": "https://www.avvenire.it/attualita/in-alto-adige-tutti-vogliono-salvare-le-acciaierie-valbruna-ma-ce-chi-rema-contro_103335"
-    },
-    {
-      "titolo": "Aziende.it, «Quarta Caffè S.p.A.»",
-      "url": "https://www.aziende.it/quarta-caffe-s-p-a"
-    },
-    {
-      "titolo": "Aziende.it, Ladisa S.r.l.",
-      "url": "https://www.aziende.it/ladisa-s-r-l-BA"
-    },
-    {
-      "titolo": "Aziende.it, Megamark S.r.l. – Trani (BT)",
-      "url": "https://www.aziende.it/megamark-s-r-l"
-    },
-    {
-      "titolo": "BeBeez, Nicolaus Tour si finanzia con un minibond da 10 mln euro. Lo sottoscrive tutto UniCredit",
-      "url": "https://bebeez.it/private-debt/nicolaus-tour-si-finanzia-con-un-minibond-da-10-mln-euro-lo-sottoscrive-tutto-unicredit/"
-    },
-    {
-      "titolo": "Beverfood.com, «Quarta Caffè S.p.A.»",
-      "url": "https://www.beverfood.com/torrefazione/quarta-caffe-s-p-a"
-    },
-    {
-      "titolo": "Beverfood.com, «QUARTA CAFFE’: nasce la linea Edo Quarta Specialty Coffee» (21/09/2016)",
-      "url": "https://www.beverfood.com/quarta-caffe-edo-quarta-specialty-coffee-wd68306/"
-    },
-    {
-      "titolo": "Beverfood.com, «Quarta Caffè: beni di conforto per la popolazione ucraina» (Mariapia De Nicola, 03/03/2022)",
-      "url": "https://www.beverfood.com/quarta-caffe-beni-conforto-popolazione-ucraina-wd/"
-    },
-    {
-      "titolo": "Borgo Egnazia, Bilancio di sostenibilità 2023",
-      "url": "https://sostenibilita.borgoegnazia.com/balances/bilancio-sostenibilita-borgo-egnazia-2023.pdf"
-    },
-    {
-      "titolo": "Borsa Italiana, Industrie De Nora - Profilo società",
-      "url": "https://www.borsaitaliana.it/borsa/azioni/profilo-societa-dettaglio.html?isin=IT0005186371"
-    },
-    {
-      "titolo": "The Brussels Times, «EU clears Siemens takeover of MerMec in rail tech deal scrutiny»",
-      "url": "https://www.brusselstimes.com/eu-affairs/2370017/eu-clears-siemens-takeover-of-mermec-in-rail-tech-deal-scrutiny"
-    },
-    {
-      "titolo": "Bühler Group, «Rethinking pasta» (Janet Anderson, giugno 2025)",
-      "url": "https://www.buhlergroup.com/global/en/stories/inspiration-hub/andriani.html"
-    },
-    {
-      "titolo": "Bühler Group, Pasta e passione! For 130 years",
-      "url": "https://buhlergroup.com/global/en/stories/inspiration-hub/divella.html"
-    },
-    {
-      "titolo": "Business Wire, Natuzzi Announces Financial Results for the First Quarter of 2026",
-      "url": "https://www.businesswire.com/news/home/20260805130872/en/"
-    },
-    {
-      "titolo": "Camera dei deputati, XIII legislatura, Resoconto stenografico seduta n. 506 del 17 marzo 1999 (interrogazione 3-03598)",
-      "url": "https://documenti.camera.it/_dati/leg13/lavori/stenografici/sed506/s150.htm"
-    },
-    {
-      "titolo": "Cassa Depositi e Prestiti, Comunicato stampa n. 108 del 15/09/2020 (Andriani)",
-      "url": "https://www.cdp.it/resources/cms/documents/Comunicato stampa n. 108 del 15 09 2020_Andriani.pdf"
-    },
-    {
-      "titolo": "Cassa Depositi e Prestiti, «Da Crédit Agricole Italia e CDP 34 milioni con Garanzia SACE al Gruppo Andriani per un nuovo stabilimento in Nord America» (05/07/2023)",
-      "url": "https://www.cdp.it/resources/cms/documents/Comunicato Stampa_n.60_del_05_07_2023_Andriani CAI CDP SACE.pdf"
-    },
-    {
-      "titolo": "Company-Histories.com, \"Industrie Natuzzi S.p.A. Company History\" (da International Directory of Company Histories, 1997)",
-      "url": "https://company-histories.com/Industrie-Natuzzi-SpA-Company-History.html"
-    },
-    {
-      "titolo": "CompanyReports, Fatturato aziende nella Provincia di Bari",
-      "url": "https://www.companyreports.it/provincia/bari"
-    },
-    {
-      "titolo": "CompanyReports, Fatturato aziende nella Provincia di Brindisi",
-      "url": "https://www.companyreports.it/provincia/brindisi"
-    },
-    {
-      "titolo": "CompanyReports, Fatturato aziende nella Provincia di Lecce",
-      "url": "https://www.companyreports.it/provincia/lecce"
-    },
-    {
-      "titolo": "De Nora, The beginnings of Oronzio De Nora (Centennial)",
-      "url": "https://denora.com/who-we-are/De-Nora-centennial/The-beginnings-of-Oronzio-De-Nora.html"
-    },
-    {
-      "titolo": "De Nora, Amendment and renewal of shareholders' agreement",
-      "url": "https://denora.com/pt/newsroom/press-releases/2024/amendment-and-renewal-of-shareholders-agreement"
-    },
-    {
-      "titolo": "De Nora, Relazione annuale integrata 2025",
-      "url": "https://a.storyblok.com/f/286863414504080/x/6e6c170c7d/relazione-annuale-integrata-2025_ita.pdf"
-    },
-    {
-      "titolo": "De Nora, Shareholding",
-      "url": "https://denora.com/en/investors/share-information/shareholding"
-    },
-    {
-      "titolo": "Despar, Innovazione e qualità: la ricetta di Maiora (informazione pubblicitaria)",
-      "url": "https://www.despar.com/public/press//Maiora.pdf"
-    },
-    {
-      "titolo": "la Repubblica, Album Top 300 Puglia e Basilicata: Imprese più floride in Puglia e Basilicata, fatturati in crescita ma pesano i rincari",
-      "url": "https://despar.com/public/press/Top300-29022024.pdf"
-    },
-    {
-      "titolo": "Divella, Storia - Divella",
-      "url": "https://www.divella.it/it/storia"
-    },
-    {
-      "titolo": "EconomyUp, \"Open innovation, Megamark: il colosso del Sud che compra startup\"",
-      "url": "https://www.economyup.it/startup/open-innovation-megamark-il-colosso-del-sud-che-compra-startup/"
-    },
-    {
-      "titolo": "Ecoseven, Francesco Divella: “Fatturato 2020 sopra quota 300 mln, ora attratti anche da Cina”",
-      "url": "https://www.ecoseven.net/flash-news/francesco-divella-fatturato-2020-sopra-quota-300-mln-ora-attratti-anche-da-cina/"
-    },
-    {
-      "titolo": "ELITE, GTS Holding, Transport Efficiency and Environmental Protection",
-      "url": "https://www.elite-network.com/news/gts-holding-transport-efficiency-and-environmental-protection"
-    },
-    {
-      "titolo": "European Tour, «Sergio Melpignano 1946-2015» (settembre 2015)",
-      "url": "https://www.europeantour.com/hotelplanner-tour/news/articles/detail/sergio-melpignano-1946-2015/"
-    },
-    {
-      "titolo": "Fedaiisf, La storia di Oronzio De Nora, l'inventore dell'Amuchina (ripresa da Onofrio Bruno, Gazzetta del Mezzogiorno)",
-      "url": "https://www.fedaiisf.it/en/la-storia-di-oronzio-de-nora-linventore-dellamuchina/"
-    },
-    {
-      "titolo": "Foodweb, Divella: una storia di successo e passione mediterranea dal 1890",
-      "url": "https://www.foodweb.it/2022/05/divella-tra-i-marchi-storici-una-storia-di-successo-e-passione-mediterranea-dal-1890"
-    },
-    {
-      "titolo": "Forbes Italia, Il miliardario francese Arnault in visita nelle aziende del Salento dove si produce Dior",
-      "url": "https://forbes.it/2023/09/15/bernard-arnault-investimenti-manifattura-pugliese/"
-    },
-    {
-      "titolo": "Forbes Italia, Casillo, l'azienda che lavora il grano del 70% della pasta italiana",
-      "url": "https://forbes.it/2026/08/17/casillo-azienda-lavora-grano-70-pasta-italiano/"
-    },
-    {
-      "titolo": "Forbes Italia, De Nora, margini record e cassa solida, ma ordini più deboli frenano il 2026",
-      "url": "https://forbes.it/2026/03/18/de-nora-margini-record-e-cassa-solida-ma-ordini-piu-deboli-frenano-il-2026/"
-    },
-    {
-      "titolo": "Forbes Italia, De Nora sbarca in Borsa (capitalizzazione 2,7 miliardi)",
-      "url": "https://forbes.it/2022/06/30/de-nora-sbarca-borsa-capitalizzazione-27-miliardi/"
-    },
-    {
-      "titolo": "Forbes Italia, Gruppo Nicolaus: Giuseppe e Roberto Pagliara",
-      "url": "https://forbes.it/2024/04/16/gruppo-nicolaus-giuseppe-roberto-pagliara"
-    },
-    {
-      "titolo": "Forbes Brasil, Casillo, a família que processa o trigo de 70% das massas italianas",
-      "url": "https://forbes.com.br/forbes-agro/2026/08/casillo-a-familia-que-processa-o-trigo-de-70-das-massas-italianas/"
-    },
-    {
-      "titolo": "Fortune Italia, Intelligenza artificiale su rotaia: la storia di Mermec",
-      "url": "https://www.fortuneita.com/?p=290088"
-    },
-    {
-      "titolo": "Fortune Italia, «Andriani diventa una multinazionale: inaugurato il primo stabilimento produttivo in Canada»",
-      "url": "https://www.fortuneita.com/?p=370997"
-    },
-    {
-      "titolo": "Gambero Rosso International, «All about the tradition of mixing coffee and ice in Italy and the rest of the world» (Michela Becchi, 31/03/2021)",
-      "url": "https://www.gamberorossointernational.com/?p=312453"
-    },
-    {
-      "titolo": "GTS Logistic, Storia",
-      "url": "https://www.gtslogistic.com/it/storia"
-    },
-    {
-      "titolo": "Gulfood, Exhibitors - Siciliani S.p.A.",
-      "url": "https://www.gulfood.com/exhibitors/siciliani-spa"
-    },
-    {
-      "titolo": "American Home Furnishings Hall of Fame, \"Pasquale Natuzzi\"",
-      "url": "https://www.homefurnishingshalloffame.com/pasquale-natuzzi"
-    },
-    {
-      "titolo": "Hospitality Net, Azora Acquires Bluserena, Italy's Second Largest Resort Hotel Operator",
-      "url": "https://www.hospitalitynet.org/news/4107796.html"
-    },
-    {
-      "titolo": "ICE Agenzia, «Andriani S.p.A. Benefit Corporation opens first North American production plant» (29/10/2025)",
-      "url": "https://www.ice.it/it/news/notizie-dal-mondo/294746"
-    },
-    {
-      "titolo": "Andriani S.p.A., brochure aziendale per PLMA Amsterdam 2023 (pubblicata da ICE Agenzia)",
-      "url": "https://plmaams25.eventidigitali.ice.it/wp-content/uploads/2023/05/stampato-solo-andriani_eng-aggiornato_WEB.pdf"
-    },
-    {
-      "titolo": "Il Foglio, Dal barolo Gedi alle orecchiette. Il gruppo Ladisa punta Huffington post e La Sentinella del Canavese",
-      "url": "https://ilfoglio.it/attualita/2024/02/02/standard/e-spirito-di-servizio-avremo-molta-attenzione-ai-giovani--125029"
-    },
-    {
-      "titolo": "il Nord Est, Addio a Nicola Amenduni, è morto il re dell'acciaio",
-      "url": "https://www.ilnordest.it/economia/imprese/addio-a-nicola-amenduni-e-morto-il-re-dellacciaio-xs1j8i40"
-    },
-    {
-      "titolo": "il Nord Est, L'incontro con Enrico Mattei, Gianni Agnelli e Giovanni Paolo I. Il viaggio da Bari a Vicenza per amore di Mariù: chi era Nicola Amenduni",
-      "url": "https://www.ilnordest.it/economia/imprese/lincontro-con-enrico-mattei-gianni-agnelli-e-giovanni-paolo-i-il-viaggio-da-bari-a-vicenza-per-amore-di-mariu-d9qjbyd0"
-    },
-    {
-      "titolo": "Il NordEst, Valbruna resta a Bolzano, accordo con la Provincia",
-      "url": "https://www.ilnordest.it/economia/imprese/valbruna-resta-a-bolzano-accordo-con-la-provincia-x4ejo65p"
-    },
-    {
-      "titolo": "Il Post, «Che posto è Borgo Egnazia, dove si terrà il G7» (12/06/2024)",
-      "url": "https://www.ilpost.it/2024/06/12/borgo-egnazia-g7-puglia/"
-    },
-    {
-      "titolo": "Il Post, \"La crisi di Natuzzi ha qualcosa di simile a quella di Stellantis\"",
-      "url": "https://www.ilpost.it/2026/03/19/crisi-natuzzi-vendite-cause/"
-    },
-    {
-      "titolo": "Poste Italiane, Comunicato – Emissione di un francobollo dedicato a F. DIVELLA S.p.A., nel 130° anniversario della fondazione",
-      "url": "https://www.ilpostalista.it/emissioni2020it/pdf/2020016f.pdf"
-    },
-    {
-      "titolo": "il Resto del Carlino, Morto a 103 anni l'imprenditore Nicola Amenduni. Zaia: \"Il Covid se l'è portato via\"",
-      "url": "https://www.ilrestodelcarlino.it/veneto/morto-103-anni-nicola-amenduni-1.7337676"
-    },
-    {
-      "titolo": "Il Tacco di Bacco, «Break on History» a Casa Quarta, Lecce (evento del 12/04/2026)",
-      "url": "https://iltaccodibacco.it/puglia/eventi/318441.html"
-    },
-    {
-      "titolo": "Inforcapital, «Andriani partecipata da Nuo ottiene un finanziamento in pool da 55 mln euro da Crédit Agricole Italia e CDP con garanzia SACE» (23/08/2026)",
-      "url": "https://inforcapital.com/news/andriani-partecipata-da-nuo-ottiene-un-finanziamento-in-pool-da-55-mln-euro-da-crédit-agricole-italia-e-cdp-con-garanzia-sace/"
-    },
-    {
-      "titolo": "Interempresas, Fallece Nicola Amenduni a los 103 años",
-      "url": "https://www.interempresas.net/Produccion-Aceite/379306-Fallece-Nicola-Amenduni-a-los-103-anos.html"
-    },
-    {
-      "titolo": "Interni Magazine, «Savelletri di Fasano: Borgo Egnazia» (15/07/2013)",
-      "url": "https://www.internimagazine.com/design/projects/savelletri-di-fasano-borgo-egnazia-en/"
-    },
-    {
-      "titolo": "Intesa Sanpaolo, Intesa Sanpaolo: 50 milioni di euro con Garanzia Futuro di SACE a Casillo S.p.A. per innovazione e sviluppo sui mercati internazionali",
-      "url": "https://world.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/newsroom/comunicati-stampa-it/2025/02/Casillo%20%202025_02_26%20Comunicato%20Intesa%20Sanpaolo%20SACE.pdf"
-    },
-    {
-      "titolo": "Cassa Centrale Banca, comunicato stampa del 9 gennaio 2025 sul Gruppo Casillo",
-      "url": "https://italia-informa.com/public/italiainforma/ComunicatiStampa/Cassa_Centrale_Banca/CASSA_CENTRALE_9_GENNAIO.pdf"
-    },
-    {
-      "titolo": "ItaliaOggi, Distribuzione, Megamark rafforza il Sud. Investimenti da 180 milioni di euro",
-      "url": "https://www.italiaoggi.it/marketing-e-media/marketing/distribuzione-megamark-rafforza-il-sud-investimenti-da-180-milioni-di-euro-ox5vnyup"
-    },
-    {
-      "titolo": "ItaliaOggi, \"Natuzzi, ecco le tappe del rilancio dello storico marchio made in Italy\"",
-      "url": "https://www.italiaoggi.it/marketing-e-media/marketing/natuzzi-ecco-le-tappe-del-rilancio-dello-storico-marchio-made-in-italy-wlx12l5i"
-    },
-    {
-      "titolo": "ItaliaOggi, «Telenorba, trattive per l’acquisizione da parte di Ladisa in fase avanzata»",
-      "url": "https://www.italiaoggi.it/marketing-e-media/media/telenorba-trattive-per-lacquisizione-da-parte-di-ladisa-in-fase-avanzata-wqvptfws"
-    },
-    {
-      "titolo": "L'Italo-Americano, «Caffè Salentino: almond, ice, and the spirit of Puglia in a glass» (Chiara Dalessio, 10/06/2025)",
-      "url": "https://italoamericano.org/caffe-salentino/"
-    },
-    {
-      "titolo": "Italy Specialty Coffee, «Edo Quarta Coffee Roasters»",
-      "url": "https://italyspecialty.coffee/apulia/lecce/edo-quarta-coffee-roasters"
-    },
-    {
-      "titolo": "La Capitale News, «Telenorba verso la cessione, offerta da oltre 17 milioni di euro: la televisione pugliese può cambiare proprietario»",
-      "url": "https://www.lacapitalenews.it/attualita/telenorba-verso-la-cessione/"
-    },
-    {
-      "titolo": "La Conceria, Casarano resists: accessories squeezed by crisis and recovery",
-      "url": "https://www.laconceria.it/en/footwear/casarano-resists-accessories-squeezed-by-crisis-and-recovery"
-    },
-    {
-      "titolo": "La Conceria, After shoes and bags, Filograna now thinks about clothing",
-      "url": "https://laconceria.it/en/footwear/after-shoes-and-bags-filograna-now-thinks-about-clothing"
-    },
-    {
-      "titolo": "La Conceria, «We are reorganising Green Seagull to be ready for the restart»",
-      "url": "https://www.laconceria.it/en/footwear/we-are-reorganising-green-seagull-to-be-ready-for-the-restart/"
-    },
-    {
-      "titolo": "La Conceria, Luxury isn't stopping, Leo Shoes takes advantage and reaches 200 million",
-      "url": "https://laconceria.it/en/footwear/luxury-isnt-stopping-leo-shoes-takes-advantage-and-reaches-200-million"
-    },
-    {
-      "titolo": "La Conceria, LVMH is to buy Leo Shoes? Filograna’s denial is firm",
-      "url": "https://www.laconceria.it/en/finance/lvmh-is-to-buy-leo-shoes-filogranas-denial-is-firm/"
-    },
-    {
-      "titolo": "Ladisa Ristorazione, home page",
-      "url": "https://www.ladisaristorazione.it/"
-    },
-    {
-      "titolo": "Ladisa Ristorazione, Storia",
-      "url": "https://www.ladisaristorazione.it/it/Storia_ab107.html"
-    },
-    {
-      "titolo": "London Economic Development Corporation, «Andriani announces official opening of first North American production plant in London, Ontario» (16/10/2025)",
-      "url": "https://www.ledc.com/news/andriani-announces-official-opening-first-north-american-production-plant-london-ontario"
-    },
-    {
-      "titolo": "Il Libro Possibile, \"Francesco Casillo\" (scheda ospite)",
-      "url": "https://libropossibile.com/en/ospiti/francesco-casillo"
-    },
-    {
-      "titolo": "Maldarizzi Automotive, \"Chi siamo\"",
-      "url": "https://www.maldarizzi.com/chi-siamo"
-    },
-    {
-      "titolo": "Maldarizzi Automotive, Company Profile 2025",
-      "url": "https://cdnwp.dealerk.com/505ce4b1/uploads/sites/16/2025/11/COMPANY_PROFILE_2025.pdf"
-    },
-    {
-      "titolo": "Marguerite (comunicato), «Marguerite closed the acquisition of a minority stake in GTS group» (Luxembourg / Bari, 09/09/2021)",
-      "url": "https://www.marguerite.com/?p=1635"
-    },
-    {
-      "titolo": "MarketScreener, Pasquale Natuzzi: banen, relaties en netwerk",
-      "url": "https://be.marketscreener.com/insider/PASQUALE-NATUZZI-A017DP/"
-    },
-    {
-      "titolo": "MF Milano Finanza, Natuzzi sceglie Aldo Uva come ceo",
-      "url": "https://www.milanofinanza.it/fashion/natuzzi-sceglie-aldo-uva-come-ceo-202610221815012672"
-    },
-    {
-      "titolo": "MF Milano Finanza, Le Acciaierie Valbruna risentono dei prezzi in calo",
-      "url": "https://www.milanofinanza.it/news/le-acciaierie-valbruna-risentono-dei-prezzi-in-calo-2716656"
-    },
-    {
-      "titolo": "MF Milano Finanza, Questione di chimica",
-      "url": "https://www.milanofinanza.it/news/questione-di-chimica-2560206"
-    },
-    {
-      "titolo": "MF Milano Finanza, «Nicolaus su accordo di cessione»",
-      "url": "https://www.milanofinanza.it/news/nicolaus-su-accordo-di-cessione-2720507"
-    },
-    {
-      "titolo": "MLex, Siemens Mobility's Mermec railway deal secures EU merger clearance",
-      "url": "https://www.mlex.com/mlex/articles/2539954"
-    },
-    {
-      "titolo": "Modaes, LVMH sigue invirtiendo en producción y ultima la adquisición de Leo Shoes",
-      "url": "https://www.modaes.com/empresas/lvmh-sigue-invirtiendo-en-produccion-y-ultima-la-adquisicion-de-leo-shoes"
-    },
-    {
-      "titolo": "Comune di Molfetta, Carta dei servizi della mensa scolastica (Ladisa)",
-      "url": "https://www.comune.molfetta.ba.it/documenti/banner/Mensa/Carta_dei_servizi_Molfetta_Mensa.pdf"
-    },
-    {
-      "titolo": "Money.it, Top 10 aziende di Bari per fatturato. I numeri del polo economico pugliese",
-      "url": "https://www.money.it/top-10-aziende-di-bari-per-fatturato"
-    },
-    {
-      "titolo": "Motovario, Amenduni Nicola and Motovario (24/11/2010)",
-      "url": "https://www.motovario.com/zhs/新闻/motovarioapplicationandsolutions/amenduni-nicola-and-motovario"
-    },
-    {
-      "titolo": "Nicolaus, Chi siamo",
-      "url": "https://www.nicolaus.it/chi-siamo"
-    },
-    {
-      "titolo": "Open, «G7, il tour de force di Papa Francesco: 10 bilaterali in 7 ore. Dall'AI a Zelensky, ecco che cosa farà a Borgo Egnazia» (14/06/2024)",
-      "url": "https://www.open.online/2024/06/14/g7-borgo-egnazia-papa-francesco-incontri"
-    },
-    {
-      "titolo": "Panorama, L'innovazione di Divella",
-      "url": "https://www.panorama.it/attualita/linnovazione-di-divella"
-    },
-    {
-      "titolo": "Panorama, «Felicia, la pasta healthy che si prende cura delle persone e dell'ambiente» (Giacomo Ferruti, 30/12/2025)",
-      "url": "https://www.panorama.it/lifestyle/vino-e-cibo/felicia-la-pasta-healthy-che-si-prende-cura-delle-persone-e-dellambiente"
-    },
-    {
-      "titolo": "Panorama, «L’importanza di vivere del nostro patrimonio unico» (Sara Magro, 29/06/2023)",
-      "url": "https://www.panorama.it/tempo-libero/viaggi/intervista-melpignano-egnazia-ospitalita-puglia"
-    },
-    {
-      "titolo": "Panorama, \"Pasquale Natuzzi: il coraggio di essere imprenditori\"",
-      "url": "https://www.panorama.it/attualita/pasquale-natuzzi-coraggio-essere-imprenditori"
-    },
-    {
-      "titolo": "PartitaIva.it, La classifica delle migliori imprese di Bari nel 2026: chi sono e quanto fatturano",
-      "url": "https://www.partitaiva.it/migliori-imprese-bari-2026/"
-    },
-    {
-      "titolo": "The Pennsylvania Gazette, «Passion and Pain in Puglia» (Alyson Krueger, 23 giugno 2020)",
-      "url": "https://thepenngazette.com/passion-and-pain-in-puglia/"
-    },
-    {
-      "titolo": "Frontiere (Politecnico di Milano), Amuchina and Polichina: a century-long history",
-      "url": "https://www.frontiere.polimi.it/amuchina-polichina/?lang=en"
-    },
-    {
-      "titolo": "Port of Rotterdam, GTS starts direct rail connection between Bari and Rotterdam",
-      "url": "https://www.portofrotterdam.com/en/news-and-press-releases/gts-starts-direct-rail-connection-between-bari-and-rotterdam"
-    },
-    {
-      "titolo": "Qualitytravel, Valtur entra ufficialmente nell'albo dei marchi storici italiani",
-      "url": "https://www.qualitytravel.it/valtur-entra-ufficialmente-nellalbo-dei-marchi-storici-italiani-riconoscimento-al-valore-del-brand/170444"
-    },
-    {
-      "titolo": "Qualitytravel, Un anno della Valtur targata Nicolaus in cifre",
-      "url": "https://www.qualitytravel.it/un-anno-della-valtur-targata-nicolaus-in-cifre/69820"
-    },
-    {
-      "titolo": "Quantisnow, Natuzzi (NTZ) earnings",
-      "url": "https://quantisnow.com/earnings/NTZ"
-    },
-    {
-      "titolo": "QuiFinanza, Casillo-Intesa Sanpaolo, 50 milioni per Altograno: obiettivo mercati internazionali",
-      "url": "https://quifinanza.it/economia/casillo-altograno-intesa-sanpaolo/884738/amp/"
-    },
-    {
-      "titolo": "Quotidiano.net Motori, \"Lamborghini, nuova concessionaria a Bari che potenzia la rete in Italia\"",
-      "url": "https://motori.quotidiano.net/varie/curiosita/lamborghini-nuova-concessionaria-bari-potenzia-la-rete-italia.htm"
-    },
-    {
-      "titolo": "Quotidiano di Puglia, \"Il romanzo di Pierini vince il Premio Megamark\" (24/9/2022, p.17, rassegna Ecostampa)",
-      "url": "https://www.idialoghiditrani.com/wp-content/uploads/2022/09/G7AUIW.pdf"
-    },
-    {
-      "titolo": "Registro Aziende, Dati aziendali: Leo Shoes Srl, P.IVA 04338410758",
-      "url": "https://registroaziende.it/azienda/leo-shoes-srl-casarano"
-    },
-    {
-      "titolo": "Reportaziende, Apulia Distribuzione S.r.l.",
-      "url": "https://www.reportaziende.it/apulia_distribuzione_srl_ba_05754810728"
-    },
-    {
-      "titolo": "Retail Institute Italy, articoli su Apulia Distribuzione",
-      "url": "https://retailinstitute.it/tag/apulia-distribuzione/"
-    },
-    {
-      "titolo": "Shipping Italy, «Il 25% di Gts al fondo Marguerite: 120 Mln d’investimenti in 5 anni» (30/06/2021)",
-      "url": "https://www.shippingitaly.it/2021/06/30/il-25-di-gts-al-fondo-marguerite-120-mln-dinvestimenti-in-5-anni/?output=pdf"
-    },
-    {
-      "titolo": "Siciliani S.p.A., Chi siamo",
-      "url": "https://sicilianispa.com/siciliani-spa-chi-siamo/"
-    },
-    {
-      "titolo": "Siciliani S.p.A., Filiera bovina",
-      "url": "https://sicilianispa.com/siciliani-spa-filiera-bovina/"
-    },
-    {
-      "titolo": "Siciliani S.p.A., Home",
-      "url": "https://sicilianispa.com/"
-    },
-    {
-      "titolo": "Siemens, Siemens acquisisce le attività chiave di MERMEC per rafforzare il proprio portafoglio globale di tecnologia ferroviaria",
-      "url": "https://press.siemens.com/it/it/comunicatostampa/siemens-acquisisce-le-attivita-chiave-di-mermec-rafforzare-il-proprio-portafoglio"
-    },
-    {
-      "titolo": "Il Sole 24 Ore, Borgo Egnazia becomes a brand: target 20 luxury resorts by 2029",
-      "url": "https://en.ilsole24ore.com/art/borgo-egnazia-becomes-brand-target-20-luxury-resorts-by-2029-AGzmp7H"
-    },
-    {
-      "titolo": "Startmag, Crai, Despar, Arena, Megamark e non solo, ecco come la GDO del Sud accelera",
-      "url": "https://www.startmag.it/economia/crai-despar-arena-megamark-e-non-solo-ecco-come-la-gdo-del-sud-accelera/"
-    },
-    {
-      "titolo": "Startmag, Acciaierie Valbruna, perché il governo interviene con il golden power",
-      "url": "https://www.startmag.it/?p=340092"
-    },
-    {
-      "titolo": "Rai Superquark, Italia leader per i treni diagnostici (trascrizione, materiale RFI-PCTO, data servizio non indicata, caricato 12/2022)",
-      "url": "https://educazionedigitale.it/rfipcto/wp-content/uploads/2022/12/26_Superquark-Italia-leader-per-i-treni-diagnostici.pdf"
-    },
-    {
-      "titolo": "Teleborsa, A Siemens le attività di MER MEC nella diagnostica e segnalamento per il settore ferroviario (14/05/2026)",
-      "url": "https://www.teleborsa.it/News/2026/05/14/a-siemens-le-attivita-di-mer-mec-nella-diagnostica-e-segnalamento-per-il-settore-ferroviario-107.html"
-    },
-    {
-      "titolo": "Teleborsa, Natuzzi, avviata composizione negoziata della crisi",
-      "url": "https://www.teleborsa.it/News/2026/06/12/natuzzi-avviata-composizione-negoziata-della-crisi-23.html"
-    },
-    {
-      "titolo": "Teleborsa, «Natuzzi, Aldo Uva entra nel CdA e assumerà la carica di CEO»",
-      "url": "https://www.teleborsa.it/News/2026/09/14/natuzzi-aldo-uva-entra-nel-cda-e-assumera-la-carica-di-ceo-189.html"
-    },
-    {
-      "titolo": "TrasportoEuropa, «Gts strengthens its national rail offering»",
-      "url": "https://www.trasportoeuropa.it/?p=74886"
-    },
-    {
-      "titolo": "Università di Bari Aldo Moro, Invito laurea honoris causa Filograna",
-      "url": "https://www.uniba.it/it/ateneo/rettorato/ufficio-stampa/comunicati-stampa/anno-2023/allegati/invito-laurea-honoris-causa-filograna.pdf"
-    },
-    {
-      "titolo": "Università degli Studi di Bari (materiale didattico, prof.ssa Anna Lucia Muserra), Bilancio caso di studio n. 2 - Maldarizzi Automotive S.p.A., \"INFORMAZIONI SOCIETARIE\"",
-      "url": "https://www.uniba.it/it/docenti/muserra-anna-lucia/attivita-didattica/BilancioCasodistudion.2.pdf"
-    },
-    {
-      "titolo": "Università di Bari, \"Giovanni Pomarico – Gruppo Megamark, short bio\"",
-      "url": "https://www.uniba.it/it/eventi-alluniversita/anno-2026/allegati/giovanni-pomarico-gruppo-megamark_-short-bio.pdf"
-    },
-    {
-      "titolo": "Webull (ripubblicazione Business Wire/Barchart), Natuzzi Announces Financial Results for the Fourth Quarter of 2025",
-      "url": "https://www.webull.hk/en/news/14887845979046912"
-    },
-    {
-      "titolo": "We Wealth, La Ferrarina, figlia di un dio minore (e dell'Amuchina)",
-      "url": "https://www.we-wealth.com/?p=9420"
-    },
-    {
-      "titolo": "We Wealth, \"Il divano delle Murge che conquistò New York\"",
-      "url": "https://www.we-wealth.com/?p=12723"
-    },
-    {
-      "titolo": "Wikipedia, Acciaierie Valbruna",
-      "url": "https://it.wikipedia.org/wiki/Acciaierie_Valbruna"
-    },
-    {
-      "titolo": "Wikipedia (en), Air raid on Bari",
-      "url": "https://en.wikipedia.org/wiki/Air_raid_on_Bari"
-    },
-    {
-      "titolo": "Wikipedia (en), \"ASA 1000 GT Coupé\"",
-      "url": "https://en.wikipedia.org/wiki/ASA_(automobile)"
-    },
-    {
-      "titolo": "Wikipedia (EN), «Borgo Egnazia»",
-      "url": "https://en.wikipedia.org/wiki/Borgo_Egnazia"
-    },
-    {
-      "titolo": "Wikipedia (EN), «50th G7 summit»",
-      "url": "https://en.wikipedia.org/wiki/50th_G7_summit"
-    },
-    {
-      "titolo": "Wikipedia, Oronzio De Nora",
-      "url": "https://en.wikipedia.org/wiki/Oronzio_De_Nora"
-    },
-    {
-      "titolo": "Wikipedia, Pasquale Natuzzi",
-      "url": "https://en.wikipedia.org/wiki/Pasquale_Natuzzi"
-    },
-    {
-      "titolo": "Wikipedia (en), Vito Pertosa",
-      "url": "https://en.wikipedia.org/wiki/Vito_Pertosa"
-    }
-  ],
   "numero": "20",
   "regione": "Puglia",
   "serie": "famiglie",
   "pubblica": true,
-  "data": "2026-11-01"
+  "data": "2026-11-01",
+  "standard": 2,
+  "racconta": "Il pacco di pasta in dispensa, il divano del soggiorno, il caffè in ghiaccio d'estate, la spesa sotto casa: sembrano cose qualunque. Dietro, ogni volta, c'è una famiglia pugliese. In questo video mettiamo in fila 15 famiglie legate alla Puglia, che qui hanno la sede delle loro aziende oppure qui sono nate, e solo dove la famiglia ha la maggioranza: dalla quindicesima alla prima, per quanto fatturano le loro aziende in un anno (l'ultimo dato pubblicato).",
+  "capitoli": [
+    {
+      "titolo": "Apertura",
+      "minuto": "0:00",
+      "fonti": [
+        {
+          "testata": "Wikipedia",
+          "titolo": "Pasquale Natuzzi",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Pasquale_Natuzzi"
+        }
+      ]
+    },
+    {
+      "titolo": "15 · Quarta",
+      "minuto": "0:59",
+      "fonti": [
+        {
+          "testata": "AGI",
+          "titolo": "«Storia e varianti del caffè con ghiaccio, la bevanda dell'estate salentina»",
+          "data": "2023",
+          "url": "https://www.agi.it/lifestyle/news/2023-08-12/caff-ghiaccio-bevanda-storia-varianti-22581467/"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "«Quarta Caffè S.p.A.»",
+          "data": "",
+          "url": "https://www.aziende.it/quarta-caffe-s-p-a"
+        },
+        {
+          "testata": "beverfood.com",
+          "titolo": "«Quarta Caffè S.p.A.»",
+          "data": "",
+          "url": "https://www.beverfood.com/torrefazione/quarta-caffe-s-p-a"
+        },
+        {
+          "testata": "iltaccodibacco.it",
+          "titolo": "«Break on History» a Casa Quarta, Lecce",
+          "data": "2026",
+          "url": "https://iltaccodibacco.it/puglia/eventi/318441.html"
+        },
+        {
+          "testata": "italyspecialty.coffee",
+          "titolo": "«Edo Quarta Coffee Roasters»",
+          "data": "",
+          "url": "https://italyspecialty.coffee/apulia/lecce/edo-quarta-coffee-roasters"
+        }
+      ]
+    },
+    {
+      "titolo": "14 · Melpignano",
+      "minuto": "2:39",
+      "fonti": [
+        {
+          "testata": "AGI",
+          "titolo": "«La storia di Borgo Egnazia, dalle origini al G7»",
+          "data": "2024",
+          "url": "https://www.agi.it/politica/news/2024-06-12/storia-borgo-egnazia-puglia-g7-26740546/"
+        },
+        {
+          "testata": "Atoka",
+          "titolo": "Egnathia Iniziative Turistiche E.I.T. S.p.A.",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/egnathia-iniziative-turistiche-eit-spa/e40fdea54ad8"
+        },
+        {
+          "testata": "European Tour (DP World Tour / Challenge Tour)",
+          "titolo": "«Sergio Melpignano 1946-2015»",
+          "data": "settembre 2015",
+          "url": "https://www.europeantour.com/hotelplanner-tour/news/articles/detail/sergio-melpignano-1946-2015/"
+        },
+        {
+          "testata": "Interni Magazine",
+          "titolo": "«Savelletri di Fasano: Borgo Egnazia»",
+          "data": "2013",
+          "url": "https://www.internimagazine.com/design/projects/savelletri-di-fasano-borgo-egnazia-en/"
+        },
+        {
+          "testata": "Panorama",
+          "titolo": "«L’importanza di vivere del nostro patrimonio unico»",
+          "data": "2023",
+          "url": "https://www.panorama.it/tempo-libero/viaggi/intervista-melpignano-egnazia-ospitalita-puglia"
+        },
+        {
+          "testata": "The Pennsylvania Gazette (rivista alumni Univ. of Pennsylvania)",
+          "titolo": "The Pennsylvania Gazette, «Passion and Pain in Puglia»",
+          "data": "23 giugno 2020",
+          "url": "https://thepenngazette.com/passion-and-pain-in-puglia/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia (EN), «Borgo Egnazia»",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Borgo_Egnazia"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia (EN), «50th G7 summit»",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/50th_G7_summit"
+        }
+      ]
+    },
+    {
+      "titolo": "13 · Andriani",
+      "minuto": "4:30",
+      "fonti": [
+        {
+          "testata": "Andriani S.p.A. / ICE Agenzia",
+          "titolo": "Andriani S.p.A., brochure aziendale per PLMA Amsterdam 2023 (pubblicata da ICE Agenzia)",
+          "data": "",
+          "url": "https://plmaams25.eventidigitali.ice.it/wp-content/uploads/2023/05/stampato-solo-andriani_eng-aggiornato_WEB.pdf"
+        },
+        {
+          "testata": "Bühler Group (fornitore impianti; storia cliente)",
+          "titolo": "Bühler Group, «Rethinking pasta»",
+          "data": "giugno 2025",
+          "url": "https://www.buhlergroup.com/global/en/stories/inspiration-hub/andriani.html"
+        },
+        {
+          "testata": "CDP",
+          "titolo": "Cassa Depositi e Prestiti, «Da Crédit Agricole Italia e CDP 34 milioni con Garanzia SACE al Gruppo Andriani per un nuovo stabilimento in Nord America»",
+          "data": "2023",
+          "url": "https://www.cdp.it/resources/cms/documents/Comunicato Stampa_n.60_del_05_07_2023_Andriani CAI CDP SACE.pdf"
+        },
+        {
+          "testata": "CDP",
+          "titolo": "Cassa Depositi e Prestiti, Comunicato stampa n. 108 del 15/09/2020 (Andriani)",
+          "data": "",
+          "url": "https://www.cdp.it/resources/cms/documents/Comunicato stampa n. 108 del 15 09 2020_Andriani.pdf"
+        },
+        {
+          "testata": "Fortune Italia",
+          "titolo": "«Andriani diventa una multinazionale: inaugurato il primo stabilimento produttivo in Canada»",
+          "data": "",
+          "url": "https://www.fortuneita.com/?p=370997"
+        },
+        {
+          "testata": "ICE Agenzia",
+          "titolo": "«Andriani S.p.A. Benefit Corporation opens first North American production plant»",
+          "data": "2025",
+          "url": "https://www.ice.it/it/news/notizie-dal-mondo/294746"
+        },
+        {
+          "testata": "Inforcapital",
+          "titolo": "«Andriani partecipata da Nuo ottiene un finanziamento in pool da 55 mln euro da Crédit Agricole Italia e CDP con garanzia SACE»",
+          "data": "2026",
+          "url": "https://inforcapital.com/news/andriani-partecipata-da-nuo-ottiene-un-finanziamento-in-pool-da-55-mln-euro-da-crédit-agricole-italia-e-cdp-con-garanzia-sace/"
+        },
+        {
+          "testata": "Panorama",
+          "titolo": "«Felicia, la pasta healthy che si prende cura delle persone e dell'ambiente»",
+          "data": "2025",
+          "url": "https://www.panorama.it/lifestyle/vino-e-cibo/felicia-la-pasta-healthy-che-si-prende-cura-delle-persone-e-dellambiente"
+        }
+      ]
+    },
+    {
+      "titolo": "12 · Muciaccia",
+      "minuto": "5:48",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "«G.t.s. - General Transport Service Spa | Movimentazione merci relativa a trasporti ferroviari a Bari | Dati e Contatti»",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/gts-general-transport-service-spa/a4da84c15707"
+        },
+        {
+          "testata": "ELITE (Borsa Italiana / Euronext network)",
+          "titolo": "GTS Holding, Transport Efficiency and Environmental Protection",
+          "data": "",
+          "url": "https://www.elite-network.com/news/gts-holding-transport-efficiency-and-environmental-protection"
+        },
+        {
+          "testata": "Marguerite",
+          "titolo": "«Marguerite closed the acquisition of a minority stake in GTS group»",
+          "data": "2021",
+          "url": "https://www.marguerite.com/?p=1635"
+        },
+        {
+          "testata": "Port of Rotterdam (comunicato)",
+          "titolo": "GTS starts direct rail connection between Bari and Rotterdam",
+          "data": "",
+          "url": "https://www.portofrotterdam.com/en/news-and-press-releases/gts-starts-direct-rail-connection-between-bari-and-rotterdam"
+        },
+        {
+          "testata": "Shipping Italy",
+          "titolo": "«Il 25% di Gts al fondo Marguerite: 120 Mln d’investimenti in 5 anni»",
+          "data": "2021",
+          "url": "https://www.shippingitaly.it/2021/06/30/il-25-di-gts-al-fondo-marguerite-120-mln-dinvestimenti-in-5-anni/?output=pdf"
+        },
+        {
+          "testata": "TrasportoEuropa",
+          "titolo": "«Gts strengthens its national rail offering»",
+          "data": "",
+          "url": "https://www.trasportoeuropa.it/?p=74886"
+        }
+      ]
+    },
+    {
+      "titolo": "11 · Filograna Sergio",
+      "minuto": "7:11",
+      "fonti": [
+        {
+          "testata": "Camera dei deputati",
+          "titolo": "XIII legislatura, Resoconto stenografico seduta n. 506 del 17 marzo 1999 (interrogazione 3-03598)",
+          "data": "",
+          "url": "https://documenti.camera.it/_dati/leg13/lavori/stenografici/sed506/s150.htm"
+        },
+        {
+          "testata": "Forbes Italia",
+          "titolo": "Il miliardario francese Arnault in visita nelle aziende del Salento dove si produce Dior",
+          "data": "",
+          "url": "https://forbes.it/2023/09/15/bernard-arnault-investimenti-manifattura-pugliese/"
+        },
+        {
+          "testata": "La Conceria",
+          "titolo": "Casarano resists: accessories squeezed by crisis and recovery",
+          "data": "",
+          "url": "https://www.laconceria.it/en/footwear/casarano-resists-accessories-squeezed-by-crisis-and-recovery"
+        },
+        {
+          "testata": "La Conceria",
+          "titolo": "Luxury isn't stopping, Leo Shoes takes advantage and reaches 200 million",
+          "data": "",
+          "url": "https://laconceria.it/en/footwear/luxury-isnt-stopping-leo-shoes-takes-advantage-and-reaches-200-million"
+        },
+        {
+          "testata": "La Conceria",
+          "titolo": "LVMH is to buy Leo Shoes? Filograna’s denial is firm",
+          "data": "",
+          "url": "https://www.laconceria.it/en/finance/lvmh-is-to-buy-leo-shoes-filogranas-denial-is-firm/"
+        },
+        {
+          "testata": "La Conceria",
+          "titolo": "After shoes and bags, Filograna now thinks about clothing",
+          "data": "",
+          "url": "https://laconceria.it/en/footwear/after-shoes-and-bags-filograna-now-thinks-about-clothing"
+        },
+        {
+          "testata": "Registro Aziende (registroaziende.it)",
+          "titolo": "Dati aziendali: Leo Shoes Srl, P.IVA 04338410758",
+          "data": "",
+          "url": "https://registroaziende.it/azienda/leo-shoes-srl-casarano"
+        }
+      ]
+    },
+    {
+      "titolo": "10 · Pagliara",
+      "minuto": "8:27",
+      "fonti": [
+        {
+          "testata": "BeBeez",
+          "titolo": "Nicolaus Tour si finanzia con un minibond da 10 mln euro. Lo sottoscrive tutto UniCredit",
+          "data": "",
+          "url": "https://bebeez.it/private-debt/nicolaus-tour-si-finanzia-con-un-minibond-da-10-mln-euro-lo-sottoscrive-tutto-unicredit/"
+        },
+        {
+          "testata": "Forbes Italia",
+          "titolo": "Gruppo Nicolaus: Giuseppe e Roberto Pagliara",
+          "data": "",
+          "url": "https://forbes.it/2024/04/16/gruppo-nicolaus-giuseppe-roberto-pagliara"
+        },
+        {
+          "testata": "MF Milano Finanza",
+          "titolo": "«Nicolaus su accordo di cessione»",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/nicolaus-su-accordo-di-cessione-2720507"
+        },
+        {
+          "testata": "Nicolaus (sito ufficiale)",
+          "titolo": "Chi siamo",
+          "data": "",
+          "url": "https://www.nicolaus.it/chi-siamo"
+        },
+        {
+          "testata": "Qualitytravel.it (17/06/2025)",
+          "titolo": "Valtur entra ufficialmente nell'albo dei marchi storici italiani",
+          "data": "",
+          "url": "https://www.qualitytravel.it/valtur-entra-ufficialmente-nellalbo-dei-marchi-storici-italiani-riconoscimento-al-valore-del-brand/170444"
+        }
+      ]
+    },
+    {
+      "titolo": "9 · Ladisa",
+      "minuto": "9:39",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "Ladisa S.r.l.",
+          "data": "",
+          "url": "https://www.aziende.it/ladisa-s-r-l-BA"
+        },
+        {
+          "testata": "Il Foglio",
+          "titolo": "Dal barolo Gedi alle orecchiette. Il gruppo Ladisa punta Huffington post e La Sentinella del Canavese",
+          "data": "",
+          "url": "https://ilfoglio.it/attualita/2024/02/02/standard/e-spirito-di-servizio-avremo-molta-attenzione-ai-giovani--125029"
+        },
+        {
+          "testata": "ItaliaOggi",
+          "titolo": "«Telenorba, trattive per l’acquisizione da parte di Ladisa in fase avanzata»",
+          "data": "",
+          "url": "https://www.italiaoggi.it/marketing-e-media/media/telenorba-trattive-per-lacquisizione-da-parte-di-ladisa-in-fase-avanzata-wqvptfws"
+        },
+        {
+          "testata": "ladisaristorazione.it (sito aziendale)",
+          "titolo": "home page",
+          "data": "",
+          "url": "https://www.ladisaristorazione.it/"
+        },
+        {
+          "testata": "ladisaristorazione.it (sito aziendale)",
+          "titolo": "Storia",
+          "data": "",
+          "url": "https://www.ladisaristorazione.it/it/Storia_ab107.html"
+        }
+      ]
+    },
+    {
+      "titolo": "8 · Divella",
+      "minuto": "11:06",
+      "fonti": [
+        {
+          "testata": "Atoka (atoka.io)",
+          "titolo": "F. Divella Spa | Produzione di prodotti farinacei a Rutigliano | Dati e Contatti",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/f-divella-spa/292f4fa2041e"
+        },
+        {
+          "testata": "Bühler Group (Inspiration Hub, contenuto del fornitore)",
+          "titolo": "Bühler Group, Pasta e passione! For 130 years",
+          "data": "",
+          "url": "https://buhlergroup.com/global/en/stories/inspiration-hub/divella.html"
+        },
+        {
+          "testata": "divella.it (sito aziendale)",
+          "titolo": "Storia - Divella",
+          "data": "",
+          "url": "https://www.divella.it/it/storia"
+        },
+        {
+          "testata": "Ecoseven (da Adnkronos)",
+          "titolo": "Francesco Divella: “Fatturato 2020 sopra quota 300 mln, ora attratti anche da Cina”",
+          "data": "",
+          "url": "https://www.ecoseven.net/flash-news/francesco-divella-fatturato-2020-sopra-quota-300-mln-ora-attratti-anche-da-cina/"
+        },
+        {
+          "testata": "Foodweb",
+          "titolo": "Divella: una storia di successo e passione mediterranea dal 1890",
+          "data": "",
+          "url": "https://www.foodweb.it/2022/05/divella-tra-i-marchi-storici-una-storia-di-successo-e-passione-mediterranea-dal-1890"
+        },
+        {
+          "testata": "Poste Italiane / Ministero dello Sviluppo Economico (bollettino di emissione, ripubblicato da ilpostalista.it)",
+          "titolo": "Poste Italiane, Comunicato – Emissione di un francobollo dedicato a F. DIVELLA S.p.A., nel 130° anniversario della fondazione",
+          "data": "",
+          "url": "https://www.ilpostalista.it/emissioni2020it/pdf/2020016f.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "7 · Natuzzi",
+      "minuto": "12:22",
+      "fonti": [
+        {
+          "testata": "Business Wire (comunicato societario)",
+          "titolo": "Natuzzi Announces Financial Results for the First Quarter of 2026",
+          "data": "",
+          "url": "https://www.businesswire.com/news/home/20260805130872/en/"
+        },
+        {
+          "testata": "CompanyReports",
+          "titolo": "Fatturato aziende nella Provincia di Bari",
+          "data": "",
+          "url": "https://www.companyreports.it/provincia/bari"
+        },
+        {
+          "testata": "Il Post",
+          "titolo": "\"La crisi di Natuzzi ha qualcosa di simile a quella di Stellantis\"",
+          "data": "",
+          "url": "https://www.ilpost.it/2026/03/19/crisi-natuzzi-vendite-cause/"
+        },
+        {
+          "testata": "MarketScreener (België)",
+          "titolo": "Pasquale Natuzzi: banen, relaties en netwerk",
+          "data": "",
+          "url": "https://be.marketscreener.com/insider/PASQUALE-NATUZZI-A017DP/"
+        },
+        {
+          "testata": "MF Milano Finanza",
+          "titolo": "Natuzzi sceglie Aldo Uva come ceo",
+          "data": "",
+          "url": "https://www.milanofinanza.it/fashion/natuzzi-sceglie-aldo-uva-come-ceo-202610221815012672"
+        },
+        {
+          "testata": "Natuzzi S.p.A., comunicato societario via Business Wire",
+          "titolo": "Webull (ripubblicazione Business Wire/Barchart), Natuzzi Announces Financial Results for the Fourth Quarter of 2025",
+          "data": "",
+          "url": "https://www.webull.hk/en/news/14887845979046912"
+        },
+        {
+          "testata": "Panorama",
+          "titolo": "\"Pasquale Natuzzi: il coraggio di essere imprenditori\"",
+          "data": "",
+          "url": "https://www.panorama.it/attualita/pasquale-natuzzi-coraggio-essere-imprenditori"
+        },
+        {
+          "testata": "Teleborsa",
+          "titolo": "Natuzzi, avviata composizione negoziata della crisi",
+          "data": "",
+          "url": "https://www.teleborsa.it/News/2026/06/12/natuzzi-avviata-composizione-negoziata-della-crisi-23.html"
+        },
+        {
+          "testata": "We Wealth",
+          "titolo": "\"Il divano delle Murge che conquistò New York\"",
+          "data": "",
+          "url": "https://www.we-wealth.com/?p=12723"
+        }
+      ]
+    },
+    {
+      "titolo": "6 · Maldarizzi",
+      "minuto": "13:46",
+      "fonti": [
+        {
+          "testata": "astonmartin.com (comunicato)",
+          "titolo": "\"Aston Martin expands presence in Italy with launch of Aston Martin Rome\"",
+          "data": "",
+          "url": "https://www.astonmartin.com/en/our-world/news/2025/9/25/aston-martin-expands-presence-in-italy-with-launch-of-aston-martin-rome"
+        },
+        {
+          "testata": "maldarizzi.com",
+          "titolo": "\"Chi siamo\"",
+          "data": "",
+          "url": "https://www.maldarizzi.com/chi-siamo"
+        },
+        {
+          "testata": "maldarizzi.com (documento aziendale)",
+          "titolo": "Maldarizzi Automotive, Company Profile 2025",
+          "data": "",
+          "url": "https://cdnwp.dealerk.com/505ce4b1/uploads/sites/16/2025/11/COMPANY_PROFILE_2025.pdf"
+        },
+        {
+          "testata": "partitaiva.it",
+          "titolo": "La classifica delle migliori imprese di Bari nel 2026: chi sono e quanto fatturano",
+          "data": "",
+          "url": "https://www.partitaiva.it/migliori-imprese-bari-2026/"
+        },
+        {
+          "testata": "Quotidiano.net (QN)",
+          "titolo": "Quotidiano.net Motori, \"Lamborghini, nuova concessionaria a Bari che potenzia la rete in Italia\"",
+          "data": "",
+          "url": "https://motori.quotidiano.net/varie/curiosita/lamborghini-nuova-concessionaria-bari-potenzia-la-rete-italia.htm"
+        },
+        {
+          "testata": "Università degli Studi di Bari Aldo Moro",
+          "titolo": "Università degli Studi di Bari (materiale didattico, prof.ssa Anna Lucia Muserra), Bilancio caso di studio n. 2 - Maldarizzi Automotive S.p.A., \"INFORMAZIONI SOCIETARIE\"",
+          "data": "",
+          "url": "https://www.uniba.it/it/docenti/muserra-anna-lucia/attivita-didattica/BilancioCasodistudion.2.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "5 · Siciliani",
+      "minuto": "15:00",
+      "fonti": [
+        {
+          "testata": "CompanyReports",
+          "titolo": "Fatturato aziende nella Provincia di Bari",
+          "data": "",
+          "url": "https://www.companyreports.it/provincia/bari"
+        },
+        {
+          "testata": "Gulfood (Dubai World Trade Centre)",
+          "titolo": "Exhibitors - Siciliani S.p.A.",
+          "data": "",
+          "url": "https://www.gulfood.com/exhibitors/siciliani-spa"
+        },
+        {
+          "testata": "Siciliani S.p.A. (sito ufficiale)",
+          "titolo": "Chi siamo",
+          "data": "",
+          "url": "https://sicilianispa.com/siciliani-spa-chi-siamo/"
+        },
+        {
+          "testata": "Siciliani S.p.A. (sito ufficiale)",
+          "titolo": "Filiera bovina",
+          "data": "",
+          "url": "https://sicilianispa.com/siciliani-spa-filiera-bovina/"
+        }
+      ]
+    },
+    {
+      "titolo": "4 · De Nora",
+      "minuto": "15:48",
+      "fonti": [
+        {
+          "testata": "Borsa Italiana",
+          "titolo": "Industrie De Nora - Profilo società",
+          "data": "",
+          "url": "https://www.borsaitaliana.it/borsa/azioni/profilo-societa-dettaglio.html?isin=IT0005186371"
+        },
+        {
+          "testata": "De Nora (sito ufficiale)",
+          "titolo": "The beginnings of Oronzio De Nora (Centennial)",
+          "data": "",
+          "url": "https://denora.com/who-we-are/De-Nora-centennial/The-beginnings-of-Oronzio-De-Nora.html"
+        },
+        {
+          "testata": "Forbes Italia (30/06/2022)",
+          "titolo": "De Nora sbarca in Borsa (capitalizzazione 2,7 miliardi)",
+          "data": "",
+          "url": "https://forbes.it/2022/06/30/de-nora-sbarca-borsa-capitalizzazione-27-miliardi/"
+        },
+        {
+          "testata": "Frontiere - Politecnico di Milano",
+          "titolo": "Amuchina and Polichina: a century-long history",
+          "data": "",
+          "url": "https://www.frontiere.polimi.it/amuchina-polichina/?lang=en"
+        },
+        {
+          "testata": "Industrie De Nora",
+          "titolo": "De Nora, Relazione annuale integrata 2025",
+          "data": "",
+          "url": "https://a.storyblok.com/f/286863414504080/x/6e6c170c7d/relazione-annuale-integrata-2025_ita.pdf"
+        },
+        {
+          "testata": "Industrie De Nora (sito ufficiale, Investors)",
+          "titolo": "Shareholding",
+          "data": "",
+          "url": "https://denora.com/en/investors/share-information/shareholding"
+        },
+        {
+          "testata": "Milano Finanza",
+          "titolo": "Questione di chimica",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/questione-di-chimica-2560206"
+        },
+        {
+          "testata": "We Wealth (Pier Angelo Roncaccioli, 12/04/2021)",
+          "titolo": "La Ferrarina, figlia di un dio minore (e dell'Amuchina)",
+          "data": "",
+          "url": "https://www.we-wealth.com/?p=9420"
+        }
+      ]
+    },
+    {
+      "titolo": "3 · Amenduni",
+      "minuto": "17:16",
+      "fonti": [
+        {
+          "testata": "Avvenire",
+          "titolo": "In Alto Adige tutti vogliono salvare le acciaierie Valbruna, ma c'è chi rema contro",
+          "data": "",
+          "url": "https://www.avvenire.it/attualita/in-alto-adige-tutti-vogliono-salvare-le-acciaierie-valbruna-ma-ce-chi-rema-contro_103335"
+        },
+        {
+          "testata": "il Nord Est",
+          "titolo": "L'incontro con Enrico Mattei, Gianni Agnelli e Giovanni Paolo I. Il viaggio da Bari a Vicenza per amore di Mariù: chi era Nicola Amenduni",
+          "data": "",
+          "url": "https://www.ilnordest.it/economia/imprese/lincontro-con-enrico-mattei-gianni-agnelli-e-giovanni-paolo-i-il-viaggio-da-bari-a-vicenza-per-amore-di-mariu-d9qjbyd0"
+        },
+        {
+          "testata": "il Nord Est",
+          "titolo": "Addio a Nicola Amenduni, è morto il re dell'acciaio",
+          "data": "",
+          "url": "https://www.ilnordest.it/economia/imprese/addio-a-nicola-amenduni-e-morto-il-re-dellacciaio-xs1j8i40"
+        },
+        {
+          "testata": "Il NordEst Quotidiano",
+          "titolo": "Valbruna resta a Bolzano, accordo con la Provincia",
+          "data": "",
+          "url": "https://www.ilnordest.it/economia/imprese/valbruna-resta-a-bolzano-accordo-con-la-provincia-x4ejo65p"
+        },
+        {
+          "testata": "Interempresas",
+          "titolo": "Fallece Nicola Amenduni a los 103 años",
+          "data": "",
+          "url": "https://www.interempresas.net/Produccion-Aceite/379306-Fallece-Nicola-Amenduni-a-los-103-anos.html"
+        },
+        {
+          "testata": "MF Milano Finanza",
+          "titolo": "Le Acciaierie Valbruna risentono dei prezzi in calo",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/le-acciaierie-valbruna-risentono-dei-prezzi-in-calo-2716656"
+        },
+        {
+          "testata": "Startmag",
+          "titolo": "Acciaierie Valbruna, perché il governo interviene con il golden power",
+          "data": "",
+          "url": "https://www.startmag.it/?p=340092"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Acciaierie Valbruna",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Acciaierie_Valbruna"
+        }
+      ]
+    },
+    {
+      "titolo": "2 · Casillo",
+      "minuto": "18:35",
+      "fonti": [
+        {
+          "testata": "Forbes Italia",
+          "titolo": "La storia di Casillo, l’azienda familiare che lavora il grano per il 70% della pasta italiana",
+          "data": "",
+          "url": "https://forbes.it/2026/08/17/casillo-azienda-lavora-grano-70-pasta-italiano/"
+        },
+        {
+          "testata": "Il Libro Possibile (festival, Polignano a Mare)",
+          "titolo": "\"Francesco Casillo\" (scheda ospite)",
+          "data": "",
+          "url": "https://libropossibile.com/en/ospiti/francesco-casillo"
+        },
+        {
+          "testata": "Intesa Sanpaolo (comunicato stampa)",
+          "titolo": "Intesa Sanpaolo: 50 milioni di euro con Garanzia Futuro di SACE a Casillo S.p.A. per innovazione e sviluppo sui mercati internazionali",
+          "data": "",
+          "url": "https://world.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/newsroom/comunicati-stampa-it/2025/02/Casillo%20%202025_02_26%20Comunicato%20Intesa%20Sanpaolo%20SACE.pdf"
+        },
+        {
+          "testata": "la Repubblica (supplemento, rassegna despar.com)",
+          "titolo": "la Repubblica, Album Top 300 Puglia e Basilicata: Imprese più floride in Puglia e Basilicata, fatturati in crescita ma pesano i rincari",
+          "data": "",
+          "url": "https://despar.com/public/press/Top300-29022024.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "1 · Pomarico",
+      "minuto": "19:46",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "Megamark S.r.l.",
+          "data": "",
+          "url": "https://www.aziende.it/megamark-s-r-l"
+        },
+        {
+          "testata": "EconomyUp",
+          "titolo": "\"Open innovation, Megamark: il colosso del Sud che compra startup\"",
+          "data": "",
+          "url": "https://www.economyup.it/startup/open-innovation-megamark-il-colosso-del-sud-che-compra-startup/"
+        },
+        {
+          "testata": "ItaliaOggi",
+          "titolo": "Distribuzione, Megamark rafforza il Sud. Investimenti da 180 milioni di euro",
+          "data": "",
+          "url": "https://www.italiaoggi.it/marketing-e-media/marketing/distribuzione-megamark-rafforza-il-sud-investimenti-da-180-milioni-di-euro-ox5vnyup"
+        },
+        {
+          "testata": "Startmag",
+          "titolo": "Crai, Despar, Arena, Megamark e non solo, ecco come la GDO del Sud accelera",
+          "data": "",
+          "url": "https://www.startmag.it/economia/crai-despar-arena-megamark-e-non-solo-ecco-come-la-gdo-del-sud-accelera/"
+        },
+        {
+          "testata": "Università degli Studi di Bari (bio fornita per evento 2026)",
+          "titolo": "Università di Bari, \"Giovanni Pomarico – Gruppo Megamark, short bio\"",
+          "data": "",
+          "url": "https://www.uniba.it/it/eventi-alluniversita/anno-2026/allegati/giovanni-pomarico-gruppo-megamark_-short-bio.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "Coda",
+      "minuto": "20:54",
+      "fonti": [
+        {
+          "testata": "Affaritaliani",
+          "titolo": "Apulia Distribuzione e Rossotono, rilancio dell'agroalimentare italiano",
+          "data": "",
+          "url": "https://www.affaritaliani.it/puglia/apulia-distribuzione-e-rossotono-rilancio-dell-agroalimentare-italiano-685134.html"
+        },
+        {
+          "testata": "AGI - Agenzia Italia",
+          "titolo": "satellite Sitael in orbita con SpaceX di Elon Musk",
+          "data": "2018",
+          "url": "https://www.agi.it/blog-italia/startup/sitael_satellite_elon_musk-4708514/post/2018-12-05"
+        },
+        {
+          "testata": "despar.com",
+          "titolo": "Innovazione e qualità: la ricetta di Maiora (informazione pubblicitaria)",
+          "data": "",
+          "url": "https://www.despar.com/public/press//Maiora.pdf"
+        },
+        {
+          "testata": "Rai Superquark (Piero Angela) via educazionedigitale.it",
+          "titolo": "Rai Superquark, Italia leader per i treni diagnostici (trascrizione, materiale RFI-PCTO, data servizio non indicata, caricato 12/2022)",
+          "data": "",
+          "url": "https://educazionedigitale.it/rfipcto/wp-content/uploads/2022/12/26_Superquark-Italia-leader-per-i-treni-diagnostici.pdf"
+        },
+        {
+          "testata": "reportaziende.it",
+          "titolo": "Apulia Distribuzione S.r.l.",
+          "data": "",
+          "url": "https://www.reportaziende.it/apulia_distribuzione_srl_ba_05754810728"
+        },
+        {
+          "testata": "Siemens Italia (comunicato stampa)",
+          "titolo": "Siemens acquisisce le attività chiave di MERMEC per rafforzare il proprio portafoglio globale di tecnologia ferroviaria",
+          "data": "",
+          "url": "https://press.siemens.com/it/it/comunicatostampa/siemens-acquisisce-le-attivita-chiave-di-mermec-rafforzare-il-proprio-portafoglio"
+        },
+        {
+          "testata": "The Brussels Times",
+          "titolo": "«EU clears Siemens takeover of MerMec in rail tech deal scrutiny»",
+          "data": "",
+          "url": "https://www.brusselstimes.com/eu-affairs/2370017/eu-clears-siemens-takeover-of-mermec-in-rail-tech-deal-scrutiny"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia (en), Vito Pertosa",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Vito_Pertosa"
+        }
+      ]
+    },
+    {
+      "titolo": "Chiusura",
+      "minuto": "21:56",
+      "fonti": [
+        {
+          "testata": "EconomyUp",
+          "titolo": "\"Open innovation, Megamark: il colosso del Sud che compra startup\"",
+          "data": "",
+          "url": "https://www.economyup.it/startup/open-innovation-megamark-il-colosso-del-sud-che-compra-startup/"
+        }
+      ]
+    }
+  ],
+  "fonti_generali": [
+    {
+      "testata": "Gambero Rosso International",
+      "titolo": "«All about the tradition of mixing coffee and ice in Italy and the rest of the world»",
+      "data": "2021",
+      "url": "https://www.gamberorossointernational.com/?p=312453"
+    },
+    {
+      "testata": "gtslogistic.com (sito aziendale)",
+      "titolo": "Storia",
+      "data": "",
+      "url": "https://www.gtslogistic.com/it/storia"
+    }
+  ]
 }

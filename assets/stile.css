@@ -15,6 +15,15 @@ ol,ul{padding-left:1.2em;overflow-wrap:anywhere}li{margin:.5em 0}a{color:var(--o
 .cr{display:block;overflow-wrap:anywhere;padding:10px 0;border-bottom:1px dashed var(--linea);font-size:17px}
 .cr .m,.cr .l{font:14px 'Inter',sans-serif;color:var(--grigio)}
 .nota{background:var(--fondo2);border-left:3px solid var(--oro);padding:12px 16px}
+.racconta{font-size:20px;color:var(--testo);margin:1.2em 0 0}
+.indice{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 0;padding:0;list-style:none}.indice li{margin:0}
+.indice a{display:block;font:600 14px 'Inter',sans-serif;color:var(--testo);text-decoration:none;border:1px solid var(--linea);border-radius:999px;padding:6px 12px}
+.indice a:hover{border-color:var(--oro);color:var(--oro)}
+.cap{margin:2.2em 0 0;padding-top:.2em}.cap h3{font:24px/1.15 'Anton',Impact,sans-serif;color:#fff;letter-spacing:.02em;margin:0 0 .5em;display:flex;gap:12px;align-items:baseline}
+.cap h3 .min{font:600 14px 'Inter',sans-serif;color:var(--oro);letter-spacing:.06em;white-space:nowrap}
+.fonte{padding:10px 0;border-bottom:1px dashed var(--linea);overflow-wrap:anywhere}
+.fonte .t{font:700 12px 'Inter',sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--grigio)}
+.fonte .a{display:block;font-size:18px;line-height:1.3;margin:.15em 0 0}
 .ep{display:grid;grid-template-columns:260px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--linea);text-decoration:none;color:var(--testo)}
 .ep img{width:100%;border-radius:6px}.ep h3{margin:.15em 0;font:24px/1.15 'Anton',Impact,sans-serif;color:#fff;letter-spacing:.01em}
 .motto{font:46px/1.05 'Anton',Impact,sans-serif;color:#fff;margin:.1em 0 .25em;text-transform:uppercase}
