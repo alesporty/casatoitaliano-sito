@@ -188,12 +188,12 @@ def pagina(v):
             corpo += f"<section class=cap id=c{i}><h3>{e(c['titolo'])}</h3>" + ''.join(fonte(f) for f in c['fonti']) + "</section>"
         if v.get('elenco'):   # seconda forma (bibbia §12, v1.3): elenco unico pulito, quando l'episodio non lega le frasi ai capitoli
             corpo += ''.join(fonte(f) for f in v['elenco'])
-        if v.get('fonti_generali'): corpo += "<h2>Fonti generali</h2><p class=nota>Fonti che sostengono passaggi di più capitoli.</p>" + ''.join(fonte(f) for f in v['fonti_generali'])
+        if v.get('fonti_generali'): corpo += "<h2>Fonti generali</h2>" + ''.join(fonte(f) for f in v['fonti_generali'])
         if cr or g.get('immagini') or g.get('clip') or m.get('dati_mappe'): corpo += "<h2>Materiali</h2>"
         if cr: corpo += f"<h3 class=fg>Attribuzioni di immagini e video</h3>{cr}"
         if g.get('immagini') or g.get('clip'):
             q = ' e '.join(x for x in (f"{g['immagini']} immagini" if g.get('immagini') else '', f"{g['clip']} clip" if g.get('clip') else '') if x)
-            corpo += f"<h3 class=fg>Scene ricostruite</h3><p class=nota>Alcune scene sono ricostruite con l'intelligenza artificiale ({q}). Non sono documenti né fotografie d'epoca.</p>"
+            corpo += f"<h3 class=fg>Scene ricostruite</h3><p class=nota>Alcune scene sono ricostruite con l'intelligenza artificiale. Non sono documenti né fotografie d'epoca.</p>"
         dm = [d for d in (m.get('dati_mappe') or []) if re.search(r'\bCC[ -]BY\b', d.get('licenza') or '', re.I)]
         if dm: corpo += "<h3 class=fg>Mappe</h3><ul>" + ''.join(f"<li>{e(d['titolo'])} · {e(d['licenza'])} · <a href=\"{e(d['link'])}\">fonte</a></li>" for d in dm) + "</ul>"
         return scheletro(f"{v['titolo']} · Casato Italiano", corpo, f"Fonti e crediti del video «{v['titolo']}»", f"{BASE}/video/{v['slug']}/", '../../')
@@ -201,7 +201,7 @@ def pagina(v):
     if cr: corpo += f"<h2>Attribuzioni di immagini e video</h2>{cr}"
     if g.get('immagini') or g.get('clip'):
         q = ' e '.join(x for x in (f"{g['immagini']} immagini" if g.get('immagini') else '', f"{g['clip']} clip" if g.get('clip') else '') if x)
-        corpo += f"<h2>Scene ricostruite</h2><p class=nota>Alcune scene sono ricostruite con l'intelligenza artificiale ({q}). Non sono documenti né fotografie d'epoca.</p>"
+        corpo += f"<h2>Scene ricostruite</h2><p class=nota>Alcune scene sono ricostruite con l'intelligenza artificiale. Non sono documenti né fotografie d'epoca.</p>"
     if m.get('dati_mappe'):
         dm = [d for d in m['dati_mappe'] if re.search(r'\bCC[ -]BY\b', d.get('licenza') or '', re.I)]
         if dm: corpo += "<h2>Mappe</h2><ul>" + ''.join(f"<li>{e(d['titolo'])} · {e(d['licenza'])} · <a href=\"{e(d['link'])}\">fonte</a></li>" for d in dm) + "</ul>"
