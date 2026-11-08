@@ -879,7 +879,6 @@
   "capitoli": [
     {
       "titolo": "Apertura",
-      "minuto": "0:00",
       "fonti": [
         {
           "testata": "archiviodistatovicenza.cultura.gov.it",
@@ -903,7 +902,6 @@
     },
     {
       "titolo": "26 · Trevisan",
-      "minuto": "1:03",
       "fonti": [
         {
           "testata": "surnamesinitaly.com",
@@ -927,7 +925,6 @@
     },
     {
       "titolo": "25 · Carraro",
-      "minuto": "2:17",
       "fonti": [
         {
           "testata": "paese.app",
@@ -951,7 +948,6 @@
     },
     {
       "titolo": "24 · Pavan",
-      "minuto": "3:24",
       "fonti": [
         {
           "testata": "nuovavenezia.it",
@@ -975,7 +971,6 @@
     },
     {
       "titolo": "23 · Boscolo",
-      "minuto": "4:40",
       "fonti": [
         {
           "testata": "archivio.unita.news",
@@ -993,7 +988,6 @@
     },
     {
       "titolo": "22 · Vianello",
-      "minuto": "5:49",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -1005,7 +999,6 @@
     },
     {
       "titolo": "21 · Visentin",
-      "minuto": "7:10",
       "fonti": [
         {
           "testata": "archiviodistatovicenza.cultura.gov.it",
@@ -1017,7 +1010,6 @@
     },
     {
       "titolo": "20 · Furlan",
-      "minuto": "8:21",
       "fonti": [
         {
           "testata": "insee.fr",
@@ -1041,7 +1033,6 @@
     },
     {
       "titolo": "19 · Fabris",
-      "minuto": "9:35",
       "fonti": [
         {
           "testata": "archiviodistatoudine.cultura.gov.it",
@@ -1065,7 +1056,6 @@
     },
     {
       "titolo": "18 · Masiero",
-      "minuto": "10:49",
       "fonti": [
         {
           "testata": "surnamesinitaly.com",
@@ -1077,7 +1067,6 @@
     },
     {
       "titolo": "17 · Veronese",
-      "minuto": "12:02",
       "fonti": [
         {
           "testata": "archiviodistatovicenza.cultura.gov.it",
@@ -1095,7 +1084,6 @@
     },
     {
       "titolo": "16 · Favero",
-      "minuto": "13:37",
       "fonti": [
         {
           "testata": "forumeditrice.it",
@@ -1119,7 +1107,6 @@
     },
     {
       "titolo": "15 · Schiavon",
-      "minuto": "15:02",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -1143,7 +1130,6 @@
     },
     {
       "titolo": "14 · Zambon",
-      "minuto": "16:18",
       "fonti": [
         {
           "testata": "zambon.com",
@@ -1155,7 +1141,6 @@
     },
     {
       "titolo": "13 · Bonato",
-      "minuto": "17:29",
       "fonti": [
         {
           "testata": "venetimarketgardeners1927.net",
@@ -1167,7 +1152,6 @@
     },
     {
       "titolo": "11 · Volpato",
-      "minuto": "19:42",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -1179,7 +1163,6 @@
     },
     {
       "titolo": "10 · Bressan",
-      "minuto": "20:51",
       "fonti": [
         {
           "testata": "insee.fr",
@@ -1203,7 +1186,6 @@
     },
     {
       "titolo": "9 · Lovato",
-      "minuto": "22:07",
       "fonti": [
         {
           "testata": "paese.app",
@@ -1227,7 +1209,6 @@
     },
     {
       "titolo": "8 · Zanatta",
-      "minuto": "23:37",
       "fonti": [
         {
           "testata": "etymonline.com",
@@ -1245,7 +1226,6 @@
     },
     {
       "titolo": "7 · Zorzi",
-      "minuto": "24:58",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -1263,7 +1243,6 @@
     },
     {
       "titolo": "6 · Frigo",
-      "minuto": "26:17",
       "fonti": [
         {
           "testata": "catalog.archives.gov",
@@ -1287,7 +1266,6 @@
     },
     {
       "titolo": "5 · Donà",
-      "minuto": "27:37",
       "fonti": [
         {
           "testata": "surnamesinitaly.com",
@@ -1305,7 +1283,6 @@
     },
     {
       "titolo": "4 · Zennaro",
-      "minuto": "28:59",
       "fonti": [
         {
           "testata": "surnamesinitaly.com",
@@ -1323,7 +1300,6 @@
     },
     {
       "titolo": "3 · Marangon",
-      "minuto": "30:04",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -1335,7 +1311,6 @@
     },
     {
       "titolo": "2 · Marchiori",
-      "minuto": "31:23",
       "fonti": [
         {
           "testata": "onlineonly.christies.com.cn",
@@ -1365,7 +1340,6 @@
     },
     {
       "titolo": "1 · Ballarin",
-      "minuto": "32:37",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -1389,7 +1363,6 @@
     },
     {
       "titolo": "Chiusura",
-      "minuto": "33:45",
       "fonti": [
         {
           "testata": "migrantes.it",

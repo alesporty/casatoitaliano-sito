@@ -177,14 +177,17 @@ def pagina(v):
     if v.get('standard') == 2:   # 06/11/2026: standard unico della pagina (bibbia del canale §12): testata, fonti per capitolo con cosa sostengono, fonti generali, materiali
         ric = ''
         def fonte(f):
-            tit = f"<a class=a href=\"{e(f['url'].replace(' ', '%20'))}\">{e(f['titolo'])}</a>" if f.get('url') else f"<span class=a>{e(f['titolo'])}</span>"
+            testo = f.get('titolo') or 'Apri l\'articolo'   # fonti senza titolo degli episodi vecchi (bibbia §12, v1.4): testata e link
+            tit = f"<a class=a href=\"{e(f['url'].replace(' ', '%20'))}\">{e(testo)}</a>" if f.get('url') else f"<span class=a>{e(f['titolo'])}</span>"
             return f"<div class=fonte><div class=t>{e(' · '.join(x for x in (f.get('testata'), f.get('data')) if x))}</div>{tit}</div>"
         caps = v.get('capitoli') or []
         if v.get('racconta'): corpo += f"<p class=racconta>{e(v['racconta'])}</p>"
-        corpo += "<h2>Le fonti, capitolo per capitolo</h2><p class=nota>Solo le fonti che sostengono qualcosa detto nel video, capitolo per capitolo, nell'ordine in cui il video le usa.</p>"
-        corpo += "<ul class=indice>" + ''.join(f"<li><a href=\"#c{i}\">{e(c['titolo'])}</a></li>" for i, c in enumerate(caps)) + "</ul>"
+        corpo += ("<h2>Le fonti, capitolo per capitolo</h2><p class=nota>Solo le fonti che sostengono qualcosa detto nel video, capitolo per capitolo, nell'ordine in cui il video le usa.</p>" if caps
+                  else "<h2>Le fonti</h2><p class=nota>Le fonti su cui si basa il video.</p>")
         for i, c in enumerate(caps):
-            corpo += f"<section class=cap id=c{i}><h3>{e(c['titolo'])}" + (f"<span class=min>dal minuto {e(c['minuto'])}</span>" if c.get('minuto') else '') + "</h3>" + ''.join(fonte(f) for f in c['fonti']) + "</section>"
+            corpo += f"<section class=cap id=c{i}><h3>{e(c['titolo'])}</h3>" + ''.join(fonte(f) for f in c['fonti']) + "</section>"
+        if v.get('elenco'):   # seconda forma (bibbia §12, v1.3): elenco unico pulito, quando l'episodio non lega le frasi ai capitoli
+            corpo += ''.join(fonte(f) for f in v['elenco'])
         if v.get('fonti_generali'): corpo += "<h2>Fonti generali</h2><p class=nota>Fonti che sostengono passaggi di più capitoli.</p>" + ''.join(fonte(f) for f in v['fonti_generali'])
         if cr or g.get('immagini') or g.get('clip') or m.get('dati_mappe'): corpo += "<h2>Materiali</h2>"
         if cr: corpo += f"<h3 class=fg>Attribuzioni di immagini e video</h3>{cr}"

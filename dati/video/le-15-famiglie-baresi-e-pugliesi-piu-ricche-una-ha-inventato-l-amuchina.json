@@ -409,7 +409,6 @@
   "capitoli": [
     {
       "titolo": "Apertura",
-      "minuto": "0:00",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -421,7 +420,6 @@
     },
     {
       "titolo": "15 · Quarta",
-      "minuto": "0:59",
       "fonti": [
         {
           "testata": "AGI",
@@ -457,7 +455,6 @@
     },
     {
       "titolo": "14 · Melpignano",
-      "minuto": "2:39",
       "fonti": [
         {
           "testata": "AGI",
@@ -511,7 +508,6 @@
     },
     {
       "titolo": "13 · Andriani",
-      "minuto": "4:30",
       "fonti": [
         {
           "testata": "Andriani S.p.A. / ICE Agenzia",
@@ -565,7 +561,6 @@
     },
     {
       "titolo": "12 · Muciaccia",
-      "minuto": "5:48",
       "fonti": [
         {
           "testata": "Atoka",
@@ -607,7 +602,6 @@
     },
     {
       "titolo": "11 · Filograna Sergio",
-      "minuto": "7:11",
       "fonti": [
         {
           "testata": "Camera dei deputati",
@@ -655,7 +649,6 @@
     },
     {
       "titolo": "10 · Pagliara",
-      "minuto": "8:27",
       "fonti": [
         {
           "testata": "BeBeez",
@@ -691,7 +684,6 @@
     },
     {
       "titolo": "9 · Ladisa",
-      "minuto": "9:39",
       "fonti": [
         {
           "testata": "aziende.it",
@@ -727,7 +719,6 @@
     },
     {
       "titolo": "8 · Divella",
-      "minuto": "11:06",
       "fonti": [
         {
           "testata": "Atoka (atoka.io)",
@@ -769,7 +760,6 @@
     },
     {
       "titolo": "7 · Natuzzi",
-      "minuto": "12:22",
       "fonti": [
         {
           "testata": "Business Wire (comunicato societario)",
@@ -829,7 +819,6 @@
     },
     {
       "titolo": "6 · Maldarizzi",
-      "minuto": "13:46",
       "fonti": [
         {
           "testata": "astonmartin.com (comunicato)",
@@ -871,7 +860,6 @@
     },
     {
       "titolo": "5 · Siciliani",
-      "minuto": "15:00",
       "fonti": [
         {
           "testata": "CompanyReports",
@@ -901,7 +889,6 @@
     },
     {
       "titolo": "4 · De Nora",
-      "minuto": "15:48",
       "fonti": [
         {
           "testata": "Borsa Italiana",
@@ -955,7 +942,6 @@
     },
     {
       "titolo": "3 · Amenduni",
-      "minuto": "17:16",
       "fonti": [
         {
           "testata": "Avvenire",
@@ -1009,7 +995,6 @@
     },
     {
       "titolo": "2 · Casillo",
-      "minuto": "18:35",
       "fonti": [
         {
           "testata": "Forbes Italia",
@@ -1039,7 +1024,6 @@
     },
     {
       "titolo": "1 · Pomarico",
-      "minuto": "19:46",
       "fonti": [
         {
           "testata": "aziende.it",
@@ -1075,7 +1059,6 @@
     },
     {
       "titolo": "Coda",
-      "minuto": "20:54",
       "fonti": [
         {
           "testata": "Affaritaliani",
@@ -1129,7 +1112,6 @@
     },
     {
       "titolo": "Chiusura",
-      "minuto": "21:56",
       "fonti": [
         {
           "testata": "EconomyUp",

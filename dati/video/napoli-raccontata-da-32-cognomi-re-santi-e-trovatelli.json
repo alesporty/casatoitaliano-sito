@@ -606,7 +606,6 @@
   "capitoli": [
     {
       "titolo": "Apertura",
-      "minuto": "0:00",
       "fonti": [
         {
           "testata": "fondoambiente.it",
@@ -618,7 +617,6 @@
     },
     {
       "titolo": "32 · Esposito",
-      "minuto": "0:45",
       "fonti": [
         {
           "testata": "fondoambiente.it",
@@ -630,7 +628,6 @@
     },
     {
       "titolo": "31 · Coppola",
-      "minuto": "1:59",
       "fonti": [
         {
           "testata": "surnamesinitaly.com",
@@ -642,7 +639,6 @@
     },
     {
       "titolo": "30 · De Rosa",
-      "minuto": "3:14",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -654,7 +650,6 @@
     },
     {
       "titolo": "29 · Ruggiero",
-      "minuto": "4:19",
       "fonti": [
         {
           "testata": "Wikipedia",
@@ -666,7 +661,6 @@
     },
     {
       "titolo": "23 · Scognamiglio",
-      "minuto": "10:48",
       "fonti": [
         {
           "testata": "insee.fr",
@@ -678,7 +672,6 @@
     },
     {
       "titolo": "7 · Di Costanzo",
-      "minuto": "27:30",
       "fonti": [
         {
           "testata": "treccani.it",
@@ -690,7 +683,6 @@
     },
     {
       "titolo": "6 · Ascione",
-      "minuto": "28:35",
       "fonti": [
         {
           "testata": "insee.fr",
@@ -702,7 +694,6 @@
     },
     {
       "titolo": "Chiusura",
-      "minuto": "34:56",
       "fonti": [
         {
           "testata": "migrantes.it",
