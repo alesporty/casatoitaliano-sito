@@ -785,721 +785,864 @@
   "uscita": "2026-10-26T12:51:30Z",
   "standard": 2,
   "racconta": "Il caffè della moka, il casello dell'autostrada per Milano, il bagnoschiuma del supermercato, l'atlante che avevi a scuola: in Piemonte, dietro tante cose di tutti i giorni c'è una famiglia. In questo video mettiamo in fila le 23 famiglie di Torino e del Piemonte che guidano le aziende più grandi, dalla ventitreesima alla prima, misurate sul fatturato dell'azienda di famiglia per la parte che è della famiglia (ultimo bilancio disponibile, sempre con l'anno).",
-  "elenco": [
+  "capitoli": [
     {
-      "testata": "affaritaliani.it",
-      "titolo": "il nuovo polo del tessile da 113 milioni",
-      "data": "",
-      "url": "https://www.affaritaliani.it/economia/nasce-piacenza-group-il-nuovo-polo-del-tessile-da-113-milioni-928074.html"
+      "titolo": "Numero 23",
+      "fonti": [
+        {
+          "testata": "affaritaliani.it",
+          "titolo": "il nuovo polo del tessile da 113 milioni",
+          "data": "",
+          "url": "https://www.affaritaliani.it/economia/nasce-piacenza-group-il-nuovo-polo-del-tessile-da-113-milioni-928074.html"
+        },
+        {
+          "testata": "id.fashionnetwork.com",
+          "titolo": "With F.lli Cerruti, Gruppo Piacenza wants to become a pole of reference in luxury woollen textiles (FashionNetwork)",
+          "data": "",
+          "url": "https://id.fashionnetwork.com/news/With-F-lli-Cerruti-Gruppo-Piacenza-wants-to-become-a-pole-of-reference-in-luxury-wollen-textiles,1457428.html"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Fratelli Piacenza (Wikipedia)",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Fratelli_Piacenza"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Lanificio Fratelli Cerruti (Wikipedia)",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Lanificio_Fratelli_Cerruti"
+        }
+      ]
     },
     {
-      "testata": "archivio.unita.news",
-      "titolo": "l'Unità · Morto Marcellino Gavio",
-      "data": "2009",
-      "url": "https://archivio.unita.news/assets/main/2009/11/17/page_035.pdf"
+      "titolo": "Numero 22",
+      "fonti": [
+        {
+          "testata": "ilsole24ore.com",
+          "titolo": "Vitale Barberis Canonico points to USA and Europe (Il Sole 24 Ore)",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/vitale-barberis-canonico-points-to-usa-and-europe-AFoxb5fC"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Barberis Canonico, tredicesima generazione",
+          "data": "2025",
+          "url": "https://www.milanofinanza.it/news/barberis-canonico-per-tramandare-un-patrimonio-di-esperienza-ci-vuole-stoffa-202512031806468960"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Vitale Barberis Canonico scommette sul green",
+          "data": "2026",
+          "url": "https://www.milanofinanza.it/fashion/vitale-barberis-canonico-scommette-sul-green-202607071754094456"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Vitale Barberis Canonico (Wikipedia)",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Vitale_Barberis_Canonico"
+        }
+      ]
     },
     {
-      "testata": "astm.it",
-      "titolo": "ASTM · History",
-      "data": "",
-      "url": "https://www.astm.it/en/history/"
+      "titolo": "Numero 21",
+      "fonti": [
+        {
+          "testata": "beverfood.com",
+          "titolo": "Caffè Vergnano, espansione strategica internazionale (Beverfood)",
+          "data": "",
+          "url": "https://www.beverfood.com/caffe-vergnano-espansione-strategica-internazionale/"
+        },
+        {
+          "testata": "caffevergnano.com",
+          "titolo": "Caffè Vergnano, la storia (sito aziendale)",
+          "data": "",
+          "url": "https://www.caffevergnano.com/en/?p=14472"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "Coca-Cola acquista il 30% di Caffè Vergnano (Forbes Italia)",
+          "data": "",
+          "url": "https://forbes.it/2021/06/28/coca-cola-acquista-il-30-di-caffe-vergnano-e-distribuira-i-suoi-prodotti-allestero"
+        },
+        {
+          "testata": "hu.coca-colahellenic.com",
+          "titolo": "Coca-Cola HBC AG completes the acquisition of a minority stake in Caffè Vergnano",
+          "data": "",
+          "url": "https://hu.coca-colahellenic.com/en/media/news/corporate/2021/coca-cola-hbc-ag-completes-the-acquisition-of-a-minority-stake-i"
+        },
+        {
+          "testata": "qds.it",
+          "titolo": "Caffè Vergnano, nel 2024 fatturato sale a 124,7 mln (QdS/askanews)",
+          "data": "",
+          "url": "https://qds.it/caffe-vergnano-nel-2024-fatturato-sale-a-1247-mln-export-33/"
+        },
+        {
+          "testata": "quifinanza.it",
+          "titolo": "Coca-Cola compra il 30% di Caffè Vergnano (QuiFinanza)",
+          "data": "",
+          "url": "https://quifinanza.it/economia/video/coca-cola-caffe-vergnano/505104/"
+        }
+      ]
     },
     {
-      "testata": "astm.it",
-      "titolo": "capitale sociale e azionisti",
-      "data": "",
-      "url": "https://www.astm.it/en/share-capital-shareholder/"
+      "titolo": "Numero 20",
+      "fonti": [
+        {
+          "testata": "bebeez.it",
+          "titolo": "BeBeez – Fratelli Martini",
+          "data": "2021",
+          "url": "https://bebeez.it/?p=762515"
+        },
+        {
+          "testata": "efanews.eu",
+          "titolo": "the family will not give up control",
+          "data": "2021",
+          "url": "https://www.efanews.eu/item/20547-fratelli-martini-wines-the-family-will-not-give-up-control.html"
+        },
+        {
+          "testata": "italiaoggi.it",
+          "titolo": "quanto fatturano le cantine",
+          "data": "2025",
+          "url": "https://www.italiaoggi.it/settori/agroalimentare/vino-cantine-a-caccia-di-eno-turisti-e-no-alcol-ecco-quanto-fatturano-hsa4w0q0"
+        },
+        {
+          "testata": "meininger.de",
+          "titolo": "Meininger Weinwirtschaft – Antizyklisch investieren",
+          "data": "2024",
+          "url": "https://www.meininger.de/wein/erzeuger/antizyklisch-investieren"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Milano Finanza – BF acquista Fratelli Martini per 220 milioni",
+          "data": "2025",
+          "url": "https://www.milanofinanza.it/news/bf-rafforza-la-filiera-agroalimentare-acquista-fratelli-martini-per-220-milioni-202512151011287983"
+        },
+        {
+          "testata": "wine-business-international.com",
+          "titolo": "Wine Business International – Fratelli Martini Secondo Luigi (report sponsorizzato)",
+          "data": "",
+          "url": "https://www.wine-business-international.com/wine/families-wine-sponsored-reports/fratelli-martini-secondo-luigi"
+        }
+      ]
     },
     {
-      "testata": "astm.it",
-      "titolo": "comunicato risultati 2025",
-      "data": "2026",
-      "url": "https://www.astm.it/wp-content/uploads/2026/03/CS_ASTM_FY2025_ITA_FINALE.pdf"
+      "titolo": "Numero 19",
+      "fonti": [
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Ricavi a 109 mln per gli acciai di Ferrero",
+          "data": "2026",
+          "url": "https://www.milanofinanza.it/news/ricavi-a-109-mln-per-gli-acciai-di-ferrero-2720150"
+        }
+      ]
     },
     {
-      "testata": "axa.com",
-      "titolo": "comunicato acquisizione Nobis",
-      "data": "2024",
-      "url": "https://axa.com/press/press-releases/axa-expands-its-retail-p-and-c-operations-in-italy-with-the-acquisition-of-nobis-group"
+      "titolo": "Numero 18",
+      "fonti": [
+        {
+          "testata": "benelux.giacomini.com",
+          "titolo": "Giacomini — rivista Blu&Rosso",
+          "data": "2013",
+          "url": "https://benelux.giacomini.com/sites/giacomini.benelux/files/press-review/attachments/130920_Blu%26Rosso_IT.pdf"
+        },
+        {
+          "testata": "giacomini.com",
+          "titolo": "Giacomini — Giacomini Group",
+          "data": "",
+          "url": "https://www.giacomini.com/about-us/giacomini-group"
+        },
+        {
+          "testata": "giacomini.com",
+          "titolo": "Giacomini — History",
+          "data": "",
+          "url": "https://www.giacomini.com/en/history"
+        },
+        {
+          "testata": "giacomini.com",
+          "titolo": "Giacomini — Company profile IP0001 06/26",
+          "data": "",
+          "url": "https://it.giacomini.com/dam/jcr:010bf76a-87e5-4a26-992a-20c90b248426/COMPANY_PROFILE_IP0001_folder.pdf"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia — Giacomini",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Giacomini"
+        }
+      ]
     },
     {
-      "testata": "aziendabanca.it",
-      "titolo": "Nasce Banca Più",
-      "data": "2026",
-      "url": "https://www.aziendabanca.it/notizie/banche/nasce-banca-piu-perfezionata-l-acquisizione-di-banca-privata-leasing"
+      "titolo": "Numero 17",
+      "fonti": [
+        {
+          "testata": "distribuzionemoderna.info",
+          "titolo": "EBITDA and revenue up",
+          "data": "2026",
+          "url": "https://distribuzionemoderna.info/en/finance/mirato-ebitda-and-revenue-up-also-thanks-to-acquisitions"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Milano Finanza — Malizia acquisisce I Provenzali",
+          "data": "2017",
+          "url": "https://www.milanofinanza.it/news/malizia-acquisisce-i-provenzali-201709041239467204"
+        }
+      ]
     },
     {
-      "testata": "bebeez.it",
-      "titolo": "BeBeez – Fratelli Martini",
-      "data": "2021",
-      "url": "https://bebeez.it/?p=762515"
+      "titolo": "Numero 16",
+      "fonti": [
+        {
+          "testata": "consob.it",
+          "titolo": "BasicNet S.p.A. - azionariato (Consob)",
+          "data": "",
+          "url": "https://www.consob.it/web/area-pubblica/w/basic-net-spa-azionariato-2"
+        },
+        {
+          "testata": "fashionunited.uk",
+          "titolo": "BasicNet consolidated turnover reaches 416 million euros in 2025 (FashionUnited)",
+          "data": "",
+          "url": "https://fashionunited.uk/news/business/basicnet-consolidated-turnover-reaches-416-million-euros-in-2025/2026021386276"
+        },
+        {
+          "testata": "lowerblock.com",
+          "titolo": "Kappa, iconic Italian brand with a rich football heritage (Lowerblock)",
+          "data": "",
+          "url": "https://lowerblock.com/articles/kappa-iconic-italian-brand-with-a-rich-football-heritage/"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Alessandro e Lorenzo Boglione, il futuro di BasicNet nel segno della continuità",
+          "data": "2026",
+          "url": "https://www.milanofinanza.it/fashion/alessandro-e-lorenzo-boglione-il-futuro-di-basicnet-nel-segno-della-continuita-202603201547215848"
+        },
+        {
+          "testata": "tg24.sky.it",
+          "titolo": "BasicNet, un modello di business vincente (Sky TG24)",
+          "data": "",
+          "url": "https://tg24.sky.it/spettacolo/2022/05/10/basicnet-un-modello-di-business-vincente"
+        },
+        {
+          "testata": "turismotorino.org",
+          "titolo": "Lo spaccio BasicNet - Basic Village (Turismo Torino)",
+          "data": "",
+          "url": "https://turismotorino.org/fr/visita/cosa-fare-e-vedere/shopping/allo-spaccio-basic-net-basic-village"
+        }
+      ]
     },
     {
-      "testata": "bebeez.it",
-      "titolo": "Gruppo Intergea, comunicato stampa",
-      "data": "giugno 2024",
-      "url": "https://bebeez.it/wp-content/uploads/2024/06/CS-Intergea.pdf"
+      "titolo": "Numero 15",
+      "fonti": [
+        {
+          "testata": "forbes.it",
+          "titolo": "Forbes Italia – Come una famiglia di costruttori ha creato l'impero dell'acqua Sant'Anna",
+          "data": "2025",
+          "url": "https://forbes.it/2025/08/18/come-famiglia-costruttori-creato-impero-acqua-sant-anna"
+        },
+        {
+          "testata": "fortuneita.com",
+          "titolo": "morto Alberto Bertone",
+          "data": "2025",
+          "url": "https://www.fortuneita.com/2025/11/11/acqua-sant-anna-morto-alberto-bertone/"
+        },
+        {
+          "testata": "greenme.it",
+          "titolo": "fondatore di Acqua Sant'Anna",
+          "data": "2025",
+          "url": "https://www.greenme.it/news/morto-alberto-bertone-fondatore-acqua-sant-anna/"
+        },
+        {
+          "testata": "money.it",
+          "titolo": "Money.it – È morto Alberto Bertone",
+          "data": "2025",
+          "url": "https://www.money.it/e-morto-alberto-bertone-l-imprenditore-che-ha-trasformato-l-acqua-sant-anna-in-un-impero-da-oltre-eur300-milioni"
+        }
+      ]
     },
     {
-      "testata": "bebeez.it",
-      "titolo": "Intergea acquisisce l'intera AutoGhinzani Bergamo",
-      "data": "2024",
-      "url": "https://bebeez.it/ma-e-corporate-finance/il-gruppo-intergea-di-torino-primo-dealer-auto-italiano-per-auto-vendute-acquisisce-lintera-autoghinzani-bergamo/"
+      "titolo": "Numero 14",
+      "fonti": [
+        {
+          "testata": "quifinanza.it",
+          "titolo": "il nuovo Ad ha 28 anni",
+          "data": "2025",
+          "url": "https://quifinanza.it/economia/balocco-diletta-cda-nomine/927466/amp/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia — Balocco (company)",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Balocco_(company)"
+        }
+      ]
     },
     {
-      "testata": "benelux.giacomini.com",
-      "titolo": "Giacomini — rivista Blu&Rosso",
-      "data": "2013",
-      "url": "https://benelux.giacomini.com/sites/giacomini.benelux/files/press-review/attachments/130920_Blu%26Rosso_IT.pdf"
+      "titolo": "Numero 13",
+      "fonti": [
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Miroglio supera 600 milioni di ricavi ma l'utile si contrae a 1,6 milioni",
+          "data": "2026",
+          "url": "https://www.milanofinanza.it/fashion/miroglio-supera-600-milioni-di-ricavi-ma-l-utile-si-contrae-a-1-6-milioni-202607091838214156"
+        },
+        {
+          "testata": "mirogliogroup.com",
+          "titolo": "Heritage - Miroglio Group (sito del gruppo)",
+          "data": "",
+          "url": "https://www.mirogliogroup.com/en/heritage/"
+        },
+        {
+          "testata": "mirogliogroup.com",
+          "titolo": "Cartella stampa Miroglio Group",
+          "data": "febbraio 2023",
+          "url": "https://www.mirogliogroup.com/wp-content/uploads/2023/02/miroglio-group_CartellaStampa-MiroglioGroup.pdf"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Miroglio",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Miroglio"
+        }
+      ]
     },
     {
-      "testata": "beverfood.com",
-      "titolo": "Caffè Vergnano, espansione strategica internazionale (Beverfood)",
-      "data": "",
-      "url": "https://www.beverfood.com/caffe-vergnano-espansione-strategica-internazionale/"
+      "titolo": "Numero 12",
+      "fonti": [
+        {
+          "testata": "damianigroup.com",
+          "titolo": "Damiani Group (sito del gruppo)",
+          "data": "",
+          "url": "https://www.damianigroup.com/"
+        },
+        {
+          "testata": "ilsole24ore.com",
+          "titolo": "Il gruppo Damiani chiude il 2024 con ricavi a 380 milioni",
+          "data": "2025",
+          "url": "https://en.ilsole24ore.com/art/il-gruppo-damiani-chiude-2024-ricavi-380-milioni-10percento-AGS2JHnD"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Damiani, custodi e pionieri della manifattura più preziosa",
+          "data": "2025",
+          "url": "https://www.milanofinanza.it/news/damiani-custodi-e-pionieri-della-manifattura-piu-preziosa-202512091402491502"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Damiani corre oltre i 400 milioni nel 2025",
+          "data": "2026",
+          "url": "https://www.milanofinanza.it/fashion/damiani-corre-oltre-i-400-milioni-nel-2025-202604101228521111"
+        },
+        {
+          "testata": "richemont.com",
+          "titolo": "Richemont and the Damiani Group sign agreement for the Damiani Group to acquire Baume & Mercier",
+          "data": "2026",
+          "url": "https://www.richemont.com/news-media/press-releases-news/richemont-and-the-damiani-group-sign-agreement-for-the-damiani-group-to-acquire-baume-mercier/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Damiani Group",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Damiani_Group"
+        }
+      ]
     },
     {
-      "testata": "businessonline.it",
-      "titolo": "chi sono i proprietari di Banca Sella",
-      "data": "2025",
-      "url": "https://www.businessonline.it/articoli/chi-sono-i-proprietari-di-banca-sella-sicura-dove-sono-le-filiali-e-che-servizi-offre.html"
+      "titolo": "Numero 11",
+      "fonti": [
+        {
+          "testata": "ecoseven.net",
+          "titolo": "Monge, contratto di sviluppo: investimento da 25 mln e 50 nuovi dipendenti",
+          "data": "2022",
+          "url": "https://www.ecoseven.net/flash-news/monge-con-contratto-di-sviluppo-investimento-da-25-mln-euro-e-50-nuovi-dipendenti/"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "Monge",
+          "data": "2021",
+          "url": "https://forbes.it/2021/11/15/__trashed-4/"
+        },
+        {
+          "testata": "ilgiornale.it",
+          "titolo": "La mia fortuna? Licenziamento e mio cane veterinario",
+          "data": "2023",
+          "url": "https://www.ilgiornale.it/news/mia-fortuna-licenziamento-e-mio-cane-veterinario-2204848.html"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Mediobanca, spunta il socio Monge all'1%",
+          "data": "2020",
+          "url": "https://www.milanofinanza.it/news/mediobanca-spunta-il-socio-monge-all-1-202011032104192619"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Pet food, la famiglia Monge apre alla terza generazione",
+          "data": "2025",
+          "url": "https://www.milanofinanza.it/news/pet-food-la-famiglia-monge-apre-alla-terza-generazione-202512172115226394"
+        },
+        {
+          "testata": "monge.it",
+          "titolo": "Monge - Our history (sito aziendale)",
+          "data": "",
+          "url": "https://monge.it/en/our-history"
+        }
+      ]
     },
     {
-      "testata": "businesswire.com",
-      "titolo": "Zegna Group · FY 2025 Revenues",
-      "data": "2026",
-      "url": "https://www.businesswire.com/news/home/20260202516609/en/Ermenegildo-Zegna-Group-Reports-FY-2025-Revenues1-of-%E2%82%AC1917-Million-With-an-Improvement-in-Q4-Driven-by-DTC-at-the-ZEGNA-Brand"
+      "titolo": "Numero 10",
+      "fonti": [
+        {
+          "testata": "emarketstorage.it",
+          "titolo": "Diasorin, comunicato risultati 2025",
+          "data": "2026",
+          "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260320_179451.pdf"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "Coronavirus, i miliardari diventati più ricchi lottando contro il Covid-19",
+          "data": "2020",
+          "url": "https://forbes.it/2020/05/04/coronavirus-miliardari-diventati-piu-ricchi-lottando-contro-covid-19/"
+        },
+        {
+          "testata": "int.diasorin.com",
+          "titolo": "Diasorin - History (sito aziendale)",
+          "data": "",
+          "url": "https://int.diasorin.com/en/company/who-we-are/history"
+        },
+        {
+          "testata": "int.diasorin.com",
+          "titolo": "Michele Denegri - Leadership (sito Diasorin)",
+          "data": "",
+          "url": "https://int.diasorin.com/jp/company/who-we-are/leadership/michele-denegri"
+        },
+        {
+          "testata": "int.diasorin.com",
+          "titolo": "Carlo Rosa - Leadership (sito Diasorin)",
+          "data": "",
+          "url": "https://int.diasorin.com/en/company/who-we-are/leadership/carlo-rosa"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Diasorin, più dividendi per i Denegri dalla cassaforte Finde",
+          "data": "2025",
+          "url": "https://www.milanofinanza.it/news/diasorin-piu-dividendi-per-i-denegri-dalla-cassaforte-finde-202508011954386455"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Gustavo Denegri",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Gustavo_Denegri"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "DiaSorin",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/DiaSorin"
+        }
+      ]
     },
     {
-      "testata": "buzzi.com",
-      "titolo": "comunicato bilancio 2025",
-      "data": "2026",
-      "url": "https://www.buzzi.com/documents/d/guest/comunicato-stampa-31-03-26-pdf"
+      "titolo": "Numero 9",
+      "fonti": [
+        {
+          "testata": "businessonline.it",
+          "titolo": "chi sono i proprietari di Banca Sella",
+          "data": "2025",
+          "url": "https://www.businessonline.it/articoli/chi-sono-i-proprietari-di-banca-sella-sicura-dove-sono-le-filiali-e-che-servizi-offre.html"
+        },
+        {
+          "testata": "emarketstorage.it",
+          "titolo": "Gruppo Sella, risultati 2025",
+          "data": "2026",
+          "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260210_177356.pdf"
+        },
+        {
+          "testata": "emarketstorage.it",
+          "titolo": "Gruppo Sella, l'Assemblea nomina il nuovo CdA",
+          "data": "2025",
+          "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-04/20250430_166278.pdf"
+        },
+        {
+          "testata": "sellagroup.eu",
+          "titolo": "Gruppo Sella, la nostra storia",
+          "data": "",
+          "url": "https://sellagroup.eu/en/la-nostra-storia"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Club Alpino Italiano",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Club_Alpino_Italiano"
+        }
+      ]
     },
     {
-      "testata": "buzzi.com",
-      "titolo": "la storia",
-      "data": "",
-      "url": "https://buzzi.com/history"
+      "titolo": "Numero 8",
+      "fonti": [
+        {
+          "testata": "gruppodeagostini.it",
+          "titolo": "comunicato bilancio 2025",
+          "data": "2026",
+          "url": "https://gruppodeagostini.it/sites/default/files/pressrelease_documents/CS%20Bilancio%202025.pdf"
+        },
+        {
+          "testata": "s205.q4cdn.com",
+          "titolo": "Brightstar Lottery, risultati Q4 e anno 2025",
+          "data": "2026",
+          "url": "https://s205.q4cdn.com/821653831/files/doc_financials/2025/q4/Q4-25-Earnings-Press-Release-v10.pdf"
+        },
+        {
+          "testata": "sec.gov",
+          "titolo": "Brightstar Lottery PLC, Form 20-F 2025 (SEC)",
+          "data": "",
+          "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026011083/igt-20251231.htm"
+        }
+      ]
     },
     {
-      "testata": "caffevergnano.com",
-      "titolo": "Caffè Vergnano · Storia",
-      "data": "",
-      "url": "https://www.caffevergnano.com/en/?p=14472"
+      "titolo": "Numero 7",
+      "fonti": [
+        {
+          "testata": "emarketstorage.it",
+          "titolo": "Reply, liste dei candidati al CdA con biografie",
+          "data": "aprile 2024",
+          "url": "https://emarketstorage.it/sites/default/files/comunicati/2024-04/20240402_145782.pdf"
+        },
+        {
+          "testata": "reply.com",
+          "titolo": "Patto parasociale Reply",
+          "data": "2025",
+          "url": "https://www.reply.com/contents/Patto_parasociale_Reply_26.09.25.pdf"
+        },
+        {
+          "testata": "reply.com",
+          "titolo": "Reply: il CdA approva il progetto di bilancio 2025",
+          "data": "2026",
+          "url": "https://www.reply.com/it/newsroom/financial-news/the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2025"
+        }
+      ]
     },
     {
-      "testata": "consob.it",
-      "titolo": "BasicNet S.p.A. - azionariato (Consob)",
-      "data": "",
-      "url": "https://www.consob.it/web/area-pubblica/w/basic-net-spa-azionariato-2"
+      "titolo": "Numero 6",
+      "fonti": [
+        {
+          "testata": "businesswire.com",
+          "titolo": "Zegna Group · FY 2025 Revenues",
+          "data": "2026",
+          "url": "https://www.businesswire.com/news/home/20260202516609/en/Ermenegildo-Zegna-Group-Reports-FY-2025-Revenues1-of-%E2%82%AC1917-Million-With-an-Improvement-in-Q4-Driven-by-DTC-at-the-ZEGNA-Brand"
+        },
+        {
+          "testata": "fashionunited.com",
+          "titolo": "FashionUnited · Zegna chiude il 2025 a 1,91 miliardi",
+          "data": "",
+          "url": "https://fashionunited.com/news/business/ermenegildo-zegna-closes-2025-with-revenues-of-1-91-billion-euros-down-1-5-percent-yoy/2026020270354"
+        },
+        {
+          "testata": "fashionunited.com",
+          "titolo": "FashionUnited · Zegna family increases stake",
+          "data": "",
+          "url": "https://fashionunited.com/executive/report/zegna-family-increases-stake-in-luxury-fashion-group-ermenegildo-zegna/2024111462892"
+        },
+        {
+          "testata": "sec.gov",
+          "titolo": "Ermenegildo Zegna N.V. · Form 20-F FY2025 (SEC)",
+          "data": "",
+          "url": "https://www.sec.gov/Archives/edgar/data/1877787/000187778726000015/zgn-20251231.htm"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia · Zegna",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Zegna"
+        }
+      ]
     },
     {
-      "testata": "damianigroup.com",
-      "titolo": "Damiani Group (sito del gruppo)",
-      "data": "",
-      "url": "https://www.damianigroup.com/"
+      "titolo": "Numero 5",
+      "fonti": [
+        {
+          "testata": "axa.com",
+          "titolo": "comunicato acquisizione Nobis",
+          "data": "2024",
+          "url": "https://axa.com/press/press-releases/axa-expands-its-retail-p-and-c-operations-in-italy-with-the-acquisition-of-nobis-group"
+        },
+        {
+          "testata": "aziendabanca.it",
+          "titolo": "Nasce Banca Più",
+          "data": "2026",
+          "url": "https://www.aziendabanca.it/notizie/banche/nasce-banca-piu-perfezionata-l-acquisizione-di-banca-privata-leasing"
+        },
+        {
+          "testata": "bebeez.it",
+          "titolo": "Gruppo Intergea, comunicato stampa",
+          "data": "giugno 2024",
+          "url": "https://bebeez.it/wp-content/uploads/2024/06/CS-Intergea.pdf"
+        },
+        {
+          "testata": "bebeez.it",
+          "titolo": "Intergea acquisisce l'intera AutoGhinzani Bergamo",
+          "data": "2024",
+          "url": "https://bebeez.it/ma-e-corporate-finance/il-gruppo-intergea-di-torino-primo-dealer-auto-italiano-per-auto-vendute-acquisisce-lintera-autoghinzani-bergamo/"
+        },
+        {
+          "testata": "qds.it",
+          "titolo": "Gruppo Intergea 72.845 auto vendute nel 2025",
+          "data": "2026",
+          "url": "https://qds.it/gruppo-intergea-72-845-auto-vendute-nel-2025-primo-in-italia/"
+        }
+      ]
     },
     {
-      "testata": "distribuzionemoderna.info",
-      "titolo": "EBITDA and revenue up",
-      "data": "2026",
-      "url": "https://distribuzionemoderna.info/en/finance/mirato-ebitda-and-revenue-up-also-thanks-to-acquisitions"
+      "titolo": "Numero 4",
+      "fonti": [
+        {
+          "testata": "lavazza.co.uk",
+          "titolo": "Lavazza · History",
+          "data": "",
+          "url": "https://www.lavazza.co.uk/en/about-us/history.html"
+        },
+        {
+          "testata": "lavazzagroup.com",
+          "titolo": "Gruppo Lavazza · Board of Directors",
+          "data": "",
+          "url": "https://www.lavazzagroup.com/en/who-we-are/governance/corporate-governance/board-of-directors.html"
+        },
+        {
+          "testata": "lavazzagroup.com",
+          "titolo": "Gruppo Lavazza · Comunicato dati di bilancio 2025",
+          "data": "",
+          "url": "https://www.lavazzagroup.com/content/dam/lavazza-corporate/chi_siamo/risultati/CS_GruppoLavazza_FY2025_DatiBilancio.pdf"
+        }
+      ]
     },
+    {
+      "titolo": "Numero 3",
+      "fonti": [
+        {
+          "testata": "buzzi.com",
+          "titolo": "la storia",
+          "data": "",
+          "url": "https://buzzi.com/history"
+        },
+        {
+          "testata": "buzzi.com",
+          "titolo": "comunicato bilancio 2025",
+          "data": "2026",
+          "url": "https://www.buzzi.com/documents/d/guest/comunicato-stampa-31-03-26-pdf"
+        },
+        {
+          "testata": "emarketstorage.it",
+          "titolo": "Buzzi, comunicato liste di maggioranza",
+          "data": "2026",
+          "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-04/20260420_182374.pdf"
+        },
+        {
+          "testata": "teleborsa.it",
+          "titolo": "Buzzi nominato nuovo CdA",
+          "data": "2026",
+          "url": "https://www.teleborsa.it/DettaglioNews/151_2026-05-13_TLB/Buzzi-nominato-nuovo-CdA-Confermati-Veronica-Buzzi-presidente-Pietro-Buzzi-AD.html"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 2",
+      "fonti": [
+        {
+          "testata": "astm.it",
+          "titolo": "comunicato risultati 2025",
+          "data": "2026",
+          "url": "https://www.astm.it/wp-content/uploads/2026/03/CS_ASTM_FY2025_ITA_FINALE.pdf"
+        },
+        {
+          "testata": "astm.it",
+          "titolo": "capitale sociale e azionisti",
+          "data": "",
+          "url": "https://www.astm.it/en/share-capital-shareholder/"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "Gavio mette in campo i figli",
+          "data": "2026",
+          "url": "https://www.milanofinanza.it/news/gavio-mette-in-campo-i-figli-2720901"
+        },
+        {
+          "testata": "satapweb.it",
+          "titolo": "concessionaria A4 Torino-Milano del Gruppo ASTM",
+          "data": "",
+          "url": "https://satapweb.it/en"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 1",
+      "fonti": [
+        {
+          "testata": "exor.com",
+          "titolo": "Exor · Press Release ABO Launch",
+          "data": "2025",
+          "url": "https://exor.com/sites/default/files/press-releases/2025-02/Exor%20Press%20Release%20_%20ABO%20Launch.pdf"
+        },
+        {
+          "testata": "exor.com",
+          "titolo": "Exor · Shareholders",
+          "data": "2025",
+          "url": "https://exor.com/node/36"
+        },
+        {
+          "testata": "exor.com",
+          "titolo": "Exor · Half-Year 2025 Report",
+          "data": "",
+          "url": "https://exor.com/system/files/2025/document-documents/Exor%20Half-Year%202025%20Report.pdf"
+        },
+        {
+          "testata": "globenewswire.com",
+          "titolo": "Exor · Press Release FY2025 Results",
+          "data": "2026",
+          "url": "https://www.globenewswire.com/news-release/2026/03/23/3260861/0/en/Exor-Press-Release-FY2025-Results.html"
+        },
+        {
+          "testata": "motor1.com",
+          "titolo": "Motor1 · Fiat, 125 anni: i fondatori e le curiosità",
+          "data": "",
+          "url": "https://it.motor1.com/news/725823/fiat-125-anni-fondatori-agnelli-curiosita/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia · Exor (company)",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Exor_(company)"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia · Stellantis",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Stellantis"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia · John Elkann",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/John_Elkann"
+        }
+      ]
+    },
+    {
+      "titolo": "Apertura",
+      "fonti": [
+        {
+          "testata": "astm.it",
+          "titolo": "ASTM · History",
+          "data": "",
+          "url": "https://www.astm.it/en/history/"
+        },
+        {
+          "testata": "gruppodeagostini.it",
+          "titolo": "Gruppo De Agostini · History",
+          "data": "",
+          "url": "https://gruppodeagostini.it/en/about-us/history"
+        },
+        {
+          "testata": "lavazza.co.uk",
+          "titolo": "Lavazza · History",
+          "data": "",
+          "url": "https://www.lavazza.co.uk/en/about-us/history.html"
+        },
+        {
+          "testata": "milanofinanza.it",
+          "titolo": "una strategia federale",
+          "data": "2025",
+          "url": "https://www.milanofinanza.it/news/mirato-una-strategia-federale-per-espandersi-senza-snaturarsi-202512131054387119"
+        }
+      ]
+    },
+    {
+      "titolo": "Coda",
+      "fonti": [
+        {
+          "testata": "ferrerocareers.com",
+          "titolo": "Ferrero Careers · Life at Ferrero HQ (Lussemburgo)",
+          "data": "",
+          "url": "https://www.ferrerocareers.com/lu/en/working-at-ferrero/life-at-ferrero-hq"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "Forbes Italia · Devasini il più ricco d'Italia",
+          "data": "2026",
+          "url": "https://forbes.it/2026/03/12/giancarlo-devasini-piu-ricco-italia-secondo-ferrero"
+        },
+        {
+          "testata": "giuseppecaprotti.it",
+          "titolo": "Il Sole 24 Ore (A. Mincuzzi, 4/2/2021) via giuseppecaprotti.it",
+          "data": "",
+          "url": "https://www.giuseppecaprotti.it/en/not-only-nutella-with-a-maxi-merger-giovanni-ferrero-has-created-a-new-group-in-belgium/"
+        },
+        {
+          "testata": "ilpiccolo.net",
+          "titolo": "un anno di festa per i 100 di Felce Azzurra",
+          "data": "2023",
+          "url": "https://www.ilpiccolo.net/2023/01/31/paglieri-un-anno-di-festa-per-i-100-di-felce-azzurra"
+        },
+        {
+          "testata": "ilpost.it",
+          "titolo": "Il Post · Sessant'anni di Nutella",
+          "data": "",
+          "url": "https://www.ilpost.it/2024/04/20/sessanta-anni-nutella/"
+        },
+        {
+          "testata": "ilsole24ore.com",
+          "titolo": "Il Sole 24 Ore · Tether all'assalto della Juventus",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/tether-allassalto-juventus-binding-offer-exor-AItzq4N"
+        },
+        {
+          "testata": "quotidiano.net",
+          "titolo": "QN · Dal bisturi alle criptovalute: Giancarlo Devasini",
+          "data": "",
+          "url": "https://www.quotidiano.net/economia/dal-bisturi-alla-criptovalute-la-parabola-di-giancarlo-devasini-il-nuovo-paperone-ditalia-598d1d5a"
+        },
+        {
+          "testata": "tools.prnewswire.com",
+          "titolo": "Ferrero Group · Consolidated Financial Statements 2024/2025",
+          "data": "2026",
+          "url": "https://tools.prnewswire.com/en-us/live/20823/release/20260206EN80643"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "Wikipedia · Pietro Ferrero",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Pietro_Ferrero"
+        }
+      ]
+    },
+    {
+      "titolo": "Chiusura",
+      "fonti": [
+        {
+          "testata": "archivio.unita.news",
+          "titolo": "l'Unità · Morto Marcellino Gavio",
+          "data": "2009",
+          "url": "https://archivio.unita.news/assets/main/2009/11/17/page_035.pdf"
+        },
+        {
+          "testata": "mirogliogroup.com",
+          "titolo": "Heritage - Miroglio Group (sito del gruppo)",
+          "data": "",
+          "url": "https://www.mirogliogroup.com/en/heritage/"
+        },
+        {
+          "testata": "money.it",
+          "titolo": "Money.it · 1.000 euro a Mario Rizzante nel 2005",
+          "data": "2025",
+          "url": "https://www.money.it/quanti-soldi-avresti-oggi-se-avessi-dato-eur1000-a-mario-rizzante-reply-nel-2005"
+        }
+      ]
+    }
+  ],
+  "fonti_generali": [
     {
       "testata": "drive.google.com",
       "titolo": "",
       "data": "",
       "url": "https://drive.google.com/drive/folders/1ZKrk5167n-doZgnYE-a0NC0E4ULm-439"
-    },
-    {
-      "testata": "ecoseven.net",
-      "titolo": "Monge, contratto di sviluppo: investimento da 25 mln e 50 nuovi dipendenti",
-      "data": "2022",
-      "url": "https://www.ecoseven.net/flash-news/monge-con-contratto-di-sviluppo-investimento-da-25-mln-euro-e-50-nuovi-dipendenti/"
-    },
-    {
-      "testata": "efanews.eu",
-      "titolo": "the family will not give up control",
-      "data": "2021",
-      "url": "https://www.efanews.eu/item/20547-fratelli-martini-wines-the-family-will-not-give-up-control.html"
-    },
-    {
-      "testata": "emarketstorage.it",
-      "titolo": "Buzzi, comunicato liste di maggioranza",
-      "data": "2026",
-      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-04/20260420_182374.pdf"
-    },
-    {
-      "testata": "emarketstorage.it",
-      "titolo": "Diasorin, comunicato risultati 2025",
-      "data": "2026",
-      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260320_179451.pdf"
-    },
-    {
-      "testata": "emarketstorage.it",
-      "titolo": "Gruppo Sella, l'Assemblea nomina il nuovo CdA",
-      "data": "2025",
-      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-04/20250430_166278.pdf"
-    },
-    {
-      "testata": "emarketstorage.it",
-      "titolo": "Gruppo Sella, risultati 2025",
-      "data": "2026",
-      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260210_177356.pdf"
-    },
-    {
-      "testata": "emarketstorage.it",
-      "titolo": "Reply, liste dei candidati al CdA con biografie",
-      "data": "aprile 2024",
-      "url": "https://emarketstorage.it/sites/default/files/comunicati/2024-04/20240402_145782.pdf"
-    },
-    {
-      "testata": "exor.com",
-      "titolo": "Exor · Half-Year 2025 Report",
-      "data": "",
-      "url": "https://exor.com/system/files/2025/document-documents/Exor%20Half-Year%202025%20Report.pdf"
-    },
-    {
-      "testata": "exor.com",
-      "titolo": "Exor · Press Release ABO Launch",
-      "data": "2025",
-      "url": "https://exor.com/sites/default/files/press-releases/2025-02/Exor%20Press%20Release%20_%20ABO%20Launch.pdf"
-    },
-    {
-      "testata": "exor.com",
-      "titolo": "Exor · Shareholders",
-      "data": "2025",
-      "url": "https://exor.com/node/36"
-    },
-    {
-      "testata": "fashionunited.com",
-      "titolo": "FashionUnited · Zegna chiude il 2025 a 1,91 miliardi",
-      "data": "",
-      "url": "https://fashionunited.com/news/business/ermenegildo-zegna-closes-2025-with-revenues-of-1-91-billion-euros-down-1-5-percent-yoy/2026020270354"
-    },
-    {
-      "testata": "fashionunited.com",
-      "titolo": "FashionUnited · Zegna family increases stake",
-      "data": "",
-      "url": "https://fashionunited.com/executive/report/zegna-family-increases-stake-in-luxury-fashion-group-ermenegildo-zegna/2024111462892"
-    },
-    {
-      "testata": "fashionunited.uk",
-      "titolo": "BasicNet consolidated turnover reaches 416 million euros in 2025 (FashionUnited)",
-      "data": "",
-      "url": "https://fashionunited.uk/news/business/basicnet-consolidated-turnover-reaches-416-million-euros-in-2025/2026021386276"
-    },
-    {
-      "testata": "ferrerocareers.com",
-      "titolo": "Ferrero Careers · Life at Ferrero HQ (Lussemburgo)",
-      "data": "",
-      "url": "https://www.ferrerocareers.com/lu/en/working-at-ferrero/life-at-ferrero-hq"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "Coca-Cola acquista il 30% di Caffè Vergnano (Forbes Italia)",
-      "data": "",
-      "url": "https://forbes.it/2021/06/28/coca-cola-acquista-il-30-di-caffe-vergnano-e-distribuira-i-suoi-prodotti-allestero"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "Coronavirus, i miliardari diventati più ricchi lottando contro il Covid-19",
-      "data": "2020",
-      "url": "https://forbes.it/2020/05/04/coronavirus-miliardari-diventati-piu-ricchi-lottando-contro-covid-19/"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "Forbes Italia · Devasini il più ricco d'Italia",
-      "data": "2026",
-      "url": "https://forbes.it/2026/03/12/giancarlo-devasini-piu-ricco-italia-secondo-ferrero"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "Forbes Italia – Come una famiglia di costruttori ha creato l'impero dell'acqua Sant'Anna",
-      "data": "2025",
-      "url": "https://forbes.it/2025/08/18/come-famiglia-costruttori-creato-impero-acqua-sant-anna"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "Monge",
-      "data": "2021",
-      "url": "https://forbes.it/2021/11/15/__trashed-4/"
-    },
-    {
-      "testata": "fortuneita.com",
-      "titolo": "morto Alberto Bertone",
-      "data": "2025",
-      "url": "https://www.fortuneita.com/2025/11/11/acqua-sant-anna-morto-alberto-bertone/"
-    },
-    {
-      "testata": "giacomini.com",
-      "titolo": "Giacomini — Company profile IP0001 06/26",
-      "data": "",
-      "url": "https://it.giacomini.com/dam/jcr:010bf76a-87e5-4a26-992a-20c90b248426/COMPANY_PROFILE_IP0001_folder.pdf"
-    },
-    {
-      "testata": "giacomini.com",
-      "titolo": "Giacomini — Giacomini Group",
-      "data": "",
-      "url": "https://www.giacomini.com/about-us/giacomini-group"
-    },
-    {
-      "testata": "giacomini.com",
-      "titolo": "Giacomini — History",
-      "data": "",
-      "url": "https://www.giacomini.com/en/history"
-    },
-    {
-      "testata": "giuseppecaprotti.it",
-      "titolo": "Il Sole 24 Ore (A. Mincuzzi, 4/2/2021) via giuseppecaprotti.it",
-      "data": "",
-      "url": "https://www.giuseppecaprotti.it/en/not-only-nutella-with-a-maxi-merger-giovanni-ferrero-has-created-a-new-group-in-belgium/"
-    },
-    {
-      "testata": "globenewswire.com",
-      "titolo": "Exor · Press Release FY2025 Results",
-      "data": "2026",
-      "url": "https://www.globenewswire.com/news-release/2026/03/23/3260861/0/en/Exor-Press-Release-FY2025-Results.html"
-    },
-    {
-      "testata": "greenme.it",
-      "titolo": "fondatore di Acqua Sant'Anna",
-      "data": "2025",
-      "url": "https://www.greenme.it/news/morto-alberto-bertone-fondatore-acqua-sant-anna/"
-    },
-    {
-      "testata": "gruppodeagostini.it",
-      "titolo": "comunicato bilancio 2025",
-      "data": "2026",
-      "url": "https://gruppodeagostini.it/sites/default/files/pressrelease_documents/CS%20Bilancio%202025.pdf"
-    },
-    {
-      "testata": "gruppodeagostini.it",
-      "titolo": "Gruppo De Agostini · History",
-      "data": "",
-      "url": "https://gruppodeagostini.it/en/about-us/history"
-    },
-    {
-      "testata": "hu.coca-colahellenic.com",
-      "titolo": "Coca-Cola HBC AG completes the acquisition of a minority stake in Caffè Vergnano",
-      "data": "",
-      "url": "https://hu.coca-colahellenic.com/en/media/news/corporate/2021/coca-cola-hbc-ag-completes-the-acquisition-of-a-minority-stake-i"
-    },
-    {
-      "testata": "id.fashionnetwork.com",
-      "titolo": "With F.lli Cerruti, Gruppo Piacenza wants to become a pole of reference in luxury woollen textiles (FashionNetwork)",
-      "data": "",
-      "url": "https://id.fashionnetwork.com/news/With-F-lli-Cerruti-Gruppo-Piacenza-wants-to-become-a-pole-of-reference-in-luxury-wollen-textiles,1457428.html"
-    },
-    {
-      "testata": "ilgiornale.it",
-      "titolo": "La mia fortuna? Licenziamento e mio cane veterinario",
-      "data": "2023",
-      "url": "https://www.ilgiornale.it/news/mia-fortuna-licenziamento-e-mio-cane-veterinario-2204848.html"
-    },
-    {
-      "testata": "ilpiccolo.net",
-      "titolo": "un anno di festa per i 100 di Felce Azzurra",
-      "data": "2023",
-      "url": "https://www.ilpiccolo.net/2023/01/31/paglieri-un-anno-di-festa-per-i-100-di-felce-azzurra"
-    },
-    {
-      "testata": "ilpost.it",
-      "titolo": "Il Post · Sessant'anni di Nutella",
-      "data": "",
-      "url": "https://www.ilpost.it/2024/04/20/sessanta-anni-nutella/"
-    },
-    {
-      "testata": "ilsole24ore.com",
-      "titolo": "Il gruppo Damiani chiude il 2024 con ricavi a 380 milioni",
-      "data": "2025",
-      "url": "https://en.ilsole24ore.com/art/il-gruppo-damiani-chiude-2024-ricavi-380-milioni-10percento-AGS2JHnD"
-    },
-    {
-      "testata": "ilsole24ore.com",
-      "titolo": "Il Sole 24 Ore · Tether all'assalto della Juventus",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/tether-allassalto-juventus-binding-offer-exor-AItzq4N"
-    },
-    {
-      "testata": "ilsole24ore.com",
-      "titolo": "Vitale Barberis Canonico points to USA and Europe (Il Sole 24 Ore)",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/vitale-barberis-canonico-points-to-usa-and-europe-AFoxb5fC"
-    },
-    {
-      "testata": "int.diasorin.com",
-      "titolo": "Carlo Rosa - Leadership (sito Diasorin)",
-      "data": "",
-      "url": "https://int.diasorin.com/en/company/who-we-are/leadership/carlo-rosa"
-    },
-    {
-      "testata": "int.diasorin.com",
-      "titolo": "Diasorin - History (sito aziendale)",
-      "data": "",
-      "url": "https://int.diasorin.com/en/company/who-we-are/history"
-    },
-    {
-      "testata": "int.diasorin.com",
-      "titolo": "Michele Denegri - Leadership (sito Diasorin)",
-      "data": "",
-      "url": "https://int.diasorin.com/jp/company/who-we-are/leadership/michele-denegri"
-    },
-    {
-      "testata": "italiaoggi.it",
-      "titolo": "quanto fatturano le cantine",
-      "data": "2025",
-      "url": "https://www.italiaoggi.it/settori/agroalimentare/vino-cantine-a-caccia-di-eno-turisti-e-no-alcol-ecco-quanto-fatturano-hsa4w0q0"
-    },
-    {
-      "testata": "lavazza.co.uk",
-      "titolo": "Lavazza · History",
-      "data": "",
-      "url": "https://www.lavazza.co.uk/en/about-us/history.html"
-    },
-    {
-      "testata": "lavazzagroup.com",
-      "titolo": "Gruppo Lavazza · Board of Directors",
-      "data": "",
-      "url": "https://www.lavazzagroup.com/en/who-we-are/governance/corporate-governance/board-of-directors.html"
-    },
-    {
-      "testata": "lavazzagroup.com",
-      "titolo": "Gruppo Lavazza · Comunicato dati di bilancio 2025",
-      "data": "",
-      "url": "https://www.lavazzagroup.com/content/dam/lavazza-corporate/chi_siamo/risultati/CS_GruppoLavazza_FY2025_DatiBilancio.pdf"
-    },
-    {
-      "testata": "lowerblock.com",
-      "titolo": "Kappa, iconic Italian brand with a rich football heritage (Lowerblock)",
-      "data": "",
-      "url": "https://lowerblock.com/articles/kappa-iconic-italian-brand-with-a-rich-football-heritage/"
-    },
-    {
-      "testata": "meininger.de",
-      "titolo": "Meininger Weinwirtschaft – Antizyklisch investieren",
-      "data": "2024",
-      "url": "https://www.meininger.de/wein/erzeuger/antizyklisch-investieren"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Alessandro e Lorenzo Boglione, il futuro di BasicNet nel segno della continuità",
-      "data": "2026",
-      "url": "https://www.milanofinanza.it/fashion/alessandro-e-lorenzo-boglione-il-futuro-di-basicnet-nel-segno-della-continuita-202603201547215848"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Barberis Canonico, per tramandare un patrimonio di esperienza ci vuole stoffa",
-      "data": "2025",
-      "url": "https://www.milanofinanza.it/news/barberis-canonico-per-tramandare-un-patrimonio-di-esperienza-ci-vuole-stoffa-202512031806468960"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Damiani corre oltre i 400 milioni nel 2025",
-      "data": "2026",
-      "url": "https://www.milanofinanza.it/fashion/damiani-corre-oltre-i-400-milioni-nel-2025-202604101228521111"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Damiani, custodi e pionieri della manifattura più preziosa",
-      "data": "2025",
-      "url": "https://www.milanofinanza.it/news/damiani-custodi-e-pionieri-della-manifattura-piu-preziosa-202512091402491502"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Diasorin, più dividendi per i Denegri dalla cassaforte Finde",
-      "data": "2025",
-      "url": "https://www.milanofinanza.it/news/diasorin-piu-dividendi-per-i-denegri-dalla-cassaforte-finde-202508011954386455"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Gavio mette in campo i figli",
-      "data": "2026",
-      "url": "https://www.milanofinanza.it/news/gavio-mette-in-campo-i-figli-2720901"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Mediobanca, spunta il socio Monge all'1%",
-      "data": "2020",
-      "url": "https://www.milanofinanza.it/news/mediobanca-spunta-il-socio-monge-all-1-202011032104192619"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Milano Finanza – BF acquista Fratelli Martini per 220 milioni",
-      "data": "2025",
-      "url": "https://www.milanofinanza.it/news/bf-rafforza-la-filiera-agroalimentare-acquista-fratelli-martini-per-220-milioni-202512151011287983"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Milano Finanza — Malizia acquisisce I Provenzali",
-      "data": "2017",
-      "url": "https://www.milanofinanza.it/news/malizia-acquisisce-i-provenzali-201709041239467204"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Miroglio supera 600 milioni di ricavi ma l'utile si contrae a 1,6 milioni",
-      "data": "2026",
-      "url": "https://www.milanofinanza.it/fashion/miroglio-supera-600-milioni-di-ricavi-ma-l-utile-si-contrae-a-1-6-milioni-202607091838214156"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Pet food, la famiglia Monge apre alla terza generazione",
-      "data": "2025",
-      "url": "https://www.milanofinanza.it/news/pet-food-la-famiglia-monge-apre-alla-terza-generazione-202512172115226394"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Ricavi a 109 mln per gli acciai di Ferrero",
-      "data": "2026",
-      "url": "https://www.milanofinanza.it/news/ricavi-a-109-mln-per-gli-acciai-di-ferrero-2720150"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "una strategia federale",
-      "data": "2025",
-      "url": "https://www.milanofinanza.it/news/mirato-una-strategia-federale-per-espandersi-senza-snaturarsi-202512131054387119"
-    },
-    {
-      "testata": "milanofinanza.it",
-      "titolo": "Vitale Barberis Canonico scommette sul green",
-      "data": "2026",
-      "url": "https://www.milanofinanza.it/fashion/vitale-barberis-canonico-scommette-sul-green-202607071754094456"
-    },
-    {
-      "testata": "mirogliogroup.com",
-      "titolo": "Cartella stampa Miroglio Group",
-      "data": "febbraio 2023",
-      "url": "https://www.mirogliogroup.com/wp-content/uploads/2023/02/miroglio-group_CartellaStampa-MiroglioGroup.pdf"
-    },
-    {
-      "testata": "mirogliogroup.com",
-      "titolo": "Heritage - Miroglio Group (sito del gruppo)",
-      "data": "",
-      "url": "https://www.mirogliogroup.com/en/heritage/"
-    },
-    {
-      "testata": "money.it",
-      "titolo": "Money.it · 1.000 euro a Mario Rizzante nel 2005",
-      "data": "2025",
-      "url": "https://www.money.it/quanti-soldi-avresti-oggi-se-avessi-dato-eur1000-a-mario-rizzante-reply-nel-2005"
-    },
-    {
-      "testata": "money.it",
-      "titolo": "Money.it – È morto Alberto Bertone",
-      "data": "2025",
-      "url": "https://www.money.it/e-morto-alberto-bertone-l-imprenditore-che-ha-trasformato-l-acqua-sant-anna-in-un-impero-da-oltre-eur300-milioni"
-    },
-    {
-      "testata": "monge.it",
-      "titolo": "Monge · Our history",
-      "data": "",
-      "url": "https://monge.it/en/our-history"
-    },
-    {
-      "testata": "motor1.com",
-      "titolo": "Motor1 · Fiat, 125 anni: i fondatori e le curiosità",
-      "data": "",
-      "url": "https://it.motor1.com/news/725823/fiat-125-anni-fondatori-agnelli-curiosita/"
-    },
-    {
-      "testata": "qds.it",
-      "titolo": "Caffè Vergnano, nel 2024 fatturato sale a 124,7 mln (QdS/askanews)",
-      "data": "",
-      "url": "https://qds.it/caffe-vergnano-nel-2024-fatturato-sale-a-1247-mln-export-33/"
-    },
-    {
-      "testata": "qds.it",
-      "titolo": "Gruppo Intergea 72.845 auto vendute nel 2025",
-      "data": "2026",
-      "url": "https://qds.it/gruppo-intergea-72-845-auto-vendute-nel-2025-primo-in-italia/"
-    },
-    {
-      "testata": "quifinanza.it",
-      "titolo": "Coca-Cola compra il 30% di Caffè Vergnano (QuiFinanza)",
-      "data": "",
-      "url": "https://quifinanza.it/economia/video/coca-cola-caffe-vergnano/505104/"
-    },
-    {
-      "testata": "quifinanza.it",
-      "titolo": "il nuovo Ad ha 28 anni",
-      "data": "2025",
-      "url": "https://quifinanza.it/economia/balocco-diletta-cda-nomine/927466/amp/"
-    },
-    {
-      "testata": "quotidiano.net",
-      "titolo": "QN · Dal bisturi alle criptovalute: Giancarlo Devasini",
-      "data": "",
-      "url": "https://www.quotidiano.net/economia/dal-bisturi-alla-criptovalute-la-parabola-di-giancarlo-devasini-il-nuovo-paperone-ditalia-598d1d5a"
-    },
-    {
-      "testata": "reply.com",
-      "titolo": "Patto parasociale Reply",
-      "data": "2025",
-      "url": "https://www.reply.com/contents/Patto_parasociale_Reply_26.09.25.pdf"
-    },
-    {
-      "testata": "reply.com",
-      "titolo": "Reply: il CdA approva il progetto di bilancio 2025",
-      "data": "2026",
-      "url": "https://www.reply.com/it/newsroom/financial-news/the-board-of-directors-approved-the-draft-financial-statements-for-the-year-2025"
-    },
-    {
-      "testata": "richemont.com",
-      "titolo": "Richemont and the Damiani Group sign agreement for the Damiani Group to acquire Baume & Mercier",
-      "data": "2026",
-      "url": "https://www.richemont.com/news-media/press-releases-news/richemont-and-the-damiani-group-sign-agreement-for-the-damiani-group-to-acquire-baume-mercier/"
-    },
-    {
-      "testata": "s205.q4cdn.com",
-      "titolo": "Brightstar Lottery, risultati Q4 e anno 2025",
-      "data": "2026",
-      "url": "https://s205.q4cdn.com/821653831/files/doc_financials/2025/q4/Q4-25-Earnings-Press-Release-v10.pdf"
-    },
-    {
-      "testata": "satapweb.it",
-      "titolo": "concessionaria A4 Torino-Milano del Gruppo ASTM",
-      "data": "",
-      "url": "https://satapweb.it/en"
-    },
-    {
-      "testata": "sec.gov",
-      "titolo": "Brightstar Lottery PLC, Form 20-F 2025 (SEC)",
-      "data": "",
-      "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026011083/igt-20251231.htm"
-    },
-    {
-      "testata": "sec.gov",
-      "titolo": "Ermenegildo Zegna N.V. · Form 20-F FY2025 (SEC)",
-      "data": "",
-      "url": "https://www.sec.gov/Archives/edgar/data/1877787/000187778726000015/zgn-20251231.htm"
-    },
-    {
-      "testata": "sellagroup.eu",
-      "titolo": "Gruppo Sella, la nostra storia",
-      "data": "",
-      "url": "https://sellagroup.eu/en/la-nostra-storia"
-    },
-    {
-      "testata": "teleborsa.it",
-      "titolo": "Buzzi nominato nuovo CdA",
-      "data": "2026",
-      "url": "https://www.teleborsa.it/DettaglioNews/151_2026-05-13_TLB/Buzzi-nominato-nuovo-CdA-Confermati-Veronica-Buzzi-presidente-Pietro-Buzzi-AD.html"
-    },
-    {
-      "testata": "tg24.sky.it",
-      "titolo": "BasicNet, un modello di business vincente (Sky TG24)",
-      "data": "",
-      "url": "https://tg24.sky.it/spettacolo/2022/05/10/basicnet-un-modello-di-business-vincente"
-    },
-    {
-      "testata": "tools.prnewswire.com",
-      "titolo": "Ferrero Group · Consolidated Financial Statements 2024/2025",
-      "data": "2026",
-      "url": "https://tools.prnewswire.com/en-us/live/20823/release/20260206EN80643"
-    },
-    {
-      "testata": "turismotorino.org",
-      "titolo": "Lo spaccio BasicNet - Basic Village (Turismo Torino)",
-      "data": "",
-      "url": "https://turismotorino.org/fr/visita/cosa-fare-e-vedere/shopping/allo-spaccio-basic-net-basic-village"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Club Alpino Italiano",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Club_Alpino_Italiano"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Damiani Group",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Damiani_Group"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "DiaSorin",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/DiaSorin"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Fratelli Piacenza (Wikipedia)",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Fratelli_Piacenza"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Gustavo Denegri",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Gustavo_Denegri"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Lanificio Fratelli Cerruti (Wikipedia)",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Lanificio_Fratelli_Cerruti"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Miroglio",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Miroglio"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Vitale Barberis Canonico (Wikipedia)",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Vitale_Barberis_Canonico"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia · Exor (company)",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Exor_(company)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia · John Elkann",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/John_Elkann"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia · Pietro Ferrero",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Pietro_Ferrero"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia · Stellantis",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Stellantis"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia · Zegna",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Zegna"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia — Balocco (company)",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Balocco_(company)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "Wikipedia — Giacomini",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Giacomini"
-    },
-    {
-      "testata": "wine-business-international.com",
-      "titolo": "Wine Business International – Fratelli Martini Secondo Luigi (report sponsorizzato)",
-      "data": "",
-      "url": "https://www.wine-business-international.com/wine/families-wine-sponsored-reports/fratelli-martini-secondo-luigi"
     }
-  ],
-  "fonti_generali": []
+  ]
 }

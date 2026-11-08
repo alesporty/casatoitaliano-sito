@@ -1022,828 +1022,866 @@
   "pubblica": true,
   "standard": 2,
   "racconta": "Il wafer della merenda, l'angioletto di ceramica che ti hanno regalato a Natale, il brindisi di Capodanno, il camion che sorpassi sul Brennero: sembrano cose che arrivano dalla montagna. Arrivano da una famiglia. In questo video mettiamo in fila 19 famiglie legate al Trentino e all'Alto Adige, che qui hanno la sede delle loro aziende oppure qui sono nate: dalla diciannovesima alla prima, per quanto fattura la loro azienda in un anno (l'ultimo dato pubblicato).",
-  "elenco": [
+  "capitoli": [
+    {
+      "titolo": "Numero 19",
+      "fonti": [
+        {
+          "testata": "forbes.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/eccellenza/pastificio-felicetti-2/"
+        },
+        {
+          "testata": "identitagolose.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.identitagolose.it/public/media/pdf/cs-felicetti.pdf"
+        },
+        {
+          "testata": "il Dolomiti",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ildolomiti.it/economia-e-lavoro/2018/un-nuovo-pastificio-per-felicetti-e-nella-societa-entra-isa-un-momento"
+        },
+        {
+          "testata": "italiaoggi.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.italiaoggi.it/marketing-e-media/marketing/felicetti-dalla-val-di-fiemme-la-pasta-conquista-i-mercati-globali-m0ng8o4k"
+        },
+        {
+          "testata": "Linkiesta",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.linkiesta.it/2020/06/pasta-dolomiti-felicetti-riccardo/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 18",
+      "fonti": [
+        {
+          "testata": "Affaritaliani",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.affaritaliani.it/economia/thun-rileva-il-100-di-connecthub-e-si-apre-al-mercato-m-a-686404.html"
+        },
+        {
+          "testata": "Alto Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.altoadige.it/cronaca/bolzano/se-anche-gli-angeli-cadono-il-mito-thun-ora-s-incrina-1.510729"
+        },
+        {
+          "testata": "fortuneita.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fortuneita.com/?p=16715"
+        },
+        {
+          "testata": "il Dolomiti",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ildolomiti.it/societa/2021/da-un-angelo-in-ceramica-creato-70-anni-fa-ora-thun-lancia-lenet-group-pronti-ad-espanderci-verso-nuovi-mercati"
+        },
+        {
+          "testata": "ilfattoquotidiano.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilfattoquotidiano.it/2026/06/04/thun-conquista-la-gen-z-perche-angioletti-presepi-e-statuette-da-credenza-sono-tornati-di-moda-su-tiktok/8385179/"
+        },
+        {
+          "testata": "money.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.money.it/o-le-ami-o-le-odi-con-le-sue-statuette-questa-societa-fattura-oltre-eur100-milioni"
+        },
+        {
+          "testata": "Panorama",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.panorama.it/lifestyle/nuove-ossessioni-gli-angeli-del-centenario-thun"
+        },
+        {
+          "testata": "teleborsa.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.teleborsa.it/AMP/News/2026/05/13/pozzi-milano-offerta-per-l-acquisizione-del-ramo-di-azienda-divisione-ex-unitable-di-thun-239.html"
+        },
+        {
+          "testata": "Thun",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.thun.com/it_it/collezionismo-e-storia"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Matteo_Thun"
+        }
+      ]
+    },
     {
-      "testata": "Acciaierie Valbruna",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.valbruna-stainless-steel.com/it/group/history"
-    },
-    {
-      "testata": "Affaritaliani",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.affaritaliani.it/economia/thun-rileva-il-100-di-connecthub-e-si-apre-al-mercato-m-a-686404.html"
-    },
-    {
-      "testata": "Alto Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.altoadige.it/cronaca/bolzano/se-anche-gli-angeli-cadono-il-mito-thun-ora-s-incrina-1.510729"
-    },
-    {
-      "testata": "Alto Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.altoadige.it/cronaca/venosta/oswald-zuegg-a-lana-eravamo-una-famiglia-bqbqvubr"
-    },
-    {
-      "testata": "Alto Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.altoadige.it/cronaca/bolzano/il-sogno-d-acciaio-di-bruno-falck-a-bolzano-1.367742"
-    },
-    {
-      "testata": "Alto Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.altoadige.it/economia/ricambio-generazionale-alla-leitner-di-vipiteno-1.489104"
-    },
-    {
-      "testata": "Alto Adige Innovazione",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.altoadigeinnovazione.it/gruber-logistics-le-sfide-e-i-trend-del-settore-della-logistica/"
-    },
-    {
-      "testata": "AmeVe",
-      "titolo": "",
-      "data": "",
-      "url": "https://ameve.eu/menzgasser-il-successo-delle-confetture-trentine-tocca-i-300-milioni/"
-    },
-    {
-      "testata": "aquafil.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aquafil.com/assets/uploads/260312_CS_Aquafil_Risultati-FY25.pdf"
-    },
-    {
-      "testata": "aquafil.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aquafil.com/assets/uploads/20250930_Aquafil_European-Mid-cap-event.pdf"
-    },
-    {
-      "testata": "ara.cat",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ara.cat/business/who-is-and-where-did-dr-schar-come-from-the-italian-king-of-gluten-free-products_1_5771385.html"
-    },
-    {
-      "testata": "austria-forum.org",
-      "titolo": "",
-      "data": "",
-      "url": "https://austria-forum.org/af/AustriaWiki/Finstral"
-    },
-    {
-      "testata": "austria-forum.org",
-      "titolo": "",
-      "data": "",
-      "url": "https://austria-forum.org/af/AustriaWiki/Dr._Sch%C3%A4r"
-    },
-    {
-      "testata": "austria-forum.org",
-      "titolo": "",
-      "data": "",
-      "url": "https://austria-forum.org/af/AustriaWiki/Fercam"
-    },
-    {
-      "testata": "autoscout24.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.autoscout24.it/concessionari/barchetti-auto-d-occasione-trentino-alto-adige/chi-siamo"
-    },
-    {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/acciaierie-valbruna-s-p-a"
-    },
-    {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/ferrari-f-lli-lunelli-s-p-a-in-breve-ferrari"
-    },
-    {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/zuegg-s-p-a"
-    },
-    {
-      "testata": "bergsteigen.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.bergsteigen.com/news/neuigkeiten/la-sportiva-meldet-wachstum-fuer-2025/"
-    },
-    {
-      "testata": "Beverfood",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.beverfood.com/gruppo-lunelli-fatturato-2024-a-138-milioni-di-euro-ebitda-in-crescita-al-19/amp"
-    },
-    {
-      "testata": "beverfood.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.beverfood.com/birrificio/birra-forst-s-p-a"
-    },
-    {
-      "testata": "beverfood.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://beverfood.com/documenti/mercato-birre-italia-2023-scenario-competitivo-by-beverfoodcom-wd/amp"
-    },
-    {
-      "testata": "BM",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.bm-online.de/produkte-und-tests/produkte/bauelemente2/europaeische-fensterkarriere/"
-    },
-    {
-      "testata": "BM",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.bm-online.de/aktuelles/markt-branche/finstral-trauert-um-hans-oberrauch/"
-    },
-    {
-      "testata": "brauwelt.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.brauwelt.com/en/international-report/europe-russia/622549-obituary-margarethe-fuchs-matriarch-of-the-forst-brewery-died-8-december-2015-aged-97-622549"
-    },
-    {
-      "testata": "Business Punk",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.business-punk.com/business/gut-holz-suedtirol-wo-aus-wald-weltweite-architektur-entsteht/"
-    },
-    {
-      "testata": "calcioefinanza.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.calcioefinanza.it/2019/08/29/inaugurato-il-primo-stadio-in-legno/"
-    },
-    {
-      "testata": "Camera di commercio di Verona",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.vr.camcom.it/novita/comunicati-stampa/46-fedelta-al-lavoro-domus-mercatorum/fedelta-al-lavoro-2026-elenco-premiati.pdf/@@display-file/file"
-    },
-    {
-      "testata": "Circular Conversations",
-      "titolo": "",
-      "data": "",
-      "url": "https://circularconversations.com/conversations/leadership-vision-courage-and-a-bit-of-folly"
-    },
-    {
-      "testata": "Controcampo (blog)",
-      "titolo": "",
-      "data": "",
-      "url": "https://aziendeincampo.wordpress.com/2015/02/18/oswald-zuegg-rileva-il-28-dellazienda-dai-parenti-e-arriva-al-controllo-totale/"
-    },
-    {
-      "testata": "dachser.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.dachser.com/en/mediaroom/FERCAM-From-South-Tyrol-to-the-world-22626"
-    },
-    {
-      "testata": "designboom",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.designboom.com/design/prada-re-nylon-sustainable-bags-06-24-2019/"
-    },
-    {
-      "testata": "Dirigenti Industria",
-      "titolo": "",
-      "data": "",
-      "url": "https://dirigentindustria.it/fm-trento/vita-associativa/le-confetture-sostenibili-dei-menz-gasser.html"
-    },
-    {
-      "testata": "Dissapore",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.dissapore.com/grande-notizia/merende-anni-50/"
-    },
-    {
-      "testata": "Dissapore",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.dissapore.com/notizie/armin-loacker-e-morto-comera-diventato-il-re-dei-wafer/"
-    },
-    {
-      "testata": "Distribuzione Moderna",
-      "titolo": "",
-      "data": "",
-      "url": "https://distribuzionemoderna.info/intervista/patrizio-podini-lunico-segreto-e-il-lavoro"
-    },
-    {
-      "testata": "drschaer.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.drschaer.com/en/news/our-2025-growing-with-vision-investing-in-the-future"
-    },
-    {
-      "testata": "EconomyUp",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.economyup.it/?p=9997"
-    },
-    {
-      "testata": "econyl.aquafil.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://econyl.aquafil.com/eco-design-magazine/stories-of-innovation-an-interview-with-giulio-bonazzi/"
-    },
-    {
-      "testata": "europe.autonews.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://europe.autonews.com/article/20051031/ANE/51101014/barchetti-family-makes-history-in-italy"
-    },
-    {
-      "testata": "eurotransport",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.eurotransport.de/logistik/spedition-und-logistik/gruber-logistics-rekordergebnis-universal-transport-integration/"
-    },
-    {
-      "testata": "eurotransport",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.eurotransport.de/news/imagekampagne-der-spedition-fercam-fercam-macht-lkw-zum-sympathietraeger-10179210.html"
-    },
-    {
-      "testata": "famcap.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.famcap.com/2024/04/profile-family-business-dr-schar-were-driven-by-our-actions-not-our-financial-results/"
-    },
-    {
-      "testata": "Fercam",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fercam.com/it-it/news-stampa/news/70-anni-di-fercam-la-storia--1-578.html"
-    },
-    {
-      "testata": "Fercam",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fercam.com/en-rs/company-7.html"
-    },
-    {
-      "testata": "fercam.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fercam.com/en-al/news-press/news/fercam-celebrates-75-years--1-5062.html"
-    },
-    {
-      "testata": "fercam.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fercam.com/en-es/company-7.html"
-    },
-    {
-      "testata": "fercam.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fercam.com/en-it/news-press/news/fercam-2025-results-show-growth-despite-complex-global-environment--1-5394.html"
-    },
-    {
-      "testata": "ferraritrento.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ferraritrento.com/en/history/"
-    },
-    {
-      "testata": "finstral.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://finstral.com/llms.txt"
-    },
-    {
-      "testata": "finstral.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.finstral.com/en/magazine/hans-oberrauch-obituary/20-11713.html"
-    },
-    {
-      "testata": "Forbes Italia",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/2024/01/22/da-una-segheria-alla-costruzione-di-stadi-in-legno-in-tutto-il-mondo-la-storia-dell-altoatesina-rubner/"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/eccellenza/pastificio-felicetti-2/"
-    },
-    {
-      "testata": "fortuneita.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fortuneita.com/?p=16715"
-    },
-    {
-      "testata": "fortuneita.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fortuneita.com/2023/03/11/md-le-ragioni-di-un-successo-intervista-patrizio-podini/"
-    },
-    {
-      "testata": "fri-el.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fri-el.it/wp-content/uploads/2026/04/2026.04.14-Fri-EL-FY2025-consolidato-EN.pdf"
-    },
-    {
-      "testata": "Gambero Rosso",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gamberorosso.it/notizie/vino/direttore-generale-simone-mase-gruppo-lunelli/"
-    },
-    {
-      "testata": "Gambero Rosso",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gamberorosso.it/notizie/storie/i-wafer-prima-e-dopo-loacker-la-vera-storia-dei-biscotti-ripieni-di-crema"
-    },
-    {
-      "testata": "Gambero Rosso International",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gamberorossointernational.com/?p=371054"
-    },
-    {
-      "testata": "Gambero Rosso International",
-      "titolo": "",
-      "data": "",
-      "url": "https://gamberorossointernational.com/?p=371084"
-    },
-    {
-      "testata": "Giornale Trentino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.giornaletrentino.it/cronaca/trento/menz-gasser-festeggia-80-anni-di-marmellate-1.894066"
-    },
-    {
-      "testata": "Gruber Logistics",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruber-logistics.com/en/gruber-logistics-delivers-famous-airbus-to-serengeti-park/"
-    },
-    {
-      "testata": "Gruber Logistics",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruber-logistics.com/en/the-transport-of-an-airbus-310-from-hanover-airport-to-the-serengeti-park-hodenhagen/"
-    },
-    {
-      "testata": "Gruber Logistics",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruber-logistics.com/en/brenner-tunnel/"
-    },
-    {
-      "testata": "Gruber Logistics",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruber-logistics.com/en/gruber-logistics-expands-rail-capacity-through-acquisition-of-hamburg-based-freight-forwarder-gruber/"
-    },
-    {
-      "testata": "gruber-logistics.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruber-logistics.com/en/?p=18722"
-    },
-    {
-      "testata": "gruber-logistics.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruber-logistics.com/en/?p=6427"
-    },
-    {
-      "testata": "Gruppo Barchetti (video del centenario)",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.youtube.com/watch?v=JphLAJRybWU"
-    },
-    {
-      "testata": "gruppopoli.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.gruppopoli.it/documenti/2022/rendicontazione-2021.pdf"
-    },
-    {
-      "testata": "hasslacher.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.hasslacher.com/data/_dateimanager/downloads/pressemeldungen/Firmengruppe_RUBNER_verkauft_Nordlam_GmbH_an_HASSLACHER_Gruppe.pdf"
-    },
-    {
-      "testata": "identitagolose.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.identitagolose.it/public/media/pdf/cs-felicetti.pdf"
-    },
-    {
-      "testata": "il Dolomiti",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ildolomiti.it/economia-e-lavoro/2018/un-nuovo-pastificio-per-felicetti-e-nella-societa-entra-isa-un-momento"
-    },
-    {
-      "testata": "il Dolomiti",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ildolomiti.it/societa/2021/da-un-angelo-in-ceramica-creato-70-anni-fa-ora-thun-lancia-lenet-group-pronti-ad-espanderci-verso-nuovi-mercati"
-    },
-    {
-      "testata": "Il Giornale della Logistica",
-      "titolo": "",
-      "data": "",
-      "url": "https://ilgiornaledellalogistica.it/news/aziende/amministratore-delegato-fercam-hannes-baumgartner-raccoglie-testimone-dal-padre-thomas/"
-    },
-    {
-      "testata": "il Nord Est",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilnordest.it/economia/imprese/addio-a-nicola-amenduni-e-morto-il-re-dellacciaio-xs1j8i40"
-    },
-    {
-      "testata": "il Nord Est",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilnordest.it/italia-ed-esteri/bolzano-firmata-la-nuova-convenzione-tra-provincia-e-acciaierie-valbruna-rg4pyc2p"
-    },
-    {
-      "testata": "il Post",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilpost.it/2019/01/21/armin-loacker-morto/"
-    },
-    {
-      "testata": "il Post",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilpost.it/2023/04/06/caso-gruppo-athesia-trentino-alto-adige/"
-    },
-    {
-      "testata": "ildolomiti.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ildolomiti.it/societa/2025/loacker-festeggia-100-anni-di-storia-da-piccola-pasticceria-in-centro-a-colosso-internazionale"
-    },
-    {
-      "testata": "ilfattoquotidiano.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilfattoquotidiano.it/2026/06/04/thun-conquista-la-gen-z-perche-angioletti-presepi-e-statuette-da-credenza-sono-tornati-di-moda-su-tiktok/8385179/"
-    },
-    {
-      "testata": "ilnordest.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilnordest.it/economia/imprese/dalla-germania-al-new-jersey-25-locomotive-a-bordo-di-gruber-logistic-wp00s7tj"
-    },
-    {
-      "testata": "ilsole24ore.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/oberalp-lhouse-of-brands-mountain-aims-to-grow-double-digits-2030-AIsPSziB"
-    },
-    {
-      "testata": "impulse",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.impulse.de/strategie/warum-ein-muenchner-unternehmen-nach-suedtirol-zog-und-seitdem-waechst/2029698.html"
-    },
-    {
-      "testata": "Interempresas",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.interempresas.net/Produccion-Aceite/379306-Fallece-Nicola-Amenduni-a-los-103-anos.html"
-    },
-    {
-      "testata": "ItaliaOggi",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.italiaoggi.it/marketing-e-media/marketing/md-chiude-il-2025-con-ricavi-e-utile-netto-in-crescita-si-scalda-la-partita-realco-t8obzq9s"
-    },
-    {
-      "testata": "italiaoggi.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.italiaoggi.it/marketing-e-media/marketing/felicetti-dalla-val-di-fiemme-la-pasta-conquista-i-mercati-globali-m0ng8o4k"
-    },
-    {
-      "testata": "Kunst Meran",
-      "titolo": "",
-      "data": "",
-      "url": "https://kunstmeranoarte.org/en/exhibitions/the-delight-of-collecting-selected-works-from-the-finstral-collection/"
-    },
-    {
-      "testata": "l'Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/territori/valsugana-primiero/menz-gasser-80-anni-in-piena-salute-h8z8cv7y"
-    },
-    {
-      "testata": "l'Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/economia/il-gruppo-poli-sale-al-45-del-mercato-trentino-crescono-despar-e-conad-perde-colpi-coop-sn85fsl5"
-    },
-    {
-      "testata": "l'Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/economia/assedio-alliperpoli-oggi-linaugurazione-ebdyp62y"
-    },
-    {
-      "testata": "l'Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/cronaca/iperpoli-e-pam-i-supermercati-piu-convenienti-al-terzo-posto-ce-coop-superstore-ora-sait-rti0w1n5"
-    },
-    {
-      "testata": "l'Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/economia/poli-incasso-record-di-536-milioni-4-progetto-per-nuovo-ipermercato-da-5000-metri-allex-opel-b92jl152"
-    },
-    {
-      "testata": "l'Adige",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/economia/morto-armin-loacker-il-re-dei-wafer-mv5zxvzb"
-    },
-    {
-      "testata": "La Sportiva",
-      "titolo": "",
-      "data": "",
-      "url": "https://anniversary.lasportiva.com/en/when-it-all-started"
-    },
-    {
-      "testata": "ladige.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/cronaca/gruppo-lunelli-bollicine-in-tenuta-ma-un-bilancio-che-cala-del-6-bene-surgiva-soprattutto-in-arabia-bgnkblrb"
-    },
-    {
-      "testata": "ladige.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ladige.it/economia/per-il-gruppo-ferrari-136-milioni-di-ricavi-crescita-importante-per-tassoni-e-lacqua-surgiva-ad3swwa6"
-    },
-    {
-      "testata": "lasportiva.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.lasportiva.com/gb/company"
-    },
-    {
-      "testata": "Lebensmittel Praxis",
-      "titolo": "",
-      "data": "",
-      "url": "https://lebensmittelpraxis.de/suesswaren/44738-gebaeckhersteller-aus-suedtirol-wie-loacker-den-waffelmarkt-umgekrempelt-hat.html"
-    },
-    {
-      "testata": "leitwind.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.leitwind.com/en/hti-group-a-year-of-results-and-investments/"
-    },
-    {
-      "testata": "libero.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.libero.it/tv/barchetti-700-mln-fatturato-e-700-addetti-con-byd-nuova-capitolo_bc6398463678112"
-    },
-    {
-      "testata": "Linkiesta",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.linkiesta.it/2022/07/breve-storia-brindisi-italiano-ferrari-trentodoc/"
-    },
-    {
-      "testata": "Linkiesta",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.linkiesta.it/2020/06/pasta-dolomiti-felicetti-riccardo/"
-    },
-    {
-      "testata": "loacker.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.loacker.com/ca/en/about-us/the-story-of-a-family/our-history"
-    },
-    {
-      "testata": "loacker.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.loacker.it/content/Report%20Sostenibilit%C3%A0/Loacker%20-%20Relazione%20di%20impatto%202025.pdf"
-    },
-    {
-      "testata": "Mark Up",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.mark-up.it/patrizio-podini-un-uomo-in-accelerata/"
-    },
-    {
-      "testata": "MCI Innsbruck",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.mci.edu/de/hochschule/events/24-alumni/3957-heiner-oberrauch"
-    },
-    {
-      "testata": "Milano Finanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/le-acciaierie-valbruna-risentono-dei-prezzi-in-calo-2716656"
-    },
-    {
-      "testata": "money.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.money.it/o-le-ami-o-le-odi-con-le-sue-statuette-questa-societa-fattura-oltre-eur100-milioni"
-    },
-    {
-      "testata": "Monocle",
-      "titolo": "",
-      "data": "",
-      "url": "https://monocle.com/business/forst-brewery-south-tyrol-italy/"
-    },
-    {
-      "testata": "montagna.tv",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.montagna.tv/192183/perseveranza-coraggio-e-innovazione-a-lezione-da-lorenzo-delladio/amp/"
-    },
-    {
-      "testata": "montagna.tv",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.montagna.tv/192183/perseveranza-coraggio-e-innovazione-a-lezione-da-lorenzo-delladio/"
-    },
-    {
-      "testata": "oberalp.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.oberalp.com/en/Press Media/90 Years Salewa"
-    },
-    {
-      "testata": "Panorama",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.panorama.it/lifestyle/nuove-ossessioni-gli-angeli-del-centenario-thun"
-    },
-    {
-      "testata": "Provincia di Trento",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ufficiostampa.provincia.tn.it/content/view/pdf/147580"
-    },
-    {
-      "testata": "reportaziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.reportaziende.it/supermercati_poli_spa_tn_00823460225"
-    },
-    {
-      "testata": "rubner.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.rubner.com/en/timber-construction/100-years-of-rubner/"
-    },
-    {
-      "testata": "rubner.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.rubner.com/en/gruppe/gruppo-rubner"
-    },
-    {
-      "testata": "salewa.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.salewa.com/our-history"
-    },
-    {
-      "testata": "schaer.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.schaer.com/en-us/a/history-schaer"
-    },
-    {
-      "testata": "sgbonline.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://sgbonline.com/oberalp-appoints-new-ceo/"
-    },
-    {
-      "testata": "Siderweb",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.siderweb.com/articoli/news/712756-l-acciaio-italiano-piange-il-cavalier-nicola-amenduni"
-    },
-    {
-      "testata": "SWZ",
-      "titolo": "",
-      "data": "",
-      "url": "https://swz.it/ein-verlorenes-unternehmen-ist-90-geworden/"
-    },
-    {
-      "testata": "teleborsa.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.teleborsa.it/AMP/News/2026/05/13/pozzi-milano-offerta-per-l-acquisizione-del-ramo-di-azienda-divisione-ex-unitable-di-thun-239.html"
-    },
-    {
-      "testata": "teleborsa.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.teleborsa.it/News/2026/07/02/lillo-valore-della-produzione-2025-sale-a-4-4-miliardi-di-euro-di-cui-md-a-3-8-miliardi-129.html"
-    },
-    {
-      "testata": "The Business of Fashion",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.businessoffashion.com/news/sustainability/this-italian-company-wants-your-swimsuit-to-be-made-from-garbage/"
-    },
-    {
-      "testata": "Thun",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.thun.com/it_it/collezionismo-e-storia"
-    },
-    {
-      "testata": "uibk.ac.at",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.uibk.ac.at/de/career-service/praktikums-und-stellenportal/Rubner_Gruppe"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Leitner_Ropeways"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Forst_(brewery)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Econyl"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Loacker"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/MD_Discount"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Matteo_Thun"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Zuegg"
-    },
-    {
-      "testata": "Wirtschaftsforum",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.wirtschaftsforum.de/portraits/menz-gasser-spa/keine-halbe-portion"
-    },
-    {
-      "testata": "wirtschaftsforum.de",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.wirtschaftsforum.de/interviews/gruppo-barchetti/hey-barchetti-wenn-das-auto-zum-kaeufer-kommt"
-    },
-    {
-      "testata": "Zuegg",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.zuegg.it/wp-content/uploads/2023/02/COMUNICATO-STAMPA-ZUEGG-320.pdf"
+      "titolo": "Numero 17",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/ferrari-f-lli-lunelli-s-p-a-in-breve-ferrari"
+        },
+        {
+          "testata": "Beverfood",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.beverfood.com/gruppo-lunelli-fatturato-2024-a-138-milioni-di-euro-ebitda-in-crescita-al-19/amp"
+        },
+        {
+          "testata": "ferraritrento.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ferraritrento.com/en/history/"
+        },
+        {
+          "testata": "Gambero Rosso",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.gamberorosso.it/notizie/vino/direttore-generale-simone-mase-gruppo-lunelli/"
+        },
+        {
+          "testata": "ladige.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ladige.it/cronaca/gruppo-lunelli-bollicine-in-tenuta-ma-un-bilancio-che-cala-del-6-bene-surgiva-soprattutto-in-arabia-bgnkblrb"
+        },
+        {
+          "testata": "Linkiesta",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.linkiesta.it/2022/07/breve-storia-brindisi-italiano-ferrari-trentodoc/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 16",
+      "fonti": [
+        {
+          "testata": "beverfood.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.beverfood.com/birrificio/birra-forst-s-p-a"
+        },
+        {
+          "testata": "brauwelt.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.brauwelt.com/en/international-report/europe-russia/622549-obituary-margarethe-fuchs-matriarch-of-the-forst-brewery-died-8-december-2015-aged-97-622549"
+        },
+        {
+          "testata": "Gambero Rosso International",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.gamberorossointernational.com/?p=371054"
+        },
+        {
+          "testata": "Monocle",
+          "titolo": "",
+          "data": "",
+          "url": "https://monocle.com/business/forst-brewery-south-tyrol-italy/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Forst_(brewery)"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 15",
+      "fonti": [
+        {
+          "testata": "Alto Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.altoadige.it/cronaca/venosta/oswald-zuegg-a-lana-eravamo-una-famiglia-bqbqvubr"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/zuegg-s-p-a"
+        },
+        {
+          "testata": "Camera di commercio di Verona",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.vr.camcom.it/novita/comunicati-stampa/46-fedelta-al-lavoro-domus-mercatorum/fedelta-al-lavoro-2026-elenco-premiati.pdf/@@display-file/file"
+        },
+        {
+          "testata": "Controcampo (blog)",
+          "titolo": "",
+          "data": "",
+          "url": "https://aziendeincampo.wordpress.com/2015/02/18/oswald-zuegg-rileva-il-28-dellazienda-dai-parenti-e-arriva-al-controllo-totale/"
+        },
+        {
+          "testata": "Dissapore",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.dissapore.com/grande-notizia/merende-anni-50/"
+        },
+        {
+          "testata": "EconomyUp",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.economyup.it/?p=9997"
+        },
+        {
+          "testata": "Gambero Rosso International",
+          "titolo": "",
+          "data": "",
+          "url": "https://gamberorossointernational.com/?p=371084"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Zuegg"
+        },
+        {
+          "testata": "Zuegg",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.zuegg.it/wp-content/uploads/2023/02/COMUNICATO-STAMPA-ZUEGG-320.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 14",
+      "fonti": [
+        {
+          "testata": "bergsteigen.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.bergsteigen.com/news/neuigkeiten/la-sportiva-meldet-wachstum-fuer-2025/"
+        },
+        {
+          "testata": "La Sportiva",
+          "titolo": "",
+          "data": "",
+          "url": "https://anniversary.lasportiva.com/en/when-it-all-started"
+        },
+        {
+          "testata": "lasportiva.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.lasportiva.com/gb/company"
+        },
+        {
+          "testata": "montagna.tv",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.montagna.tv/192183/perseveranza-coraggio-e-innovazione-a-lezione-da-lorenzo-delladio/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 13",
+      "fonti": [
+        {
+          "testata": "austria-forum.org",
+          "titolo": "",
+          "data": "",
+          "url": "https://austria-forum.org/af/AustriaWiki/Finstral"
+        },
+        {
+          "testata": "BM",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.bm-online.de/produkte-und-tests/produkte/bauelemente2/europaeische-fensterkarriere/"
+        },
+        {
+          "testata": "finstral.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://finstral.com/llms.txt"
+        },
+        {
+          "testata": "Kunst Meran",
+          "titolo": "",
+          "data": "",
+          "url": "https://kunstmeranoarte.org/en/exhibitions/the-delight-of-collecting-selected-works-from-the-finstral-collection/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 12",
+      "fonti": [
+        {
+          "testata": "AmeVe",
+          "titolo": "",
+          "data": "",
+          "url": "https://ameve.eu/menzgasser-il-successo-delle-confetture-trentine-tocca-i-300-milioni/"
+        },
+        {
+          "testata": "Dirigenti Industria",
+          "titolo": "",
+          "data": "",
+          "url": "https://dirigentindustria.it/fm-trento/vita-associativa/le-confetture-sostenibili-dei-menz-gasser.html"
+        },
+        {
+          "testata": "Giornale Trentino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.giornaletrentino.it/cronaca/trento/menz-gasser-festeggia-80-anni-di-marmellate-1.894066"
+        },
+        {
+          "testata": "l'Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ladige.it/territori/valsugana-primiero/menz-gasser-80-anni-in-piena-salute-h8z8cv7y"
+        },
+        {
+          "testata": "Provincia di Trento",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ufficiostampa.provincia.tn.it/content/view/pdf/147580"
+        },
+        {
+          "testata": "SWZ",
+          "titolo": "",
+          "data": "",
+          "url": "https://swz.it/ein-verlorenes-unternehmen-ist-90-geworden/"
+        },
+        {
+          "testata": "Wirtschaftsforum",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.wirtschaftsforum.de/portraits/menz-gasser-spa/keine-halbe-portion"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 11",
+      "fonti": [
+        {
+          "testata": "ilsole24ore.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/oberalp-lhouse-of-brands-mountain-aims-to-grow-double-digits-2030-AIsPSziB"
+        },
+        {
+          "testata": "impulse",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.impulse.de/strategie/warum-ein-muenchner-unternehmen-nach-suedtirol-zog-und-seitdem-waechst/2029698.html"
+        },
+        {
+          "testata": "MCI Innsbruck",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.mci.edu/de/hochschule/events/24-alumni/3957-heiner-oberrauch"
+        },
+        {
+          "testata": "oberalp.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.oberalp.com/en/Press Media/90 Years Salewa"
+        },
+        {
+          "testata": "salewa.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.salewa.com/our-history"
+        },
+        {
+          "testata": "sgbonline.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://sgbonline.com/oberalp-appoints-new-ceo/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 10",
+      "fonti": [
+        {
+          "testata": "Business Punk",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.business-punk.com/business/gut-holz-suedtirol-wo-aus-wald-weltweite-architektur-entsteht/"
+        },
+        {
+          "testata": "calcioefinanza.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.calcioefinanza.it/2019/08/29/inaugurato-il-primo-stadio-in-legno/"
+        },
+        {
+          "testata": "Forbes Italia",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2024/01/22/da-una-segheria-alla-costruzione-di-stadi-in-legno-in-tutto-il-mondo-la-storia-dell-altoatesina-rubner/"
+        },
+        {
+          "testata": "hasslacher.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.hasslacher.com/data/_dateimanager/downloads/pressemeldungen/Firmengruppe_RUBNER_verkauft_Nordlam_GmbH_an_HASSLACHER_Gruppe.pdf"
+        },
+        {
+          "testata": "rubner.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.rubner.com/en/timber-construction/100-years-of-rubner/"
+        },
+        {
+          "testata": "uibk.ac.at",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.uibk.ac.at/de/career-service/praktikums-und-stellenportal/Rubner_Gruppe"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 9",
+      "fonti": [
+        {
+          "testata": "Dissapore",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.dissapore.com/notizie/armin-loacker-e-morto-comera-diventato-il-re-dei-wafer/"
+        },
+        {
+          "testata": "Gambero Rosso",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.gamberorosso.it/notizie/storie/i-wafer-prima-e-dopo-loacker-la-vera-storia-dei-biscotti-ripieni-di-crema"
+        },
+        {
+          "testata": "il Post",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilpost.it/2019/01/21/armin-loacker-morto/"
+        },
+        {
+          "testata": "ildolomiti.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ildolomiti.it/societa/2025/loacker-festeggia-100-anni-di-storia-da-piccola-pasticceria-in-centro-a-colosso-internazionale"
+        },
+        {
+          "testata": "l'Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ladige.it/economia/morto-armin-loacker-il-re-dei-wafer-mv5zxvzb"
+        },
+        {
+          "testata": "Lebensmittel Praxis",
+          "titolo": "",
+          "data": "",
+          "url": "https://lebensmittelpraxis.de/suesswaren/44738-gebaeckhersteller-aus-suedtirol-wie-loacker-den-waffelmarkt-umgekrempelt-hat.html"
+        },
+        {
+          "testata": "loacker.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.loacker.com/ca/en/about-us/the-story-of-a-family/our-history"
+        },
+        {
+          "testata": "loacker.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.loacker.it/content/Report%20Sostenibilit%C3%A0/Loacker%20-%20Relazione%20di%20impatto%202025.pdf"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Loacker"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 8",
+      "fonti": [
+        {
+          "testata": "aquafil.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aquafil.com/assets/uploads/260312_CS_Aquafil_Risultati-FY25.pdf"
+        },
+        {
+          "testata": "Circular Conversations",
+          "titolo": "",
+          "data": "",
+          "url": "https://circularconversations.com/conversations/leadership-vision-courage-and-a-bit-of-folly"
+        },
+        {
+          "testata": "designboom",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.designboom.com/design/prada-re-nylon-sustainable-bags-06-24-2019/"
+        },
+        {
+          "testata": "econyl.aquafil.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://econyl.aquafil.com/eco-design-magazine/stories-of-innovation-an-interview-with-giulio-bonazzi/"
+        },
+        {
+          "testata": "The Business of Fashion",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.businessoffashion.com/news/sustainability/this-italian-company-wants-your-swimsuit-to-be-made-from-garbage/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Econyl"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 7",
+      "fonti": [
+        {
+          "testata": "gruppopoli.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.gruppopoli.it/documenti/2022/rendicontazione-2021.pdf"
+        },
+        {
+          "testata": "l'Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ladige.it/economia/il-gruppo-poli-sale-al-45-del-mercato-trentino-crescono-despar-e-conad-perde-colpi-coop-sn85fsl5"
+        },
+        {
+          "testata": "reportaziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.reportaziende.it/supermercati_poli_spa_tn_00823460225"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 6",
+      "fonti": [
+        {
+          "testata": "ara.cat",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ara.cat/business/who-is-and-where-did-dr-schar-come-from-the-italian-king-of-gluten-free-products_1_5771385.html"
+        },
+        {
+          "testata": "austria-forum.org",
+          "titolo": "",
+          "data": "",
+          "url": "https://austria-forum.org/af/AustriaWiki/Dr._Sch%C3%A4r"
+        },
+        {
+          "testata": "drschaer.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.drschaer.com/en/news/our-2025-growing-with-vision-investing-in-the-future"
+        },
+        {
+          "testata": "famcap.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.famcap.com/2024/04/profile-family-business-dr-schar-were-driven-by-our-actions-not-our-financial-results/"
+        },
+        {
+          "testata": "schaer.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.schaer.com/en-us/a/history-schaer"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 5",
+      "fonti": [
+        {
+          "testata": "autoscout24.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.autoscout24.it/concessionari/barchetti-auto-d-occasione-trentino-alto-adige/chi-siamo"
+        },
+        {
+          "testata": "europe.autonews.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://europe.autonews.com/article/20051031/ANE/51101014/barchetti-family-makes-history-in-italy"
+        },
+        {
+          "testata": "Gruppo Barchetti (video del centenario)",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.youtube.com/watch?v=JphLAJRybWU"
+        },
+        {
+          "testata": "libero.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.libero.it/tv/barchetti-700-mln-fatturato-e-700-addetti-con-byd-nuova-capitolo_bc6398463678112"
+        },
+        {
+          "testata": "wirtschaftsforum.de",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.wirtschaftsforum.de/interviews/gruppo-barchetti/hey-barchetti-wenn-das-auto-zum-kaeufer-kommt"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 4",
+      "fonti": [
+        {
+          "testata": "Alto Adige Innovazione",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.altoadigeinnovazione.it/gruber-logistics-le-sfide-e-i-trend-del-settore-della-logistica/"
+        },
+        {
+          "testata": "eurotransport",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.eurotransport.de/logistik/spedition-und-logistik/gruber-logistics-rekordergebnis-universal-transport-integration/"
+        },
+        {
+          "testata": "Gruber Logistics",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.gruber-logistics.com/en/gruber-logistics-delivers-famous-airbus-to-serengeti-park/"
+        },
+        {
+          "testata": "gruber-logistics.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.gruber-logistics.com/en/?p=18722"
+        },
+        {
+          "testata": "ilnordest.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilnordest.it/economia/imprese/dalla-germania-al-new-jersey-25-locomotive-a-bordo-di-gruber-logistic-wp00s7tj"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 3",
+      "fonti": [
+        {
+          "testata": "austria-forum.org",
+          "titolo": "",
+          "data": "",
+          "url": "https://austria-forum.org/af/AustriaWiki/Fercam"
+        },
+        {
+          "testata": "dachser.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.dachser.com/en/mediaroom/FERCAM-From-South-Tyrol-to-the-world-22626"
+        },
+        {
+          "testata": "eurotransport",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.eurotransport.de/news/imagekampagne-der-spedition-fercam-fercam-macht-lkw-zum-sympathietraeger-10179210.html"
+        },
+        {
+          "testata": "Fercam",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fercam.com/it-it/news-stampa/news/70-anni-di-fercam-la-storia--1-578.html"
+        },
+        {
+          "testata": "fercam.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fercam.com/en-al/news-press/news/fercam-celebrates-75-years--1-5062.html"
+        },
+        {
+          "testata": "Il Giornale della Logistica",
+          "titolo": "",
+          "data": "",
+          "url": "https://ilgiornaledellalogistica.it/news/aziende/amministratore-delegato-fercam-hannes-baumgartner-raccoglie-testimone-dal-padre-thomas/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 2",
+      "fonti": [
+        {
+          "testata": "Acciaierie Valbruna",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.valbruna-stainless-steel.com/it/group/history"
+        },
+        {
+          "testata": "Alto Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.altoadige.it/cronaca/bolzano/il-sogno-d-acciaio-di-bruno-falck-a-bolzano-1.367742"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/acciaierie-valbruna-s-p-a"
+        },
+        {
+          "testata": "il Nord Est",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilnordest.it/economia/imprese/addio-a-nicola-amenduni-e-morto-il-re-dellacciaio-xs1j8i40"
+        },
+        {
+          "testata": "Interempresas",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.interempresas.net/Produccion-Aceite/379306-Fallece-Nicola-Amenduni-a-los-103-anos.html"
+        },
+        {
+          "testata": "Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/le-acciaierie-valbruna-risentono-dei-prezzi-in-calo-2716656"
+        },
+        {
+          "testata": "Siderweb",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.siderweb.com/articoli/news/712756-l-acciaio-italiano-piange-il-cavalier-nicola-amenduni"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 1",
+      "fonti": [
+        {
+          "testata": "Distribuzione Moderna",
+          "titolo": "",
+          "data": "",
+          "url": "https://distribuzionemoderna.info/intervista/patrizio-podini-lunico-segreto-e-il-lavoro"
+        },
+        {
+          "testata": "fortuneita.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fortuneita.com/2023/03/11/md-le-ragioni-di-un-successo-intervista-patrizio-podini/"
+        },
+        {
+          "testata": "ItaliaOggi",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.italiaoggi.it/marketing-e-media/marketing/md-chiude-il-2025-con-ricavi-e-utile-netto-in-crescita-si-scalda-la-partita-realco-t8obzq9s"
+        },
+        {
+          "testata": "Mark Up",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.mark-up.it/patrizio-podini-un-uomo-in-accelerata/"
+        },
+        {
+          "testata": "Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/le-acciaierie-valbruna-risentono-dei-prezzi-in-calo-2716656"
+        },
+        {
+          "testata": "teleborsa.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.teleborsa.it/News/2026/07/02/lillo-valore-della-produzione-2025-sale-a-4-4-miliardi-di-euro-di-cui-md-a-3-8-miliardi-129.html"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/MD_Discount"
+        }
+      ]
+    },
+    {
+      "titolo": "Apertura",
+      "fonti": [
+        {
+          "testata": "Distribuzione Moderna",
+          "titolo": "",
+          "data": "",
+          "url": "https://distribuzionemoderna.info/intervista/patrizio-podini-lunico-segreto-e-il-lavoro"
+        },
+        {
+          "testata": "fortuneita.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fortuneita.com/2023/03/11/md-le-ragioni-di-un-successo-intervista-patrizio-podini/"
+        },
+        {
+          "testata": "Gruppo Barchetti (video del centenario)",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.youtube.com/watch?v=JphLAJRybWU"
+        },
+        {
+          "testata": "Linkiesta",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.linkiesta.it/2022/07/breve-storia-brindisi-italiano-ferrari-trentodoc/"
+        }
+      ]
+    },
+    {
+      "titolo": "Chiusura",
+      "fonti": [
+        {
+          "testata": "lasportiva.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.lasportiva.com/gb/company"
+        }
+      ]
+    },
+    {
+      "titolo": "Coda",
+      "fonti": [
+        {
+          "testata": "Alto Adige",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.altoadige.it/economia/ricambio-generazionale-alla-leitner-di-vipiteno-1.489104"
+        },
+        {
+          "testata": "fri-el.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fri-el.it/wp-content/uploads/2026/04/2026.04.14-Fri-EL-FY2025-consolidato-EN.pdf"
+        },
+        {
+          "testata": "il Post",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilpost.it/2023/04/06/caso-gruppo-athesia-trentino-alto-adige/"
+        },
+        {
+          "testata": "leitwind.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.leitwind.com/en/hti-group-a-year-of-results-and-investments/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Leitner_Ropeways"
+        }
+      ]
     }
   ],
   "fonti_generali": []

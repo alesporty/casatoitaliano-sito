@@ -213,8 +213,9 @@ SPIA = re.compile(r'verifica da zero|verificat|\.json|\.py\b|bibbia|soglia_|inte
 SPAZZ = re.compile(r'too many requests|attention required|cloudflare|just a moment|security checkpoint|access denied|bot check|wartungsmodus|pagina non trovata|page not found', re.I)
 def controlla_fonti(v):
     err = []
-    for f in v.get('fonti_ricerca', []) + [r for c in v.get('capitoli') or [] for r in c['fonti']] + (v.get('fonti_generali') or []):
+    for f in v.get('fonti_ricerca', []) + [r for c in v.get('capitoli') or [] for r in c['fonti']] + (v.get('fonti_generali') or []) + (v.get('elenco') or []):
         t, u = f.get('titolo', ''), f.get('url', '')
+        if v.get('standard') == 2 and not t.strip() and u.startswith('http'): continue   # bibbia §12 v1.4: fonte senza titolo degli episodi vecchi, pubblicata con testata e link
         if (SPIA.search(t) or t.startswith('http') or re.fullmatch(r'[a-z0-9]+(_[a-z0-9]+)+', t) or not t.strip()
                 or (u and not u.startswith('http')) or ' ; ' in u or 'registroimprese' in u
                 or re.match(r'^(.{3,}?),\s*\1$', t.strip(), re.I) or SPAZZ.search(t)):

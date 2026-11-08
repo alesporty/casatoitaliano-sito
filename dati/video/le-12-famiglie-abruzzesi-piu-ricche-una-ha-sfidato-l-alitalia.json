@@ -182,439 +182,486 @@
   "data": "2026-11-02",
   "standard": 2,
   "racconta": "Il sacchetto di confetti dell'ultimo matrimonio, il pacco blu di pasta in dispensa, le verdure grigliate nel freezer, la galleria dell'autostrada tra Bologna e Firenze: dietro ci sono famiglie legate all'Abruzzo. In questo video mettiamo in fila 12 famiglie legate all'Abruzzo, che qui hanno la sede delle loro aziende, qui sono nate oppure qui hanno la fabbrica più importante: dalla dodicesima alla prima, per quanto fattura la loro azienda in un anno (l'ultimo dato pubblicato).",
-  "elenco": [
+  "capitoli": [
     {
-      "testata": "antenati.cultura.gov.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://antenati.cultura.gov.it/storie/filippo-de-cecco-1854-1930/?lang=en"
+      "titolo": "Numero 12",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/confetti-pelino-societa-a-responsabilita"
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/il-calo-matrimoni-non-frena-business-confetti-pelino-AFm2CuLD"
+        },
+        {
+          "testata": "L'Italo-Americano",
+          "titolo": "",
+          "data": "",
+          "url": "https://italoamericano.org/confett-sulmona/"
+        },
+        {
+          "testata": "Ministero della Cultura",
+          "titolo": "",
+          "data": "",
+          "url": "https://cultura.gov.it/luogo/museo-dell-arte-e-della-tecnologia-confettiera"
+        }
+      ]
     },
     {
-      "testata": "Atoka",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/walter-tosto-spa/e72d3b5ee9af"
+      "titolo": "Numero 11",
+      "fonti": [
+        {
+          "testata": "Forbes Italia",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/eccellenza/rustichella-dabruzzo/"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2024/10/04/rustichella-abruzzo-pasta-conquistato-mondo"
+        },
+        {
+          "testata": "rustichella.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.rustichella.it/chi-siamo"
+        },
+        {
+          "testata": "Smau",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.smau.it/FRONTEND/Casi%20Successo%20PDF/Smau%20Abruzzo%202025%20-%20Rustichella%20d%27Abruzzo%20.pdf"
+        },
+        {
+          "testata": "zingermansdeli.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.zingermansdeli.com/2010/03/the-historical-twists-and-turns-of-traditional-pasta"
+        }
+      ]
     },
     {
-      "testata": "Atoka",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/cesar-spa/796c75e15d97"
+      "titolo": "Numero 10",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/strever-s-p-a"
+        },
+        {
+          "testata": "strever.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.strever.it/storia"
+        }
+      ]
     },
     {
-      "testata": "Atoka",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/toto-spa-costruzioni-generali/9272a1f8e492"
+      "titolo": "Numero 9",
+      "fonti": [
+        {
+          "testata": "euronext.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://euronext.com/it/about/media/euronext-press-releases/da-oggi-xenia-hotellerie-solution-su-euronext-growth-milan"
+        },
+        {
+          "testata": "italpress.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.italpress.com/ranieri-per-xenia-hotellerie-solution-inizia-una-fase-di-consolidamento"
+        },
+        {
+          "testata": "MF Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/la-tecnologica-xenia-si-rafforza-nell-hospitality-con-due-acquisizioni-parla-l-ad-ercolino-ranieri-202604021952106640"
+        },
+        {
+          "testata": "Websim (Intermonte)",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.websim.it/azioni/small-mid-cap/notizie/xenia-il-gruppo-di-hotellerie-che-punta-su-espansione-e-inclusione"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Guardiagrele"
+        },
+        {
+          "testata": "Xenia Hotellerie Solution / eMarket Storage",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260326_180036.pdf"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/f-lli-de-cecco-di-filippo-fara-san-martino"
+      "titolo": "Numero 8",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/d-adiutorio-costruzioni-s-p-a"
+        },
+        {
+          "testata": "D'Adiutorio Costruzioni",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.dadiutorio.it/index.php?id=2"
+        },
+        {
+          "testata": "dadiutorio.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.dadiutorio.it/index.php?id=17&itemid=2"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/industrie-rolli-alimentari-s-p-a"
+      "titolo": "Numero 7",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/walter-tosto-spa/e72d3b5ee9af"
+        },
+        {
+          "testata": "borsaitaliana.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/economia/l-europa-consegna-l-ultimo-settore-del-vacuum-vessel-di-iter-135_2026-10-05_TLB.html?lang=it"
+        },
+        {
+          "testata": "fusionforenergy.europa.eu",
+          "titolo": "",
+          "data": "",
+          "url": "https://fusionforenergy.europa.eu/wp-content/uploads/2025/03/Europes-second_VV_sector_ready_IT.pdf"
+        },
+        {
+          "testata": "shippingitaly.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://shippingitaly.it/2020/12/07/imbarcati-nel-porto-di-ortona-i-piu-grandi-reattori-mai-costruiti-al-mondo-foto"
+        },
+        {
+          "testata": "sito aziendale",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.waltertosto.it/storia.html"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/confetti-pelino-societa-a-responsabilita"
+      "titolo": "Numero 6",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/toto-spa-costruzioni-generali/9272a1f8e492"
+        },
+        {
+          "testata": "Bureau of Ocean Energy Management",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.boem.gov/newsroom/press-releases/boem-approves-construction-and-operations-plan-maryland-offshore-wind"
+        },
+        {
+          "testata": "sito aziendale",
+          "titolo": "",
+          "data": "",
+          "url": "https://totospa.it/en/?p=9950"
+        },
+        {
+          "testata": "Toto Holding",
+          "titolo": "",
+          "data": "",
+          "url": "https://totoholding.it/en/projects/sparvo-tunnel/"
+        },
+        {
+          "testata": "Toto S.p.A.",
+          "titolo": "",
+          "data": "",
+          "url": "https://totospa.it/en/2016/06/20/quel-mostro-di-nome-martina-che-sembra-inventato-da-giulio-verne/"
+        },
+        {
+          "testata": "totoholding.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://totoholding.it/en/about"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Variante_di_Valico"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/cascioli-s-p-a"
+      "titolo": "Numero 5",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/industrie-rolli-alimentari-s-p-a"
+        },
+        {
+          "testata": "BeBeez",
+          "titolo": "",
+          "data": "",
+          "url": "https://bebeez.it/private-equity/i-surgelati-rolli-alimentari-nel-mirino-dei-private-equity"
+        },
+        {
+          "testata": "EFA News",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.efanews.eu/item/15761-rolli-alimentari-in-the-sights-of-private-equity-funds.html"
+        },
+        {
+          "testata": "sito aziendale",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.rolli.it/storia"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/strever-s-p-a"
+      "titolo": "Numero 4",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/cascioli-s-p-a"
+        },
+        {
+          "testata": "Il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/cascioli-group-celebra-60-anni-a378ac23"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aziende.it/d-adiutorio-costruzioni-s-p-a"
+      "titolo": "Numero 3",
+      "fonti": [
+        {
+          "testata": "Euronext",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.euronext.com/it/about/media/euronext-press-releases/da-oggi-pasquarelli-auto-spa-su-euronext-growth-milan"
+        },
+        {
+          "testata": "Mondo Visione",
+          "titolo": "",
+          "data": "",
+          "url": "https://mondovisione.com/news/pasquarelli-auto-spa-lists-on-euronext-growth-milan-2023526"
+        },
+        {
+          "testata": "motorimagazine.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.motorimagazine.it/nuovo-showroom-pasquarelli-auto-a-milano-dongfeng-e-usato-certificato"
+        },
+        {
+          "testata": "Pasquarelli Auto",
+          "titolo": "",
+          "data": "",
+          "url": "https://cdnwp.dealerk.com/eed49ed7/uploads/sites/361/2026/05/20285_166799_2026_oneinfo.pdf"
+        },
+        {
+          "testata": "Pasquarelli Auto (comunicato)",
+          "titolo": "",
+          "data": "",
+          "url": "https://italia-informa.com/public/italiainforma/ComunicatiStampa/Pasquarelli_Auto/PASQUARELLI_AUTO_25_MARZO.pdf"
+        },
+        {
+          "testata": "pasquarelliauto.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.pasquarelliauto.it/chi-siamo"
+        },
+        {
+          "testata": "soldionline.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.soldionline.it/notizie/azioni-italia/pasquarelli-auto-perfeziona-acquisto-sesto-autoveicoli"
+        }
+      ]
     },
     {
-      "testata": "BeBeez",
-      "titolo": "",
-      "data": "",
-      "url": "https://bebeez.it/private-equity/i-surgelati-rolli-alimentari-nel-mirino-dei-private-equity"
+      "titolo": "Numero 2",
+      "fonti": [
+        {
+          "testata": "antenati.cultura.gov.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://antenati.cultura.gov.it/storie/filippo-de-cecco-1854-1930/?lang=en"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aziende.it/f-lli-de-cecco-di-filippo-fara-san-martino"
+        },
+        {
+          "testata": "dececco.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.dececco.com/us_us/lhistoire"
+        },
+        {
+          "testata": "Forbes Italia",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2026/06/05/de-cecco-compra-rossogargano-e-punta-al-miliardo-di-fatturato-nel-2027"
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/pasta-de-cecco-the-billion-turnover-l-acquisition-rossogargano-AIwjAIUD"
+        },
+        {
+          "testata": "test.casaitaliananyu.org",
+          "titolo": "",
+          "data": "",
+          "url": "https://test.casaitaliananyu.org/node/37947"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/De_Cecco_(azienda)"
+        },
+        {
+          "testata": "youtube.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.youtube.com/watch?v=gYGwVuRLeO4"
+        }
+      ]
     },
     {
-      "testata": "borsaitaliana.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/economia/l-europa-consegna-l-ultimo-settore-del-vacuum-vessel-di-iter-135_2026-10-05_TLB.html?lang=it"
+      "titolo": "Numero 1",
+      "fonti": [
+        {
+          "testata": "dompe.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www1.dompe.com/manufactoring-site"
+        },
+        {
+          "testata": "Dompé (sito)",
+          "titolo": "",
+          "data": "",
+          "url": "https://dompe.com/medicines/primary-and-specialty-care/pain-and-inflammation/"
+        },
+        {
+          "testata": "Il Giorno",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilgiorno.it/milano/cronaca/sergio-dompe-da-milano-alla-silicon-valley-ho-realizzato-i-miei-sogni-non-ce-business-senza-etica-7a20ee72"
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/dompe-pharmaceuticals-to-invest-a-billion-in-innovation-over-the-three-year-period-20262028-AI4gL1OD"
+        },
+        {
+          "testata": "money.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.money.it/due-giganti-farmaceutici-italiani-che-nessuno-conosce-ma-che-fatturano-piu-di-1-miliardo"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Domp%C3%A9_Farmaceutici"
+        }
+      ]
     },
     {
-      "testata": "Bureau of Ocean Energy Management",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.boem.gov/newsroom/press-releases/boem-approves-construction-and-operations-plan-maryland-offshore-wind"
+      "titolo": "Apertura",
+      "fonti": [
+        {
+          "testata": "test.casaitaliananyu.org",
+          "titolo": "",
+          "data": "",
+          "url": "https://test.casaitaliananyu.org/node/37947"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Variante_di_Valico"
+        }
+      ]
     },
     {
-      "testata": "businesswire.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.businesswire.com/news/home/20240625383637/en"
-    },
-    {
-      "testata": "D'Adiutorio Costruzioni",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.dadiutorio.it/index.php?id=2"
-    },
+      "titolo": "Coda",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/cesar-spa/796c75e15d97"
+        },
+        {
+          "testata": "businesswire.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.businesswire.com/news/home/20240625383637/en"
+        },
+        {
+          "testata": "homepagenews.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.homepagenews.com/retail-articles/sycamore-pessina-take-walgreens-private"
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/aran-world-international-expansion-family-vision-and-strategy-AI1l5pE"
+        },
+        {
+          "testata": "MF Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/il-fondo-tdr-compra-il-60-di-acqua-sapone-deal-da-1-5-miliardi-di-euro-202406260937137087"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Stefano_Pessina"
+        }
+      ]
+    }
+  ],
+  "fonti_generali": [
     {
       "testata": "dadiutorio.it",
       "titolo": "",
       "data": "",
       "url": "https://www.dadiutorio.it/index.php?id=18"
-    },
-    {
-      "testata": "dadiutorio.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.dadiutorio.it/index.php?id=17&itemid=2"
-    },
-    {
-      "testata": "dececco.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.dececco.com/us_us/lhistoire"
-    },
-    {
-      "testata": "dompe.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www1.dompe.com/manufactoring-site"
-    },
-    {
-      "testata": "Dompé (sito)",
-      "titolo": "",
-      "data": "",
-      "url": "https://dompe.com/media/news/story/l-aquila-an-increasingly-green-and-biotech-production-hub"
-    },
-    {
-      "testata": "Dompé (sito)",
-      "titolo": "",
-      "data": "",
-      "url": "https://dompe.com/medicines/primary-and-specialty-care/pain-and-inflammation/"
-    },
-    {
-      "testata": "EFA News",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.efanews.eu/item/15761-rolli-alimentari-in-the-sights-of-private-equity-funds.html"
-    },
-    {
-      "testata": "Euronext",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.euronext.com/it/about/media/euronext-press-releases/da-oggi-pasquarelli-auto-spa-su-euronext-growth-milan"
-    },
-    {
-      "testata": "euronext.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://euronext.com/it/about/media/euronext-press-releases/da-oggi-xenia-hotellerie-solution-su-euronext-growth-milan"
-    },
-    {
-      "testata": "Forbes Italia",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/2026/06/05/de-cecco-compra-rossogargano-e-punta-al-miliardo-di-fatturato-nel-2027"
-    },
-    {
-      "testata": "Forbes Italia",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/eccellenza/rustichella-dabruzzo/"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/2024/10/04/rustichella-abruzzo-pasta-conquistato-mondo"
-    },
-    {
-      "testata": "fusionforenergy.europa.eu",
-      "titolo": "",
-      "data": "",
-      "url": "https://fusionforenergy.europa.eu/wp-content/uploads/2025/03/Europes-second_VV_sector_ready_IT.pdf"
-    },
-    {
-      "testata": "homepagenews.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.homepagenews.com/retail-articles/sycamore-pessina-take-walgreens-private"
-    },
-    {
-      "testata": "Il Giorno",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilgiorno.it/milano/cronaca/sergio-dompe-da-milano-alla-silicon-valley-ho-realizzato-i-miei-sogni-non-ce-business-senza-etica-7a20ee72"
-    },
-    {
-      "testata": "Il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/cascioli-group-celebra-60-anni-a378ac23"
-    },
-    {
-      "testata": "Il Sole 24 Ore",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/aran-world-international-expansion-family-vision-and-strategy-AI1l5pE"
-    },
-    {
-      "testata": "Il Sole 24 Ore",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/pasta-de-cecco-the-billion-turnover-l-acquisition-rossogargano-AIwjAIUD"
-    },
-    {
-      "testata": "Il Sole 24 Ore",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/il-calo-matrimoni-non-frena-business-confetti-pelino-AFm2CuLD"
-    },
-    {
-      "testata": "Il Sole 24 Ore",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/dompe-pharmaceuticals-to-invest-a-billion-in-innovation-over-the-three-year-period-20262028-AI4gL1OD"
-    },
-    {
-      "testata": "italpress.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.italpress.com/ranieri-per-xenia-hotellerie-solution-inizia-una-fase-di-consolidamento"
-    },
-    {
-      "testata": "L'Italo-Americano",
-      "titolo": "",
-      "data": "",
-      "url": "https://italoamericano.org/confett-sulmona/"
-    },
-    {
-      "testata": "MF Milano Finanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/il-fondo-tdr-compra-il-60-di-acqua-sapone-deal-da-1-5-miliardi-di-euro-202406260937137087"
-    },
-    {
-      "testata": "MF Milano Finanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/la-tecnologica-xenia-si-rafforza-nell-hospitality-con-due-acquisizioni-parla-l-ad-ercolino-ranieri-202604021952106640"
-    },
-    {
-      "testata": "Ministero della Cultura",
-      "titolo": "",
-      "data": "",
-      "url": "https://cultura.gov.it/luogo/museo-dell-arte-e-della-tecnologia-confettiera"
-    },
-    {
-      "testata": "Mondo Visione",
-      "titolo": "",
-      "data": "",
-      "url": "https://mondovisione.com/news/pasquarelli-auto-spa-lists-on-euronext-growth-milan-2023526"
-    },
-    {
-      "testata": "money.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.money.it/due-giganti-farmaceutici-italiani-che-nessuno-conosce-ma-che-fatturano-piu-di-1-miliardo"
-    },
-    {
-      "testata": "motorimagazine.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.motorimagazine.it/nuovo-showroom-pasquarelli-auto-a-milano-dongfeng-e-usato-certificato"
-    },
-    {
-      "testata": "Pasquarelli Auto",
-      "titolo": "",
-      "data": "",
-      "url": "https://cdnwp.dealerk.com/eed49ed7/uploads/sites/361/2026/04/30.03.2026_Pasquarelli_Bilancio-2025_Rev-3.pdf"
-    },
-    {
-      "testata": "Pasquarelli Auto",
-      "titolo": "",
-      "data": "",
-      "url": "https://cdnwp.dealerk.com/eed49ed7/uploads/sites/361/2026/05/20285_166799_2026_oneinfo.pdf"
-    },
-    {
-      "testata": "Pasquarelli Auto (comunicato)",
-      "titolo": "",
-      "data": "",
-      "url": "https://italia-informa.com/public/italiainforma/ComunicatiStampa/Pasquarelli_Auto/PASQUARELLI_AUTO_25_MARZO.pdf"
-    },
-    {
-      "testata": "pasquarelliauto.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.pasquarelliauto.it/chi-siamo"
-    },
-    {
-      "testata": "rustichella.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.rustichella.it/chi-siamo"
-    },
-    {
-      "testata": "shippingitaly.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://shippingitaly.it/2020/12/07/imbarcati-nel-porto-di-ortona-i-piu-grandi-reattori-mai-costruiti-al-mondo-foto"
-    },
-    {
-      "testata": "sito aziendale",
-      "titolo": "",
-      "data": "",
-      "url": "https://totospa.it/en/?p=9950"
-    },
-    {
-      "testata": "sito aziendale",
-      "titolo": "",
-      "data": "",
-      "url": "https://totoholding.it/en/corporate-governance"
-    },
-    {
-      "testata": "sito aziendale",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.rolli.it/storia"
-    },
-    {
-      "testata": "sito aziendale",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.waltertosto.it/storia.html"
-    },
-    {
-      "testata": "Smau",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.smau.it/FRONTEND/Casi%20Successo%20PDF/Smau%20Abruzzo%202025%20-%20Rustichella%20d%27Abruzzo%20.pdf"
-    },
-    {
-      "testata": "soldionline.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.soldionline.it/notizie/azioni-italia/pasquarelli-auto-perfeziona-acquisto-sesto-autoveicoli"
-    },
-    {
-      "testata": "strever.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.strever.it/consiglio-di-amministrazione"
-    },
-    {
-      "testata": "strever.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.strever.it/storia"
-    },
-    {
-      "testata": "test.casaitaliananyu.org",
-      "titolo": "",
-      "data": "",
-      "url": "https://test.casaitaliananyu.org/node/37947"
-    },
-    {
-      "testata": "Toto Holding",
-      "titolo": "",
-      "data": "",
-      "url": "https://totoholding.it/en/projects/sparvo-tunnel/"
-    },
-    {
-      "testata": "Toto S.p.A.",
-      "titolo": "",
-      "data": "",
-      "url": "https://totospa.it/en/2016/06/20/quel-mostro-di-nome-martina-che-sembra-inventato-da-giulio-verne/"
-    },
-    {
-      "testata": "totoholding.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://totoholding.it/en/about"
-    },
-    {
-      "testata": "Websim (Intermonte)",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.websim.it/azioni/small-mid-cap/notizie/xenia-il-gruppo-di-hotellerie-che-punta-su-espansione-e-inclusione"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/De_Cecco_(azienda)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Domp%C3%A9_Farmaceutici"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Stefano_Pessina"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Brioni_(brand)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Air_One"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Variante_di_Valico"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Guardiagrele"
-    },
-    {
-      "testata": "Xenia Hotellerie Solution / eMarket Storage",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260326_180036.pdf"
-    },
-    {
-      "testata": "youtube.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.youtube.com/watch?v=gYGwVuRLeO4"
-    },
-    {
-      "testata": "zingermansdeli.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.zingermansdeli.com/2010/03/the-historical-twists-and-turns-of-traditional-pasta"
     }
-  ],
-  "fonti_generali": []
+  ]
 }

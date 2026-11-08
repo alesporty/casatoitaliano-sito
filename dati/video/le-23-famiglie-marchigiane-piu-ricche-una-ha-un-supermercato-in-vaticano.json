@@ -567,660 +567,784 @@
   "data": "2026-11-01",
   "standard": 2,
   "racconta": "La caldaia che ti scalda la doccia, la Tachipirina nell'armadietto, la cappa sopra i fornelli, il Sapientino con cui giocavi da piccolo: sembrano cose di tutti. Vengono dalle Marche. In questo video mettiamo in fila 23 famiglie legate alle Marche, che qui hanno la sede delle loro aziende oppure qui sono nate: dalla ventitreesima alla prima, per quanto fattura la loro azienda in un anno (l'ultimo dato pubblicato).",
-  "elenco": [
-    {
-      "testata": "Angelini Industries",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.angeliniindustries.com/media/b4zgjyol/press-kit-company-profile-ita_gen2026.pdf"
-    },
-    {
-      "testata": "Angelini Industries",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.angeliniindustries.com/en/press-room/press-releases-and-news/press-releases/angelini-industries-total-revenues-reach-17-billion-plus46-growth-in-pharmaceuticals-and-industrial-technology/"
-    },
-    {
-      "testata": "angeliniindustries.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.angeliniindustries.com/en/about-us/our-story"
-    },
-    {
-      "testata": "angelinipharma.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.angelinipharma.com/news-media/press-releases/angelini-pharma-to-acquire-catalyst-pharmaceuticals/"
-    },
-    {
-      "testata": "apotheke-adhoc.de",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/angelini-pillen-pampers-und-parfuems/"
-    },
-    {
-      "testata": "Ariston Group",
-      "titolo": "",
-      "data": "",
-      "url": "https://aristongroup.com/content/dam/aristoninvestors/documents/press-releases/20260303%20CS%20-%20Ariston%20Group%20-%20Risultati%20FY%202025_IT.pdf"
-    },
-    {
-      "testata": "Ariston Group",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aristongroup.com/media/files/4278_ITF%20Comunicato%20Stampa%20-%20ITA%20(08%20Nov%202021).pdf"
-    },
-    {
-      "testata": "Ariston Group",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aristongroup.com/content/dam/aristoninvestors/documents/08052026%20Shareholders%20and%20voting%20rights.pdf"
-    },
-    {
-      "testata": "aristongroup.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://aristongroup.com/en/group/our-culture/our-heritage"
-    },
-    {
-      "testata": "Atoka",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/profilglass-spa/0a592f227e10"
-    },
-    {
-      "testata": "Atoka",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/rivacold-srl/ee43728b4083"
-    },
-    {
-      "testata": "Atoka",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/marinelli-cucine-srl/43e95b7ac9a7"
-    },
-    {
-      "testata": "Atoka (SpazioDati/Cerved)",
-      "titolo": "",
-      "data": "",
-      "url": "https://atoka.io/public/it/azienda/fiorini-international-italia-spa/8b1ab6a4c268"
-    },
-    {
-      "testata": "Avvenire",
-      "titolo": "",
-      "data": "",
-      "url": "https://avvenire.it/economia/gruppo-gabrielli-nel-2025-ricavi-oltre-13-miliardi-e-crescita-superiore-al-mercato_113605"
-    },
-    {
-      "testata": "Billerud (fornitore)",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.billerud.com/insights/all/fiorini-paper-into-fashion"
-    },
-    {
-      "testata": "businessonline.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.businessonline.it/news/50-polli-pochi-risparmi-e-ora-622-mln-di-fatturato-la-storia-di-giovanni-fileni-e-dei-suoi-prodotti-mangiamo-senza-saperlo_n85505.html"
-    },
-    {
-      "testata": "calcioefinanza.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.calcioefinanza.it/?p=144984"
-    },
-    {
-      "testata": "Consob",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.consob.it/web/area-pubblica/w/biesse-spa-azionariato-1"
-    },
-    {
-      "testata": "Consob",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.consob.it/web/area-pubblica/w/elica-spa-azionariato-1"
-    },
-    {
-      "testata": "corporate.elica.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://corporate.elica.com/en/our-history"
-    },
-    {
-      "testata": "ecoseven.net",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ecoseven.net/flash-news/bracalente-nero-giardini-produrre-in-italia-nostra-forza/"
-    },
-    {
-      "testata": "Elica",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.elica.com/AR-en/brand-story"
-    },
-    {
-      "testata": "Elica S.p.A.",
-      "titolo": "",
-      "data": "",
-      "url": "https://investors.elica.com/files/press_release/en/1774447713136_elica-spa_pr_fy2025-results.pdf"
-    },
-    {
-      "testata": "emarketstorage.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://emarketstorage.it/sites/default/files/comunicati/2022-03/20220314_109306.pdf"
-    },
-    {
-      "testata": "FAB S.r.l.",
-      "titolo": "",
-      "data": "",
-      "url": "https://fabgroup.com/wp-content/uploads/2020/09/FAB_Documento_di_ammissione.pdf"
-    },
-    {
-      "testata": "fanpage.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fanpage.it/attualita/pesaro-morto-andrea-marinelli-il-re-delle-cucine-low-cost/"
-    },
-    {
-      "testata": "FashionUnited",
-      "titolo": "",
-      "data": "",
-      "url": "https://fashionunited.in/news/business/brunello-cucinelli-buys-43-percent-stake-in-cashmere-supplier-cariaggi-lanificio/2022031633926"
-    },
-    {
-      "testata": "Fileni (bilancio di sostenibilità)",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fileni.it/contrib/uploads/2025/07/Report_Fileni_2024.pdf"
-    },
-    {
-      "testata": "fileni.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.fileni.it/en/mondo-fileni/"
-    },
-    {
-      "testata": "fim-cisl.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://fim-cisl.it/wp-content/uploads/2024/09/Siderugia-DAloMasci-Fim-Cisl-non-solo-le-crisi-ma-anche-esempi-virtuosi-di-sostenibilita-1.pdf"
-    },
-    {
-      "testata": "Forbes Italia",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/2026/05/14/system-group-la-multinazionale-del-montefeltro-che-ha-conquistato-il-mondo-dei-tubi/"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/2026/08/20/la-famiglia-farmaceutica-italiana-da-10-miliardi-di-dollari-si-fa-strada-nel-mercato-statunitense/"
-    },
-    {
-      "testata": "forbes.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://forbes.it/2021/01/04/clementoni-la-storia-di-unazienda-che-non-hai-mai-smesso-di-giocare/"
-    },
-    {
-      "testata": "guzzini.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://guzzini.com/fr/pages/innovazione-lunga"
-    },
-    {
-      "testata": "ifdm.design",
-      "titolo": "",
-      "data": "",
-      "url": "https://ifdm.design/2021/06/24/valter-scavolini-life-as-a-grand-enterprise"
-    },
-    {
-      "testata": "Il Post",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilpost.it/2026/05/11/vendita-ip-socar/"
-    },
-    {
-      "testata": "il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/santoni-50-anni-b7s1ns4s"
-    },
-    {
-      "testata": "Il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/gli-alti-e-bassi-delle-aziende-scavolini-meno-8-di-fatturato-boscarini-utili-boom-69-milioni-7394abb4"
-    },
-    {
-      "testata": "Il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/profilglass-prima-in-provincia-renco-e-boscarini-fatturati-boom-23044283"
-    },
-    {
-      "testata": "Il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/fano/economia/profilglass-fatturato-59190b04"
-    },
-    {
-      "testata": "il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/gabellini-auto-in-festa-novantanni-a-tutto-gas-1fd7ea61"
-    },
-    {
-      "testata": "il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/fratelli-guzzini-numeri-in-crescita-nessuno-stop-allinnovazione-c570b1fa"
-    },
-    {
-      "testata": "Il Resto del Carlino",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/pesaro/economia/marinelli-d44ab81c"
-    },
-    {
-      "testata": "Il Sole 24 Ore",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/tariffs-do-not-stop-sabelli-landing-united-states-AHIiYNoC"
-    },
-    {
-      "testata": "Il Sole 24 Ore",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/loccioni-fabbrica-scuola-che-testa-progetti-big-il-futuro-AEvZhiyB"
-    },
-    {
-      "testata": "ilrestodelcarlino.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/fano/cronaca/e-morto-larmatore-giovanni-montanari-5d542d31"
-    },
-    {
-      "testata": "ilrestodelcarlino.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/guzzini-in-azienda-ecco-la-mia-storia-62c13570"
-    },
-    {
-      "testata": "ilrestodelcarlino.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/scavolini-una-storia-di-scelte-controcorrente-il-sud-per-partire-e-la-rinuncia-alla-salvarani-c85412b4"
-    },
-    {
-      "testata": "ilrestodelcarlino.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/pesaro/cultura/vip-spot-scavolini-4c086a8e"
-    },
-    {
-      "testata": "ilrestodelcarlino.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.ilrestodelcarlino.it/fano/economia/profilglass-elettricit-terna-0eb2db82"
-    },
-    {
-      "testata": "ilsole24ore.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/from-artigiano-re-cucine-film-history-valter-scavolini-AI6UHQJD"
-    },
-    {
-      "testata": "ilsole24ore.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.ilsole24ore.com/art/festeggiamo-50-anni-creando-cultura-il-territorio-AGqjo62C"
-    },
-    {
-      "testata": "IN Magazine Romagna",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.inmagazineromagna.it/gruppo-vag-il-mestiere-del-freddo/"
-    },
-    {
-      "testata": "interempresas.net",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.interempresas.net/Juguetes/336886-Fallece-el-fundador-de-la-juguetera-italiana-Clementoni.html"
-    },
-    {
-      "testata": "ItaliaOggi",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.italiaoggi.it/marketing-e-media/marketing/la-carica-della-gdo-locale-non-si-arresta-gabrielli-rilancia-sugli-investimenti-nh9ed4qy"
-    },
-    {
-      "testata": "ItaliaOggi",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.italiaoggi.it/marketing-e-media/marketing/nerogiardini-sempre-piu-estero-e-spazio-alla-seconda-generazione-ogciqs19"
-    },
-    {
-      "testata": "LaConceria",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.laconceria.it/en/finance/tods-also-closes-2024-with-declining-revenue-and-a-loss"
-    },
-    {
-      "testata": "lapiazzarimini.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://lapiazzarimini.it/2022/pesaro-addio-ad-alvaro-boscarini-da-mezzadro-a-principe-dei-tubi"
-    },
-    {
-      "testata": "lapiazzarimini.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://lapiazzarimini.it/2018/pesaro-per-il-palas-arriva-come-sponsor-triennale-alceste-vitri"
-    },
-    {
-      "testata": "luxurytribune.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.luxurytribune.com/brunello-cucinelli-cede-a-chanel-185-de-ses-parts-dans-cariaggi-lanificio"
-    },
-    {
-      "testata": "MF Milano Finanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/gli-angelini-preparano-l-apertura-a-un-socio-nella-holding-in-pharma-e-technologies-202508112126508559"
-    },
-    {
-      "testata": "Milano Finanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/clementoni-imparare-giocando-e-una-virtu-di-famiglia-202512101626355400"
-    },
-    {
-      "testata": "Milano Finanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/fashion/santoni-cresce-del-14-e-rafforza-la-rete-retail-202606191729001995"
-    },
-    {
-      "testata": "MilanoFinanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/l-azienda-full-electric-e-la-manifattura-additiva-202406271207558755"
-    },
-    {
-      "testata": "MilanoFinanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.milanofinanza.it/news/scavolini-un-patto-per-le-regole-valori-forti-per-crescere-uniti-202512111103463512"
-    },
-    {
-      "testata": "Ministero del Lavoro",
-      "titolo": "",
-      "data": "",
-      "url": "https://lavoro.gov.it/eventi/pagine/il-ministro-poletti-visita-azienda-rivacold-a-vallefoglia"
-    },
-    {
-      "testata": "MPA Style",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.mpastyle.it/en/per-fainplast-30-anni-di-successi"
-    },
-    {
-      "testata": "mpastyle.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.mpastyle.it/en/?p=15103"
-    },
-    {
-      "testata": "newsroom.porsche.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://newsroom.porsche.com/christophorus/it/2019/392/market-italia-premi-speciali-centro-porsche-pesaro.html"
-    },
-    {
-      "testata": "ojs.sijm.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://ojs.sijm.it/index.php/sinergie/article/download/40/84/"
-    },
-    {
-      "testata": "pamperherself.substack.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://pamperherself.substack.com/p/cariaggi-cashemre-yarn-brunello-cucinellis"
-    },
-    {
-      "testata": "Panorama",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.panorama.it/attualita/economia/chanel-brunello-cucinelli-lanificio-cariaggi"
-    },
-    {
-      "testata": "panorama.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.panorama.it/economia/indesit-merloni-lasciano-storia-dinastia"
-    },
-    {
-      "testata": "QN / topaziende",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/marche/pesaro-urbino"
-    },
-    {
-      "testata": "QN Top Aziende",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/marche/fermo/"
-    },
-    {
-      "testata": "QN Top Aziende",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/marche/ascoli-piceno/"
-    },
-    {
-      "testata": "QuiFinanza",
-      "titolo": "",
-      "data": "",
-      "url": "https://quifinanza.it/lifestyle/impero-della-valle-piazza-affari/817192/"
-    },
-    {
-      "testata": "quifinanza.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://quifinanza.it/lifestyle/giuseppe-santoni/858257/"
-    },
-    {
-      "testata": "Quotidiano.net Top Aziende",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/?p=114244"
-    },
-    {
-      "testata": "re.public.polimi.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://re.public.polimi.it/retrieve/e0c31c09-b583-4599-e053-1705fe0aef77/RicercheID.pdf"
-    },
-    {
-      "testata": "RefIndustry",
-      "titolo": "",
-      "data": "",
-      "url": "https://refindustry.com/?p=6453"
-    },
-    {
-      "testata": "rinnovabili.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.rinnovabili.it/mercato/le-aziende-informano/fileni-fatturato-a-680-milioni-di-euro-11-e-certificazione-di-parita-di-genere/"
-    },
-    {
-      "testata": "Senigallia Notizie (19/11/2025, Luca Ceccacci)",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.senigallianotizie.it/1327644082/giomarche-xiv-premio-alla-carriera-2025-a-luigi-fiorini-e-giovanni-fileni"
-    },
-    {
-      "testata": "sg.asiatatler.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://sg.asiatatler.com/style/diego-della-valle-the-man-who-built-the-tods-empire"
-    },
-    {
-      "testata": "Shipping Italy",
-      "titolo": "",
-      "data": "",
-      "url": "https://shippingitaly.it/2023/03/27/fabio-montanari-pronti-a-investire-nel-liquid-e-nel-dry-bulk-ma-guardiamo-anche-ad-altre-opportunita"
-    },
-    {
-      "testata": "Shipping Italy",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.shippingitaly.it/2022/05/12/navigazione-montanari-ha-acquistato-una-flotta-di-6-navi-da-dea-capital/?output=pdf"
-    },
-    {
-      "testata": "shippingitaly.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://shippingitaly.it/2023/04/06/navigazione-montanari-si-e-ricomprata-8-navi-cisterna/?output=pdf"
-    },
-    {
-      "testata": "shop.biessegroup.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://shop.biessegroup.com/media/files/573_cavaliere_del_lavoro_ita.pdf"
-    },
-    {
-      "testata": "System Group (tubi.net)",
-      "titolo": "",
-      "data": "",
-      "url": "https://tubi.net/wp-content/uploads/2025/10/Bilancio-Sostenibilita-SystemGroup_2024_doppia_.pdf"
-    },
-    {
-      "testata": "Tech Princess",
-      "titolo": "",
-      "data": "",
-      "url": "https://techprincess.it/sapientino-clementoni/"
-    },
-    {
-      "testata": "tesi.univpm.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://tesi.univpm.it/retrieve/f6884d36-6bfd-4e5b-ba31-c73cc96f5259/L%27impatto_del_Covid19_nella_GDO_Il_caso_Magazzini_Gabrielli.pdf"
-    },
-    {
-      "testata": "tods.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://tods.com/ca-en/History-of-Tods"
-    },
-    {
-      "testata": "Top Aziende (QN)",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/?p=123338"
-    },
-    {
-      "testata": "Top Aziende - QN",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/?p=103374"
-    },
-    {
-      "testata": "Top Aziende - QN",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/?p=123288"
-    },
-    {
-      "testata": "topaziende.quotidiano.net",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/?p=123316"
-    },
-    {
-      "testata": "topaziende.quotidiano.net",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/marche/pesaro-urbino/fatturato-cariaggi-lanificio-spa"
-    },
-    {
-      "testata": "topaziende.quotidiano.net",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/marche/pesaro-urbino/fatturato-augusto-gabellini-srl"
-    },
-    {
-      "testata": "topaziende.quotidiano.net",
-      "titolo": "",
-      "data": "",
-      "url": "https://topaziende.quotidiano.net/?p=101360"
-    },
-    {
-      "testata": "Variety",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.aol.com/winx-club-creator-rainbow-group-151851301.html"
-    },
-    {
-      "testata": "whirlpool.mediaroom.com",
-      "titolo": "",
-      "data": "",
-      "url": "https://whirlpool.mediaroom.com/2014-07-10-Whirlpool-Enters-into-Agreements-to-Acquire-Majority-Interest-in-Indesit"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Rainbow_(company)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Tod%27s"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Elica_(azienda)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Gruppo_API"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Ariston_(company)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Valter_Scavolini"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Aristide_Merloni"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://en.wikipedia.org/wiki/Vitrifrigo_Arena"
+  "capitoli": [
+    {
+      "titolo": "Numero 23",
+      "fonti": [
+        {
+          "testata": "guzzini.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://guzzini.com/fr/pages/innovazione-lunga"
+        },
+        {
+          "testata": "il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/fratelli-guzzini-numeri-in-crescita-nessuno-stop-allinnovazione-c570b1fa"
+        },
+        {
+          "testata": "ilrestodelcarlino.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/guzzini-in-azienda-ecco-la-mia-storia-62c13570"
+        },
+        {
+          "testata": "Quotidiano.net Top Aziende",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/?p=114244"
+        },
+        {
+          "testata": "re.public.polimi.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://re.public.polimi.it/retrieve/e0c31c09-b583-4599-e053-1705fe0aef77/RicercheID.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 22",
+      "fonti": [
+        {
+          "testata": "ilrestodelcarlino.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/fano/cronaca/e-morto-larmatore-giovanni-montanari-5d542d31"
+        },
+        {
+          "testata": "Shipping Italy",
+          "titolo": "",
+          "data": "",
+          "url": "https://shippingitaly.it/2023/03/27/fabio-montanari-pronti-a-investire-nel-liquid-e-nel-dry-bulk-ma-guardiamo-anche-ad-altre-opportunita"
+        },
+        {
+          "testata": "shippingitaly.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://shippingitaly.it/2023/04/06/navigazione-montanari-si-e-ricomprata-8-navi-cisterna/?output=pdf"
+        },
+        {
+          "testata": "Top Aziende (QN)",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/?p=123338"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 21",
+      "fonti": [
+        {
+          "testata": "ecoseven.net",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ecoseven.net/flash-news/bracalente-nero-giardini-produrre-in-italia-nostra-forza/"
+        },
+        {
+          "testata": "ItaliaOggi",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.italiaoggi.it/marketing-e-media/marketing/nerogiardini-sempre-piu-estero-e-spazio-alla-seconda-generazione-ogciqs19"
+        },
+        {
+          "testata": "QN Top Aziende",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/marche/fermo/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 20",
+      "fonti": [
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/loccioni-fabbrica-scuola-che-testa-progetti-big-il-futuro-AEvZhiyB"
+        },
+        {
+          "testata": "MilanoFinanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/l-azienda-full-electric-e-la-manifattura-additiva-202406271207558755"
+        },
+        {
+          "testata": "ojs.sijm.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://ojs.sijm.it/index.php/sinergie/article/download/40/84/"
+        },
+        {
+          "testata": "topaziende.quotidiano.net",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/?p=101360"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 19",
+      "fonti": [
+        {
+          "testata": "il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/gabellini-auto-in-festa-novantanni-a-tutto-gas-1fd7ea61"
+        },
+        {
+          "testata": "newsroom.porsche.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://newsroom.porsche.com/christophorus/it/2019/392/market-italia-premi-speciali-centro-porsche-pesaro.html"
+        },
+        {
+          "testata": "topaziende.quotidiano.net",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/marche/pesaro-urbino/fatturato-augusto-gabellini-srl"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 18",
+      "fonti": [
+        {
+          "testata": "emarketstorage.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://emarketstorage.it/sites/default/files/comunicati/2022-03/20220314_109306.pdf"
+        },
+        {
+          "testata": "FashionUnited",
+          "titolo": "",
+          "data": "",
+          "url": "https://fashionunited.in/news/business/brunello-cucinelli-buys-43-percent-stake-in-cashmere-supplier-cariaggi-lanificio/2022031633926"
+        },
+        {
+          "testata": "luxurytribune.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.luxurytribune.com/brunello-cucinelli-cede-a-chanel-185-de-ses-parts-dans-cariaggi-lanificio"
+        },
+        {
+          "testata": "pamperherself.substack.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://pamperherself.substack.com/p/cariaggi-cashemre-yarn-brunello-cucinellis"
+        },
+        {
+          "testata": "Panorama",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.panorama.it/attualita/economia/chanel-brunello-cucinelli-lanificio-cariaggi"
+        },
+        {
+          "testata": "topaziende.quotidiano.net",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/marche/pesaro-urbino/fatturato-cariaggi-lanificio-spa"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 17",
+      "fonti": [
+        {
+          "testata": "FAB S.r.l.",
+          "titolo": "",
+          "data": "",
+          "url": "https://fabgroup.com/wp-content/uploads/2020/09/FAB_Documento_di_ammissione.pdf"
+        },
+        {
+          "testata": "topaziende.quotidiano.net",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/?p=123316"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 16",
+      "fonti": [
+        {
+          "testata": "il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/macerata/cronaca/santoni-50-anni-b7s1ns4s"
+        },
+        {
+          "testata": "ilsole24ore.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/festeggiamo-50-anni-creando-cultura-il-territorio-AGqjo62C"
+        },
+        {
+          "testata": "Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/fashion/santoni-cresce-del-14-e-rafforza-la-rete-retail-202606191729001995"
+        },
+        {
+          "testata": "quifinanza.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://quifinanza.it/lifestyle/giuseppe-santoni/858257/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 15",
+      "fonti": [
+        {
+          "testata": "Atoka (SpazioDati/Cerved)",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/fiorini-international-italia-spa/8b1ab6a4c268"
+        },
+        {
+          "testata": "Billerud (fornitore)",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.billerud.com/insights/all/fiorini-paper-into-fashion"
+        },
+        {
+          "testata": "Senigallia Notizie (19/11/2025, Luca Ceccacci)",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.senigallianotizie.it/1327644082/giomarche-xiv-premio-alla-carriera-2025-a-luigi-fiorini-e-giovanni-fileni"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 14",
+      "fonti": [
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/tariffs-do-not-stop-sabelli-landing-united-states-AHIiYNoC"
+        },
+        {
+          "testata": "Top Aziende - QN",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/?p=103374"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 13",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/rivacold-srl/ee43728b4083"
+        },
+        {
+          "testata": "Il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/profilglass-prima-in-provincia-renco-e-boscarini-fatturati-boom-23044283"
+        },
+        {
+          "testata": "IN Magazine Romagna",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.inmagazineromagna.it/gruppo-vag-il-mestiere-del-freddo/"
+        },
+        {
+          "testata": "lapiazzarimini.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://lapiazzarimini.it/2018/pesaro-per-il-palas-arriva-come-sponsor-triennale-alceste-vitri"
+        },
+        {
+          "testata": "Ministero del Lavoro",
+          "titolo": "",
+          "data": "",
+          "url": "https://lavoro.gov.it/eventi/pagine/il-ministro-poletti-visita-azienda-rivacold-a-vallefoglia"
+        },
+        {
+          "testata": "RefIndustry",
+          "titolo": "",
+          "data": "",
+          "url": "https://refindustry.com/?p=6453"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Vitrifrigo_Arena"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 12",
+      "fonti": [
+        {
+          "testata": "MPA Style",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.mpastyle.it/en/per-fainplast-30-anni-di-successi"
+        },
+        {
+          "testata": "mpastyle.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.mpastyle.it/en/?p=15103"
+        },
+        {
+          "testata": "QN Top Aziende",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/marche/ascoli-piceno/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 11",
+      "fonti": [
+        {
+          "testata": "forbes.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2021/01/04/clementoni-la-storia-di-unazienda-che-non-hai-mai-smesso-di-giocare/"
+        },
+        {
+          "testata": "interempresas.net",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.interempresas.net/Juguetes/336886-Fallece-el-fundador-de-la-juguetera-italiana-Clementoni.html"
+        },
+        {
+          "testata": "Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/clementoni-imparare-giocando-e-una-virtu-di-famiglia-202512101626355400"
+        },
+        {
+          "testata": "Tech Princess",
+          "titolo": "",
+          "data": "",
+          "url": "https://techprincess.it/sapientino-clementoni/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 10",
+      "fonti": [
+        {
+          "testata": "ifdm.design",
+          "titolo": "",
+          "data": "",
+          "url": "https://ifdm.design/2021/06/24/valter-scavolini-life-as-a-grand-enterprise"
+        },
+        {
+          "testata": "ilrestodelcarlino.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/scavolini-una-storia-di-scelte-controcorrente-il-sud-per-partire-e-la-rinuncia-alla-salvarani-c85412b4"
+        },
+        {
+          "testata": "ilsole24ore.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/from-artigiano-re-cucine-film-history-valter-scavolini-AI6UHQJD"
+        },
+        {
+          "testata": "MilanoFinanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/scavolini-un-patto-per-le-regole-valori-forti-per-crescere-uniti-202512111103463512"
+        },
+        {
+          "testata": "QN / topaziende",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/marche/pesaro-urbino"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Valter_Scavolini"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 9",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/marinelli-cucine-srl/43e95b7ac9a7"
+        },
+        {
+          "testata": "fanpage.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fanpage.it/attualita/pesaro-morto-andrea-marinelli-il-re-delle-cucine-low-cost/"
+        },
+        {
+          "testata": "Il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/gli-alti-e-bassi-delle-aziende-scavolini-meno-8-di-fatturato-boscarini-utili-boom-69-milioni-7394abb4"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 8",
+      "fonti": [
+        {
+          "testata": "Consob",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.consob.it/web/area-pubblica/w/elica-spa-azionariato-1"
+        },
+        {
+          "testata": "corporate.elica.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://corporate.elica.com/en/our-history"
+        },
+        {
+          "testata": "Elica",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.elica.com/AR-en/brand-story"
+        },
+        {
+          "testata": "Elica S.p.A.",
+          "titolo": "",
+          "data": "",
+          "url": "https://investors.elica.com/files/press_release/en/1774447713136_elica-spa_pr_fy2025-results.pdf"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Elica_(azienda)"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 7",
+      "fonti": [
+        {
+          "testata": "Forbes Italia",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2026/05/14/system-group-la-multinazionale-del-montefeltro-che-ha-conquistato-il-mondo-dei-tubi/"
+        },
+        {
+          "testata": "lapiazzarimini.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://lapiazzarimini.it/2022/pesaro-addio-ad-alvaro-boscarini-da-mezzadro-a-principe-dei-tubi"
+        },
+        {
+          "testata": "System Group (tubi.net)",
+          "titolo": "",
+          "data": "",
+          "url": "https://tubi.net/wp-content/uploads/2025/10/Bilancio-Sostenibilita-SystemGroup_2024_doppia_.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 6",
+      "fonti": [
+        {
+          "testata": "businessonline.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.businessonline.it/news/50-polli-pochi-risparmi-e-ora-622-mln-di-fatturato-la-storia-di-giovanni-fileni-e-dei-suoi-prodotti-mangiamo-senza-saperlo_n85505.html"
+        },
+        {
+          "testata": "Fileni (bilancio di sostenibilità)",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fileni.it/contrib/uploads/2025/07/Report_Fileni_2024.pdf"
+        },
+        {
+          "testata": "fileni.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fileni.it/en/mondo-fileni/"
+        },
+        {
+          "testata": "rinnovabili.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.rinnovabili.it/mercato/le-aziende-informano/fileni-fatturato-a-680-milioni-di-euro-11-e-certificazione-di-parita-di-genere/"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 5",
+      "fonti": [
+        {
+          "testata": "Atoka",
+          "titolo": "",
+          "data": "",
+          "url": "https://atoka.io/public/it/azienda/profilglass-spa/0a592f227e10"
+        },
+        {
+          "testata": "fim-cisl.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://fim-cisl.it/wp-content/uploads/2024/09/Siderugia-DAloMasci-Fim-Cisl-non-solo-le-crisi-ma-anche-esempi-virtuosi-di-sostenibilita-1.pdf"
+        },
+        {
+          "testata": "Il Resto del Carlino",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/pesaro/cronaca/profilglass-prima-in-provincia-renco-e-boscarini-fatturati-boom-23044283"
+        },
+        {
+          "testata": "ilrestodelcarlino.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/fano/economia/profilglass-elettricit-terna-0eb2db82"
+        },
+        {
+          "testata": "Top Aziende - QN",
+          "titolo": "",
+          "data": "",
+          "url": "https://topaziende.quotidiano.net/?p=123288"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 4",
+      "fonti": [
+        {
+          "testata": "calcioefinanza.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.calcioefinanza.it/?p=144984"
+        },
+        {
+          "testata": "LaConceria",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.laconceria.it/en/finance/tods-also-closes-2024-with-declining-revenue-and-a-loss"
+        },
+        {
+          "testata": "QuiFinanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://quifinanza.it/lifestyle/impero-della-valle-piazza-affari/817192/"
+        },
+        {
+          "testata": "sg.asiatatler.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://sg.asiatatler.com/style/diego-della-valle-the-man-who-built-the-tods-empire"
+        },
+        {
+          "testata": "tods.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://tods.com/ca-en/History-of-Tods"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Tod%27s"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 3",
+      "fonti": [
+        {
+          "testata": "Avvenire",
+          "titolo": "",
+          "data": "",
+          "url": "https://avvenire.it/economia/gruppo-gabrielli-nel-2025-ricavi-oltre-13-miliardi-e-crescita-superiore-al-mercato_113605"
+        },
+        {
+          "testata": "ItaliaOggi",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.italiaoggi.it/marketing-e-media/marketing/la-carica-della-gdo-locale-non-si-arresta-gabrielli-rilancia-sugli-investimenti-nh9ed4qy"
+        },
+        {
+          "testata": "tesi.univpm.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://tesi.univpm.it/retrieve/f6884d36-6bfd-4e5b-ba31-c73cc96f5259/L%27impatto_del_Covid19_nella_GDO_Il_caso_Magazzini_Gabrielli.pdf"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 2",
+      "fonti": [
+        {
+          "testata": "Angelini Industries",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.angeliniindustries.com/media/b4zgjyol/press-kit-company-profile-ita_gen2026.pdf"
+        },
+        {
+          "testata": "angeliniindustries.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.angeliniindustries.com/en/about-us/our-story"
+        },
+        {
+          "testata": "angelinipharma.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.angelinipharma.com/news-media/press-releases/angelini-pharma-to-acquire-catalyst-pharmaceuticals/"
+        },
+        {
+          "testata": "apotheke-adhoc.de",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/angelini-pillen-pampers-und-parfuems/"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2026/08/20/la-famiglia-farmaceutica-italiana-da-10-miliardi-di-dollari-si-fa-strada-nel-mercato-statunitense/"
+        },
+        {
+          "testata": "MF Milano Finanza",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.milanofinanza.it/news/gli-angelini-preparano-l-apertura-a-un-socio-nella-holding-in-pharma-e-technologies-202508112126508559"
+        }
+      ]
+    },
+    {
+      "titolo": "Numero 1",
+      "fonti": [
+        {
+          "testata": "Ariston Group",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aristongroup.com/media/files/4278_ITF%20Comunicato%20Stampa%20-%20ITA%20(08%20Nov%202021).pdf"
+        },
+        {
+          "testata": "aristongroup.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://aristongroup.com/en/group/our-culture/our-heritage"
+        },
+        {
+          "testata": "panorama.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.panorama.it/economia/indesit-merloni-lasciano-storia-dinastia"
+        },
+        {
+          "testata": "whirlpool.mediaroom.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://whirlpool.mediaroom.com/2014-07-10-Whirlpool-Enters-into-Agreements-to-Acquire-Majority-Interest-in-Indesit"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Ariston_(company)"
+        }
+      ]
+    },
+    {
+      "titolo": "Apertura",
+      "fonti": [
+        {
+          "testata": "apotheke-adhoc.de",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/angelini-pillen-pampers-und-parfuems/"
+        },
+        {
+          "testata": "corporate.elica.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://corporate.elica.com/en/our-history"
+        },
+        {
+          "testata": "fileni.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.fileni.it/en/mondo-fileni/"
+        },
+        {
+          "testata": "forbes.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://forbes.it/2021/01/04/clementoni-la-storia-di-unazienda-che-non-hai-mai-smesso-di-giocare/"
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.ilsole24ore.com/art/loccioni-fabbrica-scuola-che-testa-progetti-big-il-futuro-AEvZhiyB"
+        },
+        {
+          "testata": "ilrestodelcarlino.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilrestodelcarlino.it/fano/economia/profilglass-elettricit-terna-0eb2db82"
+        }
+      ]
+    },
+    {
+      "titolo": "Chiusura",
+      "fonti": [
+        {
+          "testata": "panorama.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.panorama.it/economia/indesit-merloni-lasciano-storia-dinastia"
+        }
+      ]
+    },
+    {
+      "titolo": "Coda",
+      "fonti": [
+        {
+          "testata": "Consob",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.consob.it/web/area-pubblica/w/biesse-spa-azionariato-1"
+        },
+        {
+          "testata": "Il Post",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.ilpost.it/2026/05/11/vendita-ip-socar/"
+        },
+        {
+          "testata": "shop.biessegroup.com",
+          "titolo": "",
+          "data": "",
+          "url": "https://shop.biessegroup.com/media/files/573_cavaliere_del_lavoro_ita.pdf"
+        },
+        {
+          "testata": "Variety",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.aol.com/winx-club-creator-rainbow-group-151851301.html"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://en.wikipedia.org/wiki/Rainbow_(company)"
+        }
+      ]
     }
   ],
   "fonti_generali": []

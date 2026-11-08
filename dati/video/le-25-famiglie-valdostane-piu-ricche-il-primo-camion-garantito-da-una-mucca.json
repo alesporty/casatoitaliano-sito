@@ -357,199 +357,690 @@
   "data": "2026-11-07",
   "standard": 2,
   "racconta": "Le 25 famiglie più ricche della Valle d'Aosta, e il mestiere che le ha fatte crescere. Reti paramassi, cantieri di montagna, camion, pullman, supermercati e concessionarie: dietro le aziende che incassano di più in Valle d'Aosta ci sono famiglie. Storie che partono da un caseificio, da un primo camion, da un garage. Le mettiamo in fila per fatturato, dalla venticinquesima alla prima.",
-  "elenco": [
+  "capitoli": [
     {
-      "testata": "alpiscavi.com",
-      "titolo": "Costruzioni generali",
-      "data": "",
-      "url": "https://www.alpiscavi.com/attivita/costruzioni-generali/"
+      "titolo": "Apertura",
+      "fonti": [
+        {
+          "testata": "groscidac.eu",
+          "titolo": "La Nostra Storia",
+          "data": "",
+          "url": "https://www.groscidac.eu/75-anni-di-storia/"
+        }
+      ]
     },
     {
-      "testata": "alpiscavi.com",
-      "titolo": "Sistemazione piste e impianto di innevamento",
-      "data": "",
-      "url": "https://www.alpiscavi.com/sistemazione-piste-e-impianto-di-innevamento/"
+      "titolo": "25 · Giovannoni e Colombo",
+      "fonti": [
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Ecoval Srl | Profilo economico e bilancio aziendale",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/ecoval-srl-01174270072"
+        }
+      ]
     },
     {
-      "testata": "ao.camcom.it",
-      "titolo": "Chenevier Spa - Camera valdostana",
-      "data": "",
-      "url": "https://www.ao.camcom.it/it/madeinvda/ricerca-imprese/chenevier-spa"
+      "titolo": "23 · Nex",
+      "fonti": [
+        {
+          "testata": "alpiscavi.com",
+          "titolo": "Costruzioni generali",
+          "data": "",
+          "url": "https://www.alpiscavi.com/attivita/costruzioni-generali/"
+        },
+        {
+          "testata": "alpiscavi.com",
+          "titolo": "Sistemazione piste e impianto di innevamento",
+          "data": "",
+          "url": "https://www.alpiscavi.com/sistemazione-piste-e-impianto-di-innevamento/"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "Alpi Scavi S.r.l.: fatturato 2024 e P.IVA 00191440072",
+          "data": "",
+          "url": "https://www.aziende.it/alpi-scavi-s-r-l"
+        },
+        {
+          "testata": "confindustria.aosta.it",
+          "titolo": "Alpi Scavi S.r.l.",
+          "data": "",
+          "url": "https://www.confindustria.aosta.it/le-nostre-aziende-associate/alpi-scavi-srl"
+        }
+      ]
     },
     {
-      "testata": "ao.camcom.it",
-      "titolo": "Frama serramenti PVC e vetri - chambre valdotaine",
-      "data": "",
-      "url": "https://www.ao.camcom.it/en/madeinvda/ricerca-imprese/frama-serramenti-pvc-vetri"
+      "titolo": "22 · Cortese e Peaquin",
+      "fonti": [
+        {
+          "testata": "peaquinsrl.it",
+          "titolo": "L'Azienda - - Peaquin",
+          "data": "",
+          "url": "https://www.peaquinsrl.it/it/peaquin/lazienda"
+        },
+        {
+          "testata": "peaquinsrl.it",
+          "titolo": "Contatti - - Peaquin",
+          "data": "",
+          "url": "https://www.peaquinsrl.it/it/contatti"
+        },
+        {
+          "testata": "peaquinsrl.it",
+          "titolo": "Impianti Fotovoltaici - - peaquinsrl.it",
+          "data": "",
+          "url": "https://www.peaquinsrl.it/it/le-nostre-soluzioni/impianti-fotovoltaici"
+        },
+        {
+          "testata": "reportaziende.it",
+          "titolo": "PEAQUIN S.R.L. - Bilancio, Fatturato, Visure, Rating",
+          "data": "",
+          "url": "https://www.reportaziende.it/peaquin_srl_ao_01033120070"
+        }
+      ]
     },
     {
-      "testata": "ao.camcom.it",
-      "titolo": "Tecnomec S.r.l.",
-      "data": "",
-      "url": "https://www.ao.camcom.it/en/print/pdf/node/5157"
+      "titolo": "21 · Minini",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "M.d.m. - S.r.l. - P. iva 00421830076 - Fascia Fatturato 10-25 ...",
+          "data": "",
+          "url": "https://www.aziende.it/m-d-m-s-r-l-AO-0"
+        },
+        {
+          "testata": "mdmchatillon.it",
+          "titolo": "Azienda EN - MDM",
+          "data": "",
+          "url": "https://www.mdmchatillon.it/en/azienda-en"
+        }
+      ]
     },
     {
-      "testata": "aostasera.it",
-      "titolo": "Tassa sui rifiuti ad Aosta, entro il 31 agosto si può richiedere la bolletta via email",
-      "data": "",
-      "url": "https://aostasera.it/notizie/ambiente/tassa-rifiuti-novita-ad-aosta-introdotti-i-limiti-di-svuotamento-per-nucleo-familiare/"
+      "titolo": "20 · Frutaz",
+      "fonti": [
+        {
+          "testata": "ao.camcom.it",
+          "titolo": "Chenevier Spa - Camera valdostana",
+          "data": "",
+          "url": "https://www.ao.camcom.it/it/madeinvda/ricerca-imprese/chenevier-spa"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "Chenevier S.p.a.: fatturato 2024 e P.IVA 00067100073",
+          "data": "",
+          "url": "https://www.aziende.it/chenevier-s-p-a"
+        },
+        {
+          "testata": "chenevier.com",
+          "titolo": "L'azienda – Chenevier – Case in legno",
+          "data": "",
+          "url": "https://chenevier.com/lazienda/"
+        },
+        {
+          "testata": "confindustria.aosta.it",
+          "titolo": "PMI DAY 18 novembre 2022: 13 anni insieme alle piccole e medie ...",
+          "data": "",
+          "url": "https://www.confindustria.aosta.it/news-ed-eventi/pmi-day-18-novembre-2022-13-anni-insieme-alle-piccole-e-medie-imprese"
+        },
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Chenevier Spa | Fatturato, utile e bilancio ufficiale",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/chenevier-spa-00067100073"
+        },
+        {
+          "testata": "gestioneregione.vda.it",
+          "titolo": "determina 314 del 07/08/2020",
+          "data": "",
+          "url": "https://gestionewww.regione.vda.it/allegato.aspx?pk=81603"
+        },
+        {
+          "testata": "gestioneregione.vda.it",
+          "titolo": "ordinanza 29 del 30/10/2020",
+          "data": "",
+          "url": "https://gestionewww.regione.vda.it/allegato.aspx?pk=80315"
+        },
+        {
+          "testata": "regione.vda.it",
+          "titolo": "�",
+          "data": "",
+          "url": "https://www.regione.vda.it/allegato.aspx?pk=81932"
+        },
+        {
+          "testata": "regione.vda.it",
+          "titolo": "Bollettino ufficiale, ordinanza 38 del 24/12/2020",
+          "data": "",
+          "url": "https://www.regione.vda.it/amministrazione/leggi/bollettino_ufficiale_new/archive/2021/2-2021-0.pdf"
+        },
+        {
+          "testata": "valdostana.bcc.it",
+          "titolo": "Autori - BCC Valdostana - Credito Cooperativo",
+          "data": "",
+          "url": "https://www.valdostana.bcc.it/soci/bancabollo/bancabollo/autori/"
+        }
+      ]
     },
     {
-      "testata": "articolinewssite.wordpress.com",
-      "titolo": "Fabio Inzani: innovazione e sostenibilità al centro della progettazione di Tecnicaer Engineering",
-      "data": "",
-      "url": "https://articolinewssite.wordpress.com/2025/03/06/fabio-inzani-innovazione-e-sostenibilita-al-centro-della-progettazione-di-tecnicaer-engineering/"
+      "titolo": "19 · Vuillermoz e Scullari",
+      "fonti": [
+        {
+          "testata": "ao.camcom.it",
+          "titolo": "Tecnomec S.r.l.",
+          "data": "",
+          "url": "https://www.ao.camcom.it/en/print/pdf/node/5157"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "Tecnomec Srl: fatturato 2025 e P.IVA 00041600073",
+          "data": "",
+          "url": "https://www.aziende.it/tecnomec-societa-a-responsabilita-limitata-AO"
+        },
+        {
+          "testata": "gruppotecnomec.com",
+          "titolo": "Azienda - Tecnomec: Eccellenza nell'Industria della Lavorazione Metalli",
+          "data": "",
+          "url": "https://www.gruppotecnomec.com/lazienda/"
+        },
+        {
+          "testata": "gruppotecnomec.com",
+          "titolo": "Arnad, la Tecnomec accelera tra investimenti e assunzioni. - Tecnomec",
+          "data": "",
+          "url": "https://www.gruppotecnomec.com/arnad-la-tecnomec-accelera-tra-investimenti-e-assunzioni/"
+        }
+      ]
     },
     {
-      "testata": "autoalpina-stellantis.it",
-      "titolo": "nuova auto alpina srl - charvensod",
-      "data": "",
-      "url": "https://www.autoalpina-stellantis.it/concessionario/fiat/sedi/charvensod"
+      "titolo": "18 · Cuc",
+      "fonti": [
+        {
+          "testata": "edildueci.com",
+          "titolo": "Contatti",
+          "data": "",
+          "url": "https://www.edildueci.com/contattaci.html"
+        },
+        {
+          "testata": "edildueci.com",
+          "titolo": "Materiali edili in Valle d'Aosta",
+          "data": "",
+          "url": "https://www.edildueci.com/"
+        },
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Edildueci Srl | Bilancio completo e documenti societari",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/edildueci-srl-01025350073"
+        }
+      ]
     },
     {
-      "testata": "autoscout24.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://www.autoscout24.it/concessionari/idealcar-quart-aosta-ao/chi-siamo"
+      "titolo": "17 · Adorni",
+      "fonti": [
+        {
+          "testata": "gazzettamatin.com",
+          "titolo": "In Valle d’Aosta la famiglia Adorni porta Italnolo: tutto il noleggio che puoi immaginare",
+          "data": "",
+          "url": "https://www.gazzettamatin.com/2025/04/15/in-valle-daosta-arriva-italnolo-tutto-il-noleggio-che-puoi-immaginare/"
+        },
+        {
+          "testata": "paginebianche.it",
+          "titolo": "Auto Mont Blanc S.r.l. a Saint-christophe (AO)",
+          "data": "",
+          "url": "https://www.paginebianche.it/scheda/saint-christophe/citroen-auto-mont-blanc-auto-mont-blanc.4209838"
+        },
+        {
+          "testata": "reportaziende.it",
+          "titolo": "AUTO MONT BLANC S.R.L. (AO) | 00585990070",
+          "data": "",
+          "url": "https://www.reportaziende.it/auto_mont_blanc_srl_ao_00585990070"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Alpi Scavi S.r.l.: fatturato 2024 e P.IVA 00191440072",
-      "data": "",
-      "url": "https://www.aziende.it/alpi-scavi-s-r-l"
+      "titolo": "16 · Quendoz",
+      "fonti": [
+        {
+          "testata": "articolinewssite.wordpress.com",
+          "titolo": "Fabio Inzani: innovazione e sostenibilità al centro della progettazione di Tecnicaer Engineering",
+          "data": "",
+          "url": "https://articolinewssite.wordpress.com/2025/03/06/fabio-inzani-innovazione-e-sostenibilita-al-centro-della-progettazione-di-tecnicaer-engineering/"
+        },
+        {
+          "testata": "companyreports.it",
+          "titolo": "Fatturato Tecnicaer Engineering Srl Aosta (AO) 01030520074",
+          "data": "",
+          "url": "https://m.companyreports.it/tecnicaer_engineering_srl-01030520074"
+        },
+        {
+          "testata": "tecnicaer.com",
+          "titolo": "History | Tecnicaer",
+          "data": "",
+          "url": "https://tecnicaer.com/en/story/"
+        },
+        {
+          "testata": "tecnicaer.com",
+          "titolo": "People | Tecnicaer",
+          "data": "",
+          "url": "https://tecnicaer.com/en/people/"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Av Pluda S.r.l. - P. iva 01184620076 - Dati finanziari",
-      "data": "",
-      "url": "https://www.aziende.it/av-pluda-s-r-l"
+      "titolo": "15 · Treves",
+      "fonti": [
+        {
+          "testata": "aostasera.it",
+          "titolo": "Tassa sui rifiuti ad Aosta, entro il 31 agosto si può richiedere la bolletta via email",
+          "data": "",
+          "url": "https://aostasera.it/notizie/ambiente/tassa-rifiuti-novita-ad-aosta-introdotti-i-limiti-di-svuotamento-per-nucleo-familiare/"
+        },
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Quendoz Srl | Bilancio e verifica commerciale",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/quendoz-srl-01013530074"
+        },
+        {
+          "testata": "gruppoa2a.it",
+          "titolo": "A2A sale in Valle d’Aosta e completa la sua presenza in tutte le regioni italiane",
+          "data": "",
+          "url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-valle-daosta-completa-presenza-tutte-regioni-italiane"
+        },
+        {
+          "testata": "quendoz.it",
+          "titolo": "Chi siamo | Quendoz | Services écologiques",
+          "data": "",
+          "url": "https://www.quendoz.it/chi-siamo/"
+        },
+        {
+          "testata": "quendoz.it",
+          "titolo": "Politica aziendale | Quendoz | Services écologiques",
+          "data": "",
+          "url": "https://www.quendoz.it/politica-aziendale/"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Chenevier S.p.a.: fatturato 2024 e P.IVA 00067100073",
-      "data": "",
-      "url": "https://www.aziende.it/chenevier-s-p-a"
+      "titolo": "14 · Inzani",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "Svp Benz S.r.l.: fatturato 2024 e P.IVA 00153510078",
+          "data": "",
+          "url": "https://www.aziende.it/svp-benz-s-r-l"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "Top 1.000 aziende in Valle d'Aosta per fatturato",
+          "data": "",
+          "url": "https://www.aziende.it/valle-d-aosta/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Ch%C3%A2tillon_(Italia)"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Frama S.r.l. - P. iva 01159540077 - Fascia Fatturato 25-50 milioni",
-      "data": "",
-      "url": "https://www.aziende.it/frama-s-r-l-AO-0"
+      "titolo": "13 · Stanca",
+      "fonti": [
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Supermarches Des Alpes Srl - Dati aziendali - FatturatoItalia",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/supermarches_des_alpes_srl-01184640074"
+        },
+        {
+          "testata": "paginesi.it",
+          "titolo": "SUPERMERCATO CON PRODOTTI LOCALI TIPICI VALDOSTANI",
+          "data": "",
+          "url": "https://www.paginesi.it/scheda/verres-supermercato-con-prodotti-locali-tipici-valdostani-supermercato-conad/26133225/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Conad"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "M.d.m. - S.r.l. - P. iva 00421830076 - Fascia Fatturato 10-25 ...",
-      "data": "",
-      "url": "https://www.aziende.it/m-d-m-s-r-l-AO-0"
+      "titolo": "12 · Moretto",
+      "fonti": [
+        {
+          "testata": "aziende.money.it",
+          "titolo": "IVIES SPA - Fatturato, Utili/Perdite, Visure e Bilanci",
+          "data": "",
+          "url": "https://aziende.money.it/aziende/ivies-spa-01172450072"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Svp Benz S.r.l.: fatturato 2024 e P.IVA 00153510078",
-      "data": "",
-      "url": "https://www.aziende.it/svp-benz-s-r-l"
+      "titolo": "11 · Framarin",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "Top 1.000 aziende in Valle d'Aosta per fatturato",
+          "data": "",
+          "url": "https://www.aziende.it/valle-d-aosta/"
+        },
+        {
+          "testata": "vitagroup.it",
+          "titolo": "Storia - Vita Group",
+          "data": "",
+          "url": "https://www.vitagroup.it/storia/"
+        },
+        {
+          "testata": "vitagroup.it",
+          "titolo": "Vita Group - Aosta",
+          "data": "",
+          "url": "https://www.vitagroup.it/en/"
+        },
+        {
+          "testata": "vitagroup.it",
+          "titolo": "Timetables and lines - Vita Group",
+          "data": "",
+          "url": "https://www.vitagroup.it/en/timetables-and-lines/"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Tecnomec Srl: fatturato 2025 e P.IVA 00041600073",
-      "data": "",
-      "url": "https://www.aziende.it/tecnomec-societa-a-responsabilita-limitata-AO"
+      "titolo": "10 · Calliera",
+      "fonti": [
+        {
+          "testata": "companyreports.it",
+          "titolo": "Fatturato Aziende Valle d'Aosta - CompanyReports.it - Pagina 1",
+          "data": "",
+          "url": "https://m.companyreports.it/regione/valle_d_aosta/1"
+        },
+        {
+          "testata": "contozcombustibili.com",
+          "titolo": "Homepage - Contoz Combustibili srl",
+          "data": "",
+          "url": "https://contozcombustibili.com/"
+        },
+        {
+          "testata": "lei.bloomberg.com",
+          "titolo": "CONTOZ SRL PRODOTTI PETROLIFERI - LEI: 81560024CF07546EE166",
+          "data": "",
+          "url": "https://lei.bloomberg.com/leis/view/81560024CF07546EE166"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Top 1.000 aziende in Valle d'Aosta per fatturato",
-      "data": "",
-      "url": "https://www.aziende.it/valle-d-aosta/"
+      "titolo": "9 · Contoz",
+      "fonti": [
+        {
+          "testata": "ao.camcom.it",
+          "titolo": "Frama serramenti PVC e vetri - chambre valdotaine",
+          "data": "",
+          "url": "https://www.ao.camcom.it/en/madeinvda/ricerca-imprese/frama-serramenti-pvc-vetri"
+        },
+        {
+          "testata": "aziende.it",
+          "titolo": "Frama S.r.l. - P. iva 01159540077 - Fascia Fatturato 25-50 milioni",
+          "data": "",
+          "url": "https://www.aziende.it/frama-s-r-l-AO-0"
+        },
+        {
+          "testata": "domal.it",
+          "titolo": "FRAMA S.R.L.",
+          "data": "",
+          "url": "https://www.domal.it/it-it/clienteprivato/serramentisti/frama-srl"
+        },
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Tutto su Frama Srl – Fatturato e Bilancio 2023",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/frama-srl-01159540077"
+        }
+      ]
     },
     {
-      "testata": "aziende.it",
-      "titolo": "Tour Ronde S.r.l. - P. iva 00593080070 - Fascia Fatturato 5 ...",
-      "data": "",
-      "url": "https://www.aziende.it/tour-ronde-s-r-l"
+      "titolo": "8 · Bertino",
+      "fonti": [
+        {
+          "testata": "autoscout24.it",
+          "titolo": "",
+          "data": "",
+          "url": "https://www.autoscout24.it/concessionari/idealcar-quart-aosta-ao/chi-siamo"
+        },
+        {
+          "testata": "reportaziende.it",
+          "titolo": "IDEAL CAR S.R.L. (AO) | 00625500079 | bilanci, indici, ...",
+          "data": "",
+          "url": "https://www.reportaziende.it/ideal_car_srl_ao_00625500079"
+        }
+      ]
     },
     {
-      "testata": "aziende.money.it",
-      "titolo": "AV PLUDA S.R.L. - 01184620076 - Dati aziendali, bilanci, ...",
-      "data": "",
-      "url": "https://aziende.money.it/aziende/av-pluda-srl-01184620076"
+      "titolo": "7 · Colliard",
+      "fonti": [
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Valdostana Impresa Costruzioni Srl VI Co Srl: fatturato, utile e dati di ...",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/valdostana-impresa-costruzioni-srl-v-i-co-srl-00191720077"
+        },
+        {
+          "testata": "vicosrl.com",
+          "titolo": "Chi siamo- Vico Srl - Vico Valdostana Impresa Costruzioni",
+          "data": "",
+          "url": "https://vicosrl.com/chi-siamo/"
+        }
+      ]
     },
     {
-      "testata": "aziende.money.it",
-      "titolo": "IVIES SPA - Fatturato, Utili/Perdite, Visure e Bilanci",
-      "data": "",
-      "url": "https://aziende.money.it/aziende/ivies-spa-01172450072"
+      "titolo": "6 · Cuomo",
+      "fonti": [
+        {
+          "testata": "companyreports.it",
+          "titolo": "Fatturato Ristorfoods Holding Srl Pollein (AO) 00588850073 ...",
+          "data": "",
+          "url": "https://m.companyreports.it/ristorfoods_holding_srl-00588850073"
+        },
+        {
+          "testata": "ristorfoods.com",
+          "titolo": "Ristorfoods",
+          "data": "",
+          "url": "https://www.ristorfoods.com/en/"
+        },
+        {
+          "testata": "ristorfoods.com",
+          "titolo": "Our story",
+          "data": "",
+          "url": "https://www.ristorfoods.com/en/our-story/"
+        }
+      ]
     },
     {
-      "testata": "aziende.money.it",
-      "titolo": "TOUR RONDE S.R.L. - 00593080070 - Dati aziendali ...",
-      "data": "",
-      "url": "https://aziende.money.it/aziende/tour-ronde-srl-00593080070"
+      "titolo": "5 · Pluda",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "Av Pluda S.r.l. - P. iva 01184620076 - Dati finanziari",
+          "data": "",
+          "url": "https://www.aziende.it/av-pluda-s-r-l"
+        },
+        {
+          "testata": "aziende.money.it",
+          "titolo": "AV PLUDA S.R.L. - 01184620076 - Dati aziendali, bilanci, ...",
+          "data": "",
+          "url": "https://aziende.money.it/aziende/av-pluda-srl-01184620076"
+        },
+        {
+          "testata": "kompass.com",
+          "titolo": "Av Pluda S.r.l. - Chatillon 11024 (Valle D'aosta), Localita' ...",
+          "data": "",
+          "url": "https://it.kompass.com/c/av-pluda-s-r-l/it1286211/"
+        },
+        {
+          "testata": "ufficiocamerale.it",
+          "titolo": "DATI DELLA SOCIETÀ - AV PLUDA S.R.L.",
+          "data": "",
+          "url": "https://www.ufficiocamerale.it/2691/av-pluda-srl"
+        }
+      ]
     },
     {
-      "testata": "chenevier.com",
-      "titolo": "L'azienda – Chenevier – Case in legno",
-      "data": "",
-      "url": "https://chenevier.com/lazienda/"
+      "titolo": "4 · Mammoliti",
+      "fonti": [
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Marco Mammoliti Spa: bilancio della società e valori principali",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/marco-mammoliti-spa-00470390071"
+        },
+        {
+          "testata": "marcomammoliti.com",
+          "titolo": "Azienda - Mammoliti",
+          "data": "",
+          "url": "https://www.marcomammoliti.com/azienda/"
+        },
+        {
+          "testata": "marcomammoliti.com",
+          "titolo": "The firm - Marco Mammoliti Spa",
+          "data": "",
+          "url": "https://www.marcomammoliti.com/en/the-firm/"
+        }
+      ]
     },
     {
-      "testata": "cogeis.it",
-      "titolo": "",
-      "data": "",
-      "url": "https://cogeis.it/about-us/anniversario/"
+      "titolo": "3 · Marazzato",
+      "fonti": [
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Marazzato Soluzioni Ambientali Srl A Socio Unico",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/marazzato-soluzioni-ambientali-srl-a-socio-unico-00468910070"
+        },
+        {
+          "testata": "gruppomarazzato.com",
+          "titolo": "La nostra storia",
+          "data": "",
+          "url": "https://gruppomarazzato.com/la-nostra-storia/"
+        },
+        {
+          "testata": "gruppomarazzato.com",
+          "titolo": "MARAZZATO",
+          "data": "",
+          "url": "https://www.gruppomarazzato.com/wp-content/uploads/2018/07/LAVOROCORAGGIOSUCCESSO-Storia-della-Famiglia-Marazzato.pdf"
+        },
+        {
+          "testata": "gruppomarazzato.com",
+          "titolo": "Buon compleanno, Marazzato",
+          "data": "",
+          "url": "https://gruppomarazzato.com/70anni-marazzato/"
+        },
+        {
+          "testata": "ufficiocamerale.it",
+          "titolo": "DATI DELLA SOCIETÀ - MARAZZATO SOLUZIONI AMBIENTALI S.R.L. A SOCIO UNICO",
+          "data": "",
+          "url": "https://www.ufficiocamerale.it/2514/marazzato-soluzioni-ambientali-srl-a-socio-unico"
+        }
+      ]
     },
     {
-      "testata": "companyreports.it",
-      "titolo": "Fatturato Aziende Valle d'Aosta - CompanyReports.it - Pagina 1",
-      "data": "",
-      "url": "https://m.companyreports.it/regione/valle_d_aosta/1"
+      "titolo": "2 · Celesia e Vietti",
+      "fonti": [
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Gros Cidac Srl | Bilancio e verifica commerciale",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/gros-cidac-srl-00163590078"
+        },
+        {
+          "testata": "groscidac.eu",
+          "titolo": "75 anni con Cidac - Blogzine Cidac",
+          "data": "",
+          "url": "https://www.groscidac.eu/blog/31344-75-anni-con-cidac/"
+        },
+        {
+          "testata": "groscidac.eu",
+          "titolo": "La Nostra Storia",
+          "data": "",
+          "url": "https://www.groscidac.eu/75-anni-di-storia/"
+        }
+      ]
     },
     {
-      "testata": "companyreports.it",
-      "titolo": "Fatturato Ristorfoods Holding Srl Pollein (AO) 00588850073 ...",
-      "data": "",
-      "url": "https://m.companyreports.it/ristorfoods_holding_srl-00588850073"
+      "titolo": "1 · Noussan e Nale",
+      "fonti": [
+        {
+          "testata": "autoalpina-stellantis.it",
+          "titolo": "nuova auto alpina srl - charvensod",
+          "data": "",
+          "url": "https://www.autoalpina-stellantis.it/concessionario/fiat/sedi/charvensod"
+        },
+        {
+          "testata": "reportaziende.it",
+          "titolo": "NUOVA AUTO ALPINA S.R.L. - Bilancio, Fatturato, Visure ...",
+          "data": "",
+          "url": "https://www.reportaziende.it/nuova_auto_alpina_srl_ao_00504650078"
+        }
+      ]
     },
     {
-      "testata": "companyreports.it",
-      "titolo": "Fatturato Tecnicaer Engineering Srl Aosta (AO) 01030520074",
-      "data": "",
-      "url": "https://m.companyreports.it/tecnicaer_engineering_srl-01030520074"
+      "titolo": "29 · Visini",
+      "fonti": [
+        {
+          "testata": "aziende.it",
+          "titolo": "Tour Ronde S.r.l. - P. iva 00593080070 - Fascia Fatturato 5 ...",
+          "data": "",
+          "url": "https://www.aziende.it/tour-ronde-s-r-l"
+        },
+        {
+          "testata": "aziende.money.it",
+          "titolo": "TOUR RONDE S.R.L. - 00593080070 - Dati aziendali ...",
+          "data": "",
+          "url": "https://aziende.money.it/aziende/tour-ronde-srl-00593080070"
+        },
+        {
+          "testata": "fatturatoitalia.it",
+          "titolo": "Tour Ronde Srl | Bilancio aziendale e indicatori utili",
+          "data": "",
+          "url": "https://www.fatturatoitalia.it/tour-ronde-srl-00593080070"
+        },
+        {
+          "testata": "tourronde.com",
+          "titolo": "contacts - Tour Ronde Srl",
+          "data": "",
+          "url": "https://www.tourronde.com/contacts"
+        },
+        {
+          "testata": "tourronde.com",
+          "titolo": "Tour Ronde Srl",
+          "data": "",
+          "url": "https://www.tourronde.com/"
+        },
+        {
+          "testata": "Wikipedia",
+          "titolo": "",
+          "data": "",
+          "url": "https://it.wikipedia.org/wiki/Tour_Ronde"
+        }
+      ]
     },
     {
-      "testata": "confindustria.aosta.it",
-      "titolo": "Alpi Scavi S.r.l.",
-      "data": "",
-      "url": "https://www.confindustria.aosta.it/le-nostre-aziende-associate/alpi-scavi-srl"
-    },
-    {
-      "testata": "confindustria.aosta.it",
-      "titolo": "PMI DAY 18 novembre 2022: 13 anni insieme alle piccole e medie ...",
-      "data": "",
-      "url": "https://www.confindustria.aosta.it/news-ed-eventi/pmi-day-18-novembre-2022-13-anni-insieme-alle-piccole-e-medie-imprese"
-    },
-    {
-      "testata": "contozcombustibili.com",
-      "titolo": "Homepage - Contoz Combustibili srl",
-      "data": "",
-      "url": "https://contozcombustibili.com/"
-    },
-    {
-      "testata": "domal.it",
-      "titolo": "FRAMA S.R.L.",
-      "data": "",
-      "url": "https://www.domal.it/it-it/clienteprivato/serramentisti/frama-srl"
-    },
-    {
-      "testata": "edildueci.com",
-      "titolo": "Contatti",
-      "data": "",
-      "url": "https://www.edildueci.com/contattaci.html"
-    },
-    {
-      "testata": "edildueci.com",
-      "titolo": "Materiali edili in Valle d'Aosta",
-      "data": "",
-      "url": "https://www.edildueci.com/"
-    },
+      "titolo": "28 · Giovannoni e Colombo",
+      "fonti": [
+        {
+          "testata": "regione.vda.it",
+          "titolo": "Présidence",
+          "data": "",
+          "url": "https://www.regione.vda.it/allegato.aspx?pk=112876"
+        },
+        {
+          "testata": "visurissima.it",
+          "titolo": "ECOVAL S.R.L. 01174270072",
+          "data": "",
+          "url": "http://www.visurissima.it/aziende/ECOVAL-SRL_01174270072.html"
+        }
+      ]
+    }
+  ],
+  "fonti_generali": [
     {
       "testata": "edildueci.com",
       "titolo": "Storia della società Edildueci Srl",
@@ -557,359 +1048,10 @@
       "url": "https://www.edildueci.com/storia.html"
     },
     {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Chenevier Spa | Fatturato, utile e bilancio ufficiale",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/chenevier-spa-00067100073"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Ecoval Srl | Profilo economico e bilancio aziendale",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/ecoval-srl-01174270072"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Edildueci Srl | Bilancio completo e documenti societari",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/edildueci-srl-01025350073"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Gros Cidac Srl | Bilancio e verifica commerciale",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/gros-cidac-srl-00163590078"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Marazzato Soluzioni Ambientali Srl A Socio Unico",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/marazzato-soluzioni-ambientali-srl-a-socio-unico-00468910070"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Marco Mammoliti Spa: bilancio della società e valori principali",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/marco-mammoliti-spa-00470390071"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Quendoz Srl | Bilancio e verifica commerciale",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/quendoz-srl-01013530074"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Supermarches Des Alpes Srl - Dati aziendali - FatturatoItalia",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/supermarches_des_alpes_srl-01184640074"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Tour Ronde Srl | Bilancio aziendale e indicatori utili",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/tour-ronde-srl-00593080070"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Tutto su Frama Srl – Fatturato e Bilancio 2023",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/frama-srl-01159540077"
-    },
-    {
-      "testata": "fatturatoitalia.it",
-      "titolo": "Valdostana Impresa Costruzioni Srl VI Co Srl: fatturato, utile e dati di ...",
-      "data": "",
-      "url": "https://www.fatturatoitalia.it/valdostana-impresa-costruzioni-srl-v-i-co-srl-00191720077"
-    },
-    {
-      "testata": "gazzettamatin.com",
-      "titolo": "In Valle d’Aosta la famiglia Adorni porta Italnolo: tutto il noleggio che puoi immaginare",
-      "data": "",
-      "url": "https://www.gazzettamatin.com/2025/04/15/in-valle-daosta-arriva-italnolo-tutto-il-noleggio-che-puoi-immaginare/"
-    },
-    {
-      "testata": "gestioneregione.vda.it",
-      "titolo": "determina 314 del 07/08/2020",
-      "data": "",
-      "url": "https://gestionewww.regione.vda.it/allegato.aspx?pk=81603"
-    },
-    {
-      "testata": "gestioneregione.vda.it",
-      "titolo": "ordinanza 29 del 30/10/2020",
-      "data": "",
-      "url": "https://gestionewww.regione.vda.it/allegato.aspx?pk=80315"
-    },
-    {
-      "testata": "groscidac.eu",
-      "titolo": "75 anni con Cidac - Blogzine Cidac",
-      "data": "",
-      "url": "https://www.groscidac.eu/blog/31344-75-anni-con-cidac/"
-    },
-    {
-      "testata": "groscidac.eu",
-      "titolo": "La Nostra Storia",
-      "data": "",
-      "url": "https://www.groscidac.eu/75-anni-di-storia/"
-    },
-    {
-      "testata": "gruppoa2a.it",
-      "titolo": "A2A sale in Valle d’Aosta e completa la sua presenza in tutte le regioni italiane",
-      "data": "",
-      "url": "https://www.gruppoa2a.it/it/media/comunicati-stampa/a2a-valle-daosta-completa-presenza-tutte-regioni-italiane"
-    },
-    {
-      "testata": "gruppomarazzato.com",
-      "titolo": "Buon compleanno, Marazzato",
-      "data": "",
-      "url": "https://gruppomarazzato.com/70anni-marazzato/"
-    },
-    {
-      "testata": "gruppomarazzato.com",
-      "titolo": "La nostra storia",
-      "data": "",
-      "url": "https://gruppomarazzato.com/la-nostra-storia/"
-    },
-    {
-      "testata": "gruppomarazzato.com",
-      "titolo": "La nostra storia",
-      "data": "",
-      "url": "https://www.gruppomarazzato.com/la-nostra-storia/"
-    },
-    {
-      "testata": "gruppomarazzato.com",
-      "titolo": "MARAZZATO",
-      "data": "",
-      "url": "https://www.gruppomarazzato.com/wp-content/uploads/2018/07/LAVOROCORAGGIOSUCCESSO-Storia-della-Famiglia-Marazzato.pdf"
-    },
-    {
-      "testata": "gruppotecnomec.com",
-      "titolo": "Arnad, la Tecnomec accelera tra investimenti e assunzioni. - Tecnomec",
-      "data": "",
-      "url": "https://www.gruppotecnomec.com/arnad-la-tecnomec-accelera-tra-investimenti-e-assunzioni/"
-    },
-    {
-      "testata": "gruppotecnomec.com",
-      "titolo": "Azienda - Tecnomec: Eccellenza nell'Industria della Lavorazione Metalli",
-      "data": "",
-      "url": "https://www.gruppotecnomec.com/lazienda/"
-    },
-    {
-      "testata": "kompass.com",
-      "titolo": "Av Pluda S.r.l. - Chatillon 11024 (Valle D'aosta), Localita' ...",
-      "data": "",
-      "url": "https://it.kompass.com/c/av-pluda-s-r-l/it1286211/"
-    },
-    {
-      "testata": "lei.bloomberg.com",
-      "titolo": "CONTOZ SRL PRODOTTI PETROLIFERI - LEI: 81560024CF07546EE166",
-      "data": "",
-      "url": "https://lei.bloomberg.com/leis/view/81560024CF07546EE166"
-    },
-    {
-      "testata": "marcomammoliti.com",
-      "titolo": "Azienda - Mammoliti",
-      "data": "",
-      "url": "https://www.marcomammoliti.com/azienda/"
-    },
-    {
-      "testata": "marcomammoliti.com",
-      "titolo": "The firm - Marco Mammoliti Spa",
-      "data": "",
-      "url": "https://www.marcomammoliti.com/en/the-firm/"
-    },
-    {
-      "testata": "mdmchatillon.it",
-      "titolo": "Azienda EN - MDM",
-      "data": "",
-      "url": "https://www.mdmchatillon.it/en/azienda-en"
-    },
-    {
-      "testata": "paginebianche.it",
-      "titolo": "Auto Mont Blanc S.r.l. a Saint-christophe (AO)",
-      "data": "",
-      "url": "https://www.paginebianche.it/scheda/saint-christophe/citroen-auto-mont-blanc-auto-mont-blanc.4209838"
-    },
-    {
-      "testata": "paginesi.it",
-      "titolo": "SUPERMERCATO CON PRODOTTI LOCALI TIPICI VALDOSTANI",
-      "data": "",
-      "url": "https://www.paginesi.it/scheda/verres-supermercato-con-prodotti-locali-tipici-valdostani-supermercato-conad/26133225/"
-    },
-    {
-      "testata": "peaquinsrl.it",
-      "titolo": "Contatti - - Peaquin",
-      "data": "",
-      "url": "https://www.peaquinsrl.it/it/contatti"
-    },
-    {
-      "testata": "peaquinsrl.it",
-      "titolo": "Impianti Fotovoltaici - - peaquinsrl.it",
-      "data": "",
-      "url": "https://www.peaquinsrl.it/it/le-nostre-soluzioni/impianti-fotovoltaici"
-    },
-    {
-      "testata": "peaquinsrl.it",
-      "titolo": "L'Azienda - - Peaquin",
-      "data": "",
-      "url": "https://www.peaquinsrl.it/it/peaquin/lazienda"
-    },
-    {
-      "testata": "quendoz.it",
-      "titolo": "Chi siamo | Quendoz | Services écologiques",
-      "data": "",
-      "url": "https://www.quendoz.it/chi-siamo/"
-    },
-    {
-      "testata": "quendoz.it",
-      "titolo": "Politica aziendale | Quendoz | Services écologiques",
-      "data": "",
-      "url": "https://www.quendoz.it/politica-aziendale/"
-    },
-    {
-      "testata": "regione.vda.it",
-      "titolo": "Bollettino ufficiale, ordinanza 38 del 24/12/2020",
-      "data": "",
-      "url": "https://www.regione.vda.it/amministrazione/leggi/bollettino_ufficiale_new/archive/2021/2-2021-0.pdf"
-    },
-    {
-      "testata": "regione.vda.it",
-      "titolo": "Présidence",
-      "data": "",
-      "url": "https://www.regione.vda.it/allegato.aspx?pk=112876"
-    },
-    {
-      "testata": "regione.vda.it",
-      "titolo": "�",
-      "data": "",
-      "url": "https://www.regione.vda.it/allegato.aspx?pk=81932"
-    },
-    {
-      "testata": "reportaziende.it",
-      "titolo": "AUTO MONT BLANC S.R.L. (AO) | 00585990070",
-      "data": "",
-      "url": "https://www.reportaziende.it/auto_mont_blanc_srl_ao_00585990070"
-    },
-    {
-      "testata": "reportaziende.it",
-      "titolo": "IDEAL CAR S.R.L. (AO) | 00625500079 | bilanci, indici, ...",
-      "data": "",
-      "url": "https://www.reportaziende.it/ideal_car_srl_ao_00625500079"
-    },
-    {
-      "testata": "reportaziende.it",
-      "titolo": "NUOVA AUTO ALPINA S.R.L. - Bilancio, Fatturato, Visure ...",
-      "data": "",
-      "url": "https://www.reportaziende.it/nuova_auto_alpina_srl_ao_00504650078"
-    },
-    {
-      "testata": "reportaziende.it",
-      "titolo": "PEAQUIN S.R.L. - Bilancio, Fatturato, Visure, Rating",
-      "data": "",
-      "url": "https://www.reportaziende.it/peaquin_srl_ao_01033120070"
-    },
-    {
-      "testata": "ristorfoods.com",
-      "titolo": "Our story",
-      "data": "",
-      "url": "https://www.ristorfoods.com/en/our-story/"
-    },
-    {
-      "testata": "ristorfoods.com",
-      "titolo": "Ristorfoods",
-      "data": "",
-      "url": "https://www.ristorfoods.com/en/"
-    },
-    {
-      "testata": "tecnicaer.com",
-      "titolo": "History | Tecnicaer",
-      "data": "",
-      "url": "https://tecnicaer.com/en/story/"
-    },
-    {
-      "testata": "tecnicaer.com",
-      "titolo": "People | Tecnicaer",
-      "data": "",
-      "url": "https://tecnicaer.com/en/people/"
-    },
-    {
-      "testata": "tourronde.com",
-      "titolo": "contacts - Tour Ronde Srl",
-      "data": "",
-      "url": "https://www.tourronde.com/contacts"
-    },
-    {
-      "testata": "tourronde.com",
-      "titolo": "Tour Ronde Srl",
-      "data": "",
-      "url": "https://www.tourronde.com/"
-    },
-    {
-      "testata": "ufficiocamerale.it",
-      "titolo": "DATI DELLA SOCIETÀ - AV PLUDA S.R.L.",
-      "data": "",
-      "url": "https://www.ufficiocamerale.it/2691/av-pluda-srl"
-    },
-    {
-      "testata": "ufficiocamerale.it",
-      "titolo": "DATI DELLA SOCIETÀ - MARAZZATO SOLUZIONI AMBIENTALI S.R.L. A SOCIO UNICO",
-      "data": "",
-      "url": "https://www.ufficiocamerale.it/2514/marazzato-soluzioni-ambientali-srl-a-socio-unico"
-    },
-    {
-      "testata": "valdostana.bcc.it",
-      "titolo": "Autori - BCC Valdostana - Credito Cooperativo",
-      "data": "",
-      "url": "https://www.valdostana.bcc.it/soci/bancabollo/bancabollo/autori/"
-    },
-    {
-      "testata": "vicosrl.com",
-      "titolo": "Chi siamo- Vico Srl - Vico Valdostana Impresa Costruzioni",
-      "data": "",
-      "url": "https://vicosrl.com/chi-siamo/"
-    },
-    {
-      "testata": "visurissima.it",
-      "titolo": "ECOVAL S.R.L. 01174270072",
-      "data": "",
-      "url": "http://www.visurissima.it/aziende/ECOVAL-SRL_01174270072.html"
-    },
-    {
-      "testata": "vitagroup.it",
-      "titolo": "Storia - Vita Group",
-      "data": "",
-      "url": "https://www.vitagroup.it/storia/"
-    },
-    {
-      "testata": "vitagroup.it",
-      "titolo": "Timetables and lines - Vita Group",
-      "data": "",
-      "url": "https://www.vitagroup.it/en/timetables-and-lines/"
-    },
-    {
-      "testata": "vitagroup.it",
-      "titolo": "Vita Group - Aosta",
-      "data": "",
-      "url": "https://www.vitagroup.it/en/"
-    },
-    {
-      "testata": "Wikipedia",
+      "testata": "cogeis.it",
       "titolo": "",
       "data": "",
-      "url": "https://it.wikipedia.org/wiki/Tour_Ronde"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Ch%C3%A2tillon_(Italia)"
-    },
-    {
-      "testata": "Wikipedia",
-      "titolo": "",
-      "data": "",
-      "url": "https://it.wikipedia.org/wiki/Conad"
+      "url": "https://cogeis.it/about-us/anniversario/"
     }
-  ],
-  "fonti_generali": []
+  ]
 }
