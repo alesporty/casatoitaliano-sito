@@ -31,6 +31,8 @@ def dato(d, slug): return json.load(open(os.path.join(d, 'dati/video', slug + '.
 
 
 V = {os.path.basename(f)[:-5]: json.load(open(f, encoding='utf-8')) for f in glob.glob(os.path.join(QUI, 'dati/video/*.json'))}
+GIA_RITIRATI = {s for s, v in V.items() if v.get('ritirato_dal')}      # episodi che YouTube non ha più già prima della prova: restano negati
+V = {s: v for s, v in V.items() if s not in GIA_RITIRATI}
 ID = {s: v['youtube_id'] for s, v in V.items()}; tutti = {i: {'title': V[s]['titolo']} for s, i in ID.items()}
 d = copia(); n0 = len(home(d))
 
