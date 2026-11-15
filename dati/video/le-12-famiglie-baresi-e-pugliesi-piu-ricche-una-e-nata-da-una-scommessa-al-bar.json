@@ -481,5 +481,7 @@
  "regione": "Puglia",
  "data": "2026-10-26",
  "pubblica": true,
- "serie": "famiglie"
+ "serie": "famiglie",
+ "pubblico_dal": "2026-11-01T12:00:00Z",
+ "ritirato_dal": "2026-11-15T10:39:53Z"
 }

@@ -12,6 +12,16 @@ episodio si aggiornano la pagina singola e la home). Solo `pubblica: false` espl
 Una GitHub Action rigenera il sito ogni giorno dopo l'uscita delle 13 (12:17 UTC), così l'episodio compare da solo.
 30/10/2026: se YouTube risponde, decide YouTube (video pubblico o no, via oEmbed); la data `uscita` vale solo quando YouTube
 non è raggiungibile e per scrivere sulla pagina quando esce. CASATO_YT=0 per non chiedere a YouTube.
+15/11/2026 (Alessandro: «rendere più solido lo strumento che aggiorna la home»): il sito RICORDA ciò che YouTube ha risposto.
+  - La prima volta che YouTube dice «pubblico» si scrive nei dati `pubblico_dal` (data e ora). Da lì l'episodio è in home anche quando YouTube non risponde
+    (fuori dalla GitHub Action, o se YouTube blocca la macchina): il risultato è lo stesso da ovunque si lanci, e le date a mano non servono più. Ordine in home: `pubblico_dal`.
+  - A ogni giro si legge da YouTube anche il titolo e la copertina: se cambiano in Studio, il sito li segue.
+  - Un video che ERA pubblico e ora YouTube dice chiaramente non pubblico (privato o tolto), mentre gli altri rispondono: è ritirato. Esce dalla home e dalla sitemap
+    e la sua pagina viene cancellata (404). I dati restano: se torna pubblico, torna tutto. Si scrive `ritirato_dal`.
+  - Più di RITIRATI_MAX (3) ritirati nello stesso giro = YouTube sta bloccando la macchina: non si tocca niente e il giro finisce in errore (codice 2: non pubblicare).
+    Se sono voluti: CASATO_CONFERMA_RITIRATI=1.
+  - Un episodio con una fonte non pubblicabile non ferma più il sito: resta com'era (o fuori, se non c'era) e il giro finisce in errore (codice 1) dopo aver aggiornato gli altri.
+  - Rete di sicurezza: se la home nuova ha meno episodi di prima senza che siano ritirati o spenti a mano, codice 2.
 24/10/2026: il canale racconta le famiglie. In home il motto, prima le famiglie e poi la serie dei cognomi (campo `serie`: «famiglie», default, o «cognomi»). Stile: TEMA=notte (default) o carta.
 """
 import html, json, os, glob, shutil, datetime, re, sys
@@ -108,14 +118,20 @@ def uscita(v):
 
 
 def pubblico_su_youtube(yid):
-    """30/10/2026: chiede a YouTube se il video è pubblico (oEmbed, nessuna chiave): True pubblico, False privato o
-    programmato, None se YouTube non risponde (es. fuori dalla GitHub Action): allora vale la data `uscita` dei dati.
-    Così un'uscita spostata in YouTube Studio non porta in home un video ancora privato (Puglia, 30/10/2026)."""
+    """Chiede a YouTube (oEmbed, nessuna chiave): True pubblico, False chiaramente non pubblico (privato, programmato, tolto), None se YouTube non risponde
+    o risponde altro (rete, blocco, errore del server). 15/11/2026: da solo NON decide più niente: lo legge `stato()` insieme a ciò che il sito ricorda."""
     if yid in _STATO_YT: return _STATO_YT[yid]
+    finto = os.environ.get('CASATO_YT_FINTO')          # solo per le prove: {"<id>": true | false | null | {"title": "…"}}
+    if finto:
+        x = json.load(open(finto, encoding='utf-8')).get(yid, None)
+        r = True if isinstance(x, dict) else x
+        if isinstance(x, dict): _TITOLO_YT[yid] = x.get('title')
+        _STATO_YT[yid] = r; return r
     import urllib.request, urllib.error
     u = f'https://www.youtube.com/oembed?format=json&url=https://www.youtube.com/watch?v={yid}'
     try:
-        urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'casatoitaliano-build'}), timeout=15).read(); r = True
+        j = json.loads(urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'casatoitaliano-build'}), timeout=15).read()); r = True
+        _TITOLO_YT[yid] = (j.get('title') or '').strip() or None
     except urllib.error.HTTPError as x:
         r = False if x.code in (400, 401, 403, 404) else None
     except Exception:
@@ -125,15 +141,33 @@ def pubblico_su_youtube(yid):
 
 
 _STATO_YT = {}
+_TITOLO_YT = {}
+RITIRATI_MAX = 3      # più di così nello stesso giro = YouTube sta bloccando, non è una scelta di Alessandro
+_BLOCCO = [False]
+
+
+def chiedi(v):
+    if not v.get('youtube_id') or os.environ.get('CASATO_YT', '1') == '0': return None
+    return pubblico_su_youtube(v['youtube_id'])
+
+
+def ritirato(v):
+    """era pubblico (il sito lo ricorda) e YouTube ora dice chiaramente di no, senza che sia un blocco."""
+    if not v.get('pubblico_dal'): return False
+    s = chiedi(v)
+    if s is True: return False
+    if v.get('ritirato_dal'): return True      # già ritirato: resta ritirato finché YouTube non lo ridà pubblico (anche se tace o blocca)
+    return s is False and not _BLOCCO[0]
 
 
 def uscito(v):
     if not v.get('youtube_id'): return False
-    if os.environ.get('CASATO_YT', '1') != '0':
-        s = pubblico_su_youtube(v['youtube_id'])
-        if s is not None: return s
-    u = uscita(v)
-    return u is not None and u <= ADESSO   # senza YouTube e senza data: si aspetta (un video caricato privato non va in home)
+    s = chiedi(v)
+    if s is True: return True
+    if v.get('pubblico_dal'): return not ritirato(v)      # il sito ricorda: resta in home se YouTube tace o se è un blocco
+    if s is False: return False                              # mai stato pubblico e YouTube dice di no: aspetta
+    u = uscita(v)                                            # YouTube non risponde e il sito non ricorda niente: vale la data scritta nei dati
+    return u is not None and u <= ADESSO
 
 
 def quando(v):
@@ -145,6 +179,28 @@ def quando(v):
     except Exception:
         pass
     return f"il {u.day} {MESI[u.month - 1]} alle {u.hour}:{u.minute:02d}"
+
+
+def salva(f, v):
+    """Riscrive i dati di un episodio nella stessa forma in cui erano (rientro di 1 o 2 spazi, a capo finale): così nella storia del sito si vede solo ciò che cambia."""
+    vecchio = open(f, encoding='utf-8').read() if os.path.exists(f) else ''
+    m = re.search(r'^\{\n( +)"', vecchio)
+    open(f, 'w', encoding='utf-8').write(json.dumps(v, ensure_ascii=False, indent=len(m.group(1)) if m else 1) + ('\n' if vecchio.endswith('\n') else ''))
+
+
+def copertina(yid, dest):
+    """Scarica la copertina del video da YouTube e la mette al posto di quella nei dati, se è cambiata. True se l'ha cambiata. Se YouTube non la dà resta quella che c'è."""
+    if os.environ.get('CASATO_YT_FINTO') or os.environ.get('CASATO_COPERTINE', '1') == '0': return False
+    import urllib.request
+    for nome in ('maxresdefault', 'sddefault'):
+        try:
+            b = urllib.request.urlopen(urllib.request.Request(f'https://i.ytimg.com/vi/{yid}/{nome}.jpg', headers={'User-Agent': 'casatoitaliano-build'}), timeout=20).read()
+        except Exception:
+            continue
+        if len(b) < 5000: continue
+        if os.path.exists(dest) and open(dest, 'rb').read() == b: return False
+        open(dest, 'wb').write(b); return True
+    return False
 
 
 def nome_file(t):
@@ -225,15 +281,44 @@ def controlla_fonti(v):
 def main():
     os.makedirs(os.path.join(QUI, 'assets'), exist_ok=True)
     open(os.path.join(QUI, 'assets/stile.css'), 'w').write(CSS)
-    vids = []
-    errori = [x for f in sorted(glob.glob(os.path.join(QUI, 'dati/video/*.json'))) for x in controlla_fonti(json.load(open(f, encoding='utf-8')))]
-    if errori: sys.exit('FONTI NON PUBBLICABILI:\n' + '\n'.join(errori))
-    for f in sorted(glob.glob(os.path.join(QUI, 'dati/video/*.json'))):
-        v = json.load(open(f, encoding='utf-8')); d = os.path.join(QUI, 'video', v['slug']); os.makedirs(d, exist_ok=True)
-        t = f[:-5] + '.jpg'
+    vids = []; errori = []; avvisi = []
+    prima = set(re.findall(r'class=ep href="video/([^/"]+)/"', open(os.path.join(QUI, 'index.html'), encoding='utf-8').read())) if os.path.exists(os.path.join(QUI, 'index.html')) else set()
+    dati = [(f, json.load(open(f, encoding='utf-8'))) for f in sorted(glob.glob(os.path.join(QUI, 'dati/video/*.json')))]
+    # 1 · blocco? più di RITIRATI_MAX video che il sito ricorda pubblici e che YouTube ora nega, nello stesso giro
+    negati = [v for _, v in dati if v.get('pubblico_dal') and not v.get('ritirato_dal') and chiedi(v) is False]
+    if len(negati) > RITIRATI_MAX and os.environ.get('CASATO_CONFERMA_RITIRATI') != '1':
+        _BLOCCO[0] = True
+        errori.append(f"BLOCCO: YouTube dice non pubblici {len(negati)} video che erano pubblici ({', '.join(v['slug'][:28] for v in negati[:6])}…): più di {RITIRATI_MAX} insieme, non si tocca niente. Se è voluto: rilanciare con CASATO_CONFERMA_RITIRATI=1")
+    ritirati_ora = []; fuori_voluti = set()
+    for f, v in dati:
+        cambiato = False; d = os.path.join(QUI, 'video', v['slug']); t = f[:-5] + '.jpg'
+        s = chiedi(v)
+        if s is True:
+            if not v.get('pubblico_dal'):      # prima volta: per gli episodi già fuori vale l'uscita scritta nei dati, se è passata
+                u = uscita(v); v['pubblico_dal'] = (u if (u and u <= ADESSO) else ADESSO).strftime('%Y-%m-%dT%H:%M:%SZ'); cambiato = True
+            if v.pop('ritirato_dal', None): cambiato = True
+            tit = _TITOLO_YT.get(v['youtube_id'])
+            if tit and tit != v.get('titolo'): avvisi.append(f"titolo aggiornato da YouTube: {v['slug'][:40]}"); v['titolo'] = tit; cambiato = True
+            if copertina(v['youtube_id'], t): avvisi.append(f"copertina aggiornata da YouTube: {v['slug'][:40]}")
+        elif ritirato(v):
+            if not v.get('ritirato_dal'): v['ritirato_dal'] = ADESSO.strftime('%Y-%m-%dT%H:%M:%SZ'); cambiato = True; ritirati_ora.append(v['slug'])
+            if os.path.isdir(d): shutil.rmtree(d)      # la pagina di un video ritirato non deve essere raggiungibile
+            fuori_voluti.add(v['slug'])
+            if v['slug'] in ritirati_ora: avvisi.append(f"ritirato (non più pubblico su YouTube): {v['slug'][:40]}")
+            if cambiato: salva(f, v)
+            continue
+        if cambiato: salva(f, v)
+        if v.get('pubblica', True) is False: fuori_voluti.add(v['slug'])
+        ef = controlla_fonti(v)
+        if ef:      # un episodio sbagliato non ferma gli altri: resta la pagina che c'era
+            errori += ['FONTE NON PUBBLICABILE: ' + x for x in ef]
+            if os.path.exists(os.path.join(d, 'index.html')): vids.append(v)
+            continue
+        os.makedirs(d, exist_ok=True)
         if os.path.exists(t): shutil.copy(t, os.path.join(d, 'thumb.jpg'))
         open(os.path.join(d, 'index.html'), 'w', encoding='utf-8').write(pagina(v)); vids.append(v)
-    pub = sorted([v for v in vids if v.get('pubblica', True) is not False and uscito(v)], key=lambda v: v.get('data', ''), reverse=True)
+    ordine = lambda v: v.get('pubblico_dal') or v.get('uscita') or v.get('data', '')
+    pub = sorted([v for v in vids if v.get('pubblica', True) is not False and uscito(v)], key=ordine, reverse=True)
     voce = lambda v: f"<a class=ep href=\"video/{e(v['slug'])}/\"><img src=\"video/{e(v['slug'])}/thumb.jpg\" alt=\"\"><div><div class=reg>{e(v.get('regione', ''))}</div><h3>{e(v['titolo'])}</h3></div></a>"
     fam = [v for v in pub if v.get('serie', 'famiglie') != 'cognomi']; cog = [v for v in pub if v.get('serie') == 'cognomi']
     # 24/10/2026: il canale racconta le famiglie; i video sui cognomi restano in una sezione a parte, sotto
@@ -246,13 +331,21 @@ def main():
     open(os.path.join(QUI, '404.html'), 'w', encoding='utf-8').write(scheletro('Pagina non trovata · Casato Italiano',
         "<h1>Pagina non trovata</h1><p>Questa pagina non esiste. <a href=\"/\">Torna all'elenco dei video</a>.</p>", r='/'))
     oggi = datetime.date.today().isoformat()
-    sm = ''.join(f"<url><loc>{BASE}/video/{v['slug']}/</loc><lastmod>{v.get('data', oggi)}</lastmod></url>" for v in pub)
+    sm = ''.join(f"<url><loc>{BASE}/video/{v['slug']}/</loc><lastmod>{(v.get('pubblico_dal') or v.get('data') or oggi)[:10]}</lastmod></url>" for v in pub)
     open(os.path.join(QUI, 'sitemap.xml'), 'w').write(f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>{BASE}/</loc></url>{sm}</urlset>')
     attesa = [f"{v['slug'][:40]} ({quando(v)})" for v in vids if not uscito(v)]
     if os.environ.get('GITHUB_ACTIONS'):   # visibile nelle annotazioni della run
         risp = sum(1 for x in _STATO_YT.values() if x is not None)
         print(f"::notice title=YouTube::{risp} video su {len(_STATO_YT)} verificati su YouTube; in home {len(pub)}")
     print(f'sito: {len(vids)} pagine video, {len(pub)} in home' + (f"; in attesa dell'uscita: {', '.join(attesa)}" if attesa else ''))
+    for w in avvisi: print('·', w)
+    # rete di sicurezza: nessun episodio esce dalla home se non perché ritirato da YouTube o spento a mano (`pubblica: false`)
+    persi = sorted(prima - {v['slug'] for v in pub} - fuori_voluti)
+    if persi and os.environ.get('CASATO_CONFERMA_RITIRATI') != '1':
+        errori.insert(0, f"RETE DI SICUREZZA: uscirebbero dalla home senza motivo {len(persi)} episodi ({', '.join(x[:32] for x in persi[:6])}). Non pubblicare.")
+        print('\n'.join(errori)); sys.exit(2)
+    if errori:
+        print('\n'.join(errori)); sys.exit(2 if _BLOCCO[0] else 1)
 
 
 if __name__ == '__main__':

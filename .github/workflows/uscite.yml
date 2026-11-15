@@ -1,11 +1,23 @@
-# Rigenera il sito una volta al giorno alle 12:17 UTC (13:17 italiane d'inverno, 14:17 d'estate): i video escono alle 12:00 UTC.
-# Dal 30/10/2026 build.py chiede a YouTube se ogni video è pubblico: un'uscita spostata in Studio non porta più in home un video privato
-# (campo `uscita` in dati/video/<slug>.json, vedi build.py). Aggiunto il 27/10/2026; giornaliero da subito su richiesta di Alessandro.
+# Rigenera il sito e lo pubblica.
+# 15/11/2026 (Alessandro: «rendere più solido lo strumento che aggiorna la home»):
+#  - parte ogni mezz'ora (GitHub non è puntuale: il giro giornaliero delle 12:17 UTC partiva fra le 17:44 e le 22:20) e subito quando arrivano i dati di un episodio;
+#  - build.py ricorda ciò che YouTube ha risposto (pubblico_dal), segue titolo e copertina, toglie le pagine dei video ritirati;
+#  - codice 1 di build.py = un episodio ha un errore: il resto si pubblica e il giro finisce rosso (GitHub manda la mail);
+#  - codice 2 = non pubblicare niente (YouTube sta bloccando, o la home perderebbe episodi senza motivo): si scarta tutto e il giro finisce rosso.
+# A mano: «Run workflow»; con «conferma_ritirati» si dice che più di tre video passati in privato insieme sono voluti.
 name: Uscite programmate
 on:
   schedule:
-    - cron: "17 12 * * *"
+    - cron: "7,37 * * * *"
+  push:
+    branches: [main]
+    paths: ["dati/**", "build.py"]
   workflow_dispatch:
+    inputs:
+      conferma_ritirati:
+        description: "Più di tre video passati in privato insieme: è voluto"
+        type: boolean
+        default: false
 permissions:
   contents: write
   pages: write
@@ -18,15 +30,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Rigenera il sito
-        run: python3 build.py
+        id: build
+        env:
+          CASATO_CONFERMA_RITIRATI: ${{ inputs.conferma_ritirati && '1' || '0' }}
+        run: |
+          set +e
+          python3 build.py | tee /tmp/esito.txt
+          echo "codice=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+          { echo '```'; tail -40 /tmp/esito.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+      - name: Non pubblicare (codice 2)
+        if: steps.build.outputs.codice == '2'
+        run: |
+          git checkout -- . && git clean -fdq
+          echo "::error title=Sito non aggiornato::build.py ha fermato la pubblicazione: $(grep -m1 -E 'BLOCCO|RETE DI SICUREZZA' /tmp/esito.txt)"
+          exit 1
       - name: Pubblica se qualcosa è cambiato
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet; then echo "niente da pubblicare"; exit 0; fi
+          git add -A
+          if git diff --cached --quiet; then echo "niente da pubblicare"; exit 0; fi
           git config user.name "casato-uscite"
           git config user.email "actions@users.noreply.github.com"
-          git add -A
-          git commit -m "Uscita programmata: episodi in home ($(date -u +%Y-%m-%dT%H:%MZ))"
-          git push
+          git commit -q -m "Sito aggiornato da YouTube ($(date -u +%Y-%m-%dT%H:%MZ))"
+          for i in 1 2 3; do
+            git pull -q --rebase origin main && git push -q && break
+            echo "push non riuscito (tentativo $i): qualcuno ha scritto nel frattempo, riprovo"; sleep 5
+            [ "$i" = 3 ] && { echo "::error title=Sito non pubblicato::push fallito tre volte"; exit 1; }
+          done
           gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" || echo "build di Pages non richiesta (parte comunque dal push)"
+      - name: Un episodio ha un errore (codice 1)
+        if: steps.build.outputs.codice == '1'
+        run: |
+          echo "::error title=Episodio con errore::$(grep -m1 'NON PUBBLICABILE' /tmp/esito.txt)"
+          exit 1
