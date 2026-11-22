@@ -290,908 +290,1016 @@
   "motion": 295,
   "dati_mappe": []
  },
- "fonti_ricerca": [
-  {
-   "titolo": "Mussini (Concorde): bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "MUS-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Sghedoni: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "SGH-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Borsari: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "BOR-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Levoni: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "LEV-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Minozzi: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "MIN-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Pederzini: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "PED-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Lucchese: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "LUC-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Mussini (Panaria): bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "MUS2-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Marchi: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "MAR-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Magni: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "MAG-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Baroni e Sallustro: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "BAR-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Nessi: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "NES-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Agnani e Olivieri: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "AGN-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Baraldini: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "BAR2-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Barbieri: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "BAR3-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Lei e Severi: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "LEI-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Mazzini: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "MAZ-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Pagani: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "PAG-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Galassini: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "GAL-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Villani: bilancio depositato e soci (Registro delle Imprese)",
-   "url": "",
-   "id": "VIL-REG",
-   "gruppo": null
-  },
-  {
-   "titolo": "Shareholders structure",
-   "url": "https://www.ferrari.com/en-EN/corporate/shareholders-structure",
-   "id": "FER-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Gruppo Concorde",
-   "url": "https://www.gruppoconcorde.it/",
-   "id": "MUS-S003",
-   "gruppo": null
-  },
-  {
-   "titolo": "Gruppo Concorde. Solidità. Innovazione. Fiducia.",
-   "url": "https://www.gruppoconcorde.it/gruppo/",
-   "id": "MUS-S004",
-   "gruppo": null
-  },
-  {
-   "titolo": "Territorio - Gruppo Concorde",
-   "url": "https://www.gruppoconcorde.it/impegno/territorio/",
-   "id": "MUS-S009",
-   "gruppo": null
-  },
-  {
-   "titolo": "Chi siamo | Kerakoll Group",
-   "url": "https://www.kerakollgroup.com/it/chi-siamo",
-   "id": "SGH-S007",
-   "gruppo": null
-  },
-  {
-   "titolo": "Luoghi | Kerakoll Group",
-   "url": "https://www.kerakollgroup.com/it/luoghi",
-   "id": "SGH-S011",
-   "gruppo": null
-  },
-  {
-   "titolo": "Kerakoll x Florim: una nuova partnership tra colore e design",
-   "url": "https://www.kerakollgroup.com/it/news/kerakoll-florim-il-colore-diventa-progetto",
-   "id": "SGH-S013",
-   "gruppo": null
-  },
-  {
-   "titolo": "Kerakoll e Fibre Net per l'innovazione strutturale in Europa",
-   "url": "https://www.kerakollgroup.com/it/news/kerakoll-e-fibrenet-uniti-per-crescere-nel-rinforzo-strutturale",
-   "id": "SGH-S015",
-   "gruppo": null
-  },
-  {
-   "titolo": "Kerakoll vince Archiproducts Design Awards 2025",
-   "url": "https://www.kerakollgroup.com/it/news/kerakoll-vince-gli-archiproducts-design-awards-2025",
-   "id": "SGH-S020",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia - Borsari Group - Agri trading logistics",
-   "url": "https://borsarigroup.com/storia/",
-   "id": "BOR-S003",
-   "gruppo": null
-  },
-  {
-   "titolo": "Magazzini - Borsari Group - Agri trading logistics",
-   "url": "https://borsarigroup.com/magazzini/",
-   "id": "BOR-S005",
-   "gruppo": null
-  },
-  {
-   "titolo": "Ricerca e sviluppo - Borsari Group - Agri trading logistics",
-   "url": "https://borsarigroup.com/ricerca-e-sviluppo/",
-   "id": "BOR-S007",
-   "gruppo": null
-  },
-  {
-   "titolo": "Alcar Uno – L'arte di lavorare la carne suina",
-   "url": "https://alcaruno.it/",
-   "id": "LEV-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Azienda – Alcar Uno",
-   "url": "https://alcaruno.it/azienda/",
-   "id": "LEV-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Sedi – Alcar Uno",
-   "url": "https://alcaruno.it/sedi/",
-   "id": "LEV-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "Santino Levoni – 50 anni di lavoro – Alcar Uno",
-   "url": "https://alcaruno.it/news/santino-levoni-50-anni-di-lavoro/",
-   "id": "LEV-S012",
-   "gruppo": null
-  },
-  {
-   "titolo": "Santino Levoni, Cavaliere di Francia – Alcar Uno",
-   "url": "https://alcaruno.it/news/santino-levoni-cavaliere-di-francia/",
-   "id": "LEV-S013",
-   "gruppo": null
-  },
-  {
-   "titolo": "Santino Levoni premiato Cavaliere dell’Ordine della Corona Belga – Alcar Uno",
-   "url": "https://alcaruno.it/news/santino-levoni-premiato-cavaliere-dellordine-della-corona-belga/",
-   "id": "LEV-S014",
-   "gruppo": null
-  },
-  {
-   "titolo": "Santino Levoni riceve la Medaglia d’Onore dal Principe di Danimarca – Alcar Uno",
-   "url": "https://alcaruno.it/news/santino-levoni-riceve-la-medaglia-donore-dal-principe-di-danimarca/",
-   "id": "LEV-S015",
-   "gruppo": null
-  },
-  {
-   "titolo": "Prosciuttificio Il Conte – Alcar Uno",
-   "url": "https://alcaruno.it/news/prosciuttificio-il-conte/",
-   "id": "LEV-S017",
-   "gruppo": null
-  },
-  {
-   "titolo": "Incontro coi Levoni nell’open space di Alcar Uno – Alcar Uno",
-   "url": "https://alcaruno.it/news/incontro-coi-levoni-nellopen-space-di-alcar-uno/",
-   "id": "LEV-S018",
-   "gruppo": null
-  },
-  {
-   "titolo": "Intervista Agrocorriere: Alcar Uno, Ovvero la tracciabilità della coscia lungo tutto il percorso di filiera – Alcar Uno",
-   "url": "https://alcaruno.it/news/intervista-agrocorriere-alcar-uno-ovvero-la-tracciabilita-della-coscia-lungo-tutto-il-percorso-di-filiera/",
-   "id": "LEV-S023",
-   "gruppo": null
-  },
-  {
-   "titolo": "Filiera Uno sulle “pagine” di Foodweb – Alcar Uno",
-   "url": "https://alcaruno.it/news/parlano-di-noi/",
-   "id": "LEV-S024",
-   "gruppo": null
-  },
-  {
-   "titolo": "GlobalCarnimaialino",
-   "url": "https://www.globalcarni.it/",
-   "id": "LEV-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "Governance: Fondatore, Presidente e CEO di Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/group/governance/",
-   "id": "MIN-S004",
-   "gruppo": null
-  },
-  {
-   "titolo": "Brand, stabilimenti, distributori e spazi espositivi di Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/assets/",
-   "id": "MIN-S005",
-   "gruppo": null
-  },
-  {
-   "titolo": "GREEN ENERGY - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/green-energy/",
-   "id": "MIN-S009",
-   "gruppo": null
-  },
-  {
-   "titolo": "H2 FACTORY®",
-   "url": "https://www.irisceramicagroup.com/h2-factory/",
-   "id": "MIN-S010",
-   "gruppo": null
-  },
-  {
-   "titolo": "ROMANO E FEDERICA MINOZZI PREMIATI ALLA XXI EDIZIONE DI \"EY IMPRENDITORE DELL'ANNO\" - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/media/romano-federica-minozzi-premiati-alla-xxi-edizione-ey-imprenditore-dellanno/",
-   "id": "MIN-S020",
-   "gruppo": null
-  },
-  {
-   "titolo": "L'ECONOMIA del CORRIERE DELLA SERA - PARLA MINOZZI: L'ENERGIA E' IL FUTURO DEL BUSINESS - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/media/leconomia-del-corriere-della-sera-parla-minozzi-lenergia-e-il-futuro-del-business/",
-   "id": "MIN-S022",
-   "gruppo": null
-  },
-  {
-   "titolo": "EMISSIONI ZERO: RAGGIUNTA LA PRODUZIONE A IMPATTO ZERO - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/media/emissioni-zero-iris-ceramica-group-raggiunge-la-produzione-a-impatto-zero/",
-   "id": "MIN-S023",
-   "gruppo": null
-  },
-  {
-   "titolo": "INAUGURATO IL MUSEO STORICO DI IRIS CERAMICA GROUP - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/media/inaugurato-il-museo-storico-di-iris-ceramica-group/",
-   "id": "MIN-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "IRIS CERAMICA GROUP FESTEGGIA 50 ANNI DA POLLUTION 1972 - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/media/iris-ceramica-group-festeggia-50-anni-da-pollution-1972/",
-   "id": "MIN-S028",
-   "gruppo": null
-  },
-  {
-   "titolo": "IRIS CERAMICA GROUP E SNAM: NASCE IL PROGETTO DELLA PRIMA INDUSTRIA CERAMICA AL MONDO AD IDROGENO VERDE - Iris Ceramica Group",
-   "url": "https://www.irisceramicagroup.com/media/iris-ceramica-group-e-snam-nasce-il-progetto-della-prima-industria-ceramica-al-mondo-ad-idrogeno-verde/",
-   "id": "MIN-S029",
-   "gruppo": null
-  },
-  {
-   "titolo": "Semi di Futuro - Fondazione Iris Ceramica Group",
-   "url": "https://fondazione.irisceramicagroup.com/fondazione/semi-di-futuro/",
-   "id": "MIN-S075",
-   "gruppo": null
-  },
-  {
-   "titolo": "Chi siamo - Italpizza",
-   "url": "https://italpizza.com/chi-siamo/",
-   "id": "PED-S003",
-   "gruppo": null
-  },
-  {
-   "titolo": "Consumatore - Italpizza",
-   "url": "https://italpizza.com/consumatore/",
-   "id": "PED-S005",
-   "gruppo": null
-  },
-  {
-   "titolo": "Contattaci - Italpizza",
-   "url": "https://italpizza.com/contattaci/",
-   "id": "PED-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "FRANCHISING - Numero Uno",
-   "url": "https://numero1.it/franchising-it/",
-   "id": "PED-S014",
-   "gruppo": null
-  },
-  {
-   "titolo": "LOCALI - Numero Uno",
-   "url": "https://numero1.it/locali/",
-   "id": "PED-S017",
-   "gruppo": null
-  },
-  {
-   "titolo": "Chi siamo | Florim",
-   "url": "https://www.florim.com/it/azienda/chi-siamo",
-   "id": "LUC-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Floor Gres | Florim",
-   "url": "https://www.florim.com/it/azienda/brand/i-marchi-storici/floor-gres",
-   "id": "LUC-S009",
-   "gruppo": null
-  },
-  {
-   "titolo": "Cerim | Florim",
-   "url": "https://www.florim.com/it/azienda/brand/i-marchi-storici/cerim",
-   "id": "LUC-S011",
-   "gruppo": null
-  },
-  {
-   "titolo": "Responsabilità sociale | Florim",
-   "url": "https://www.florim.com/it/azienda/sostenibilita/responsabilita-sociale",
-   "id": "LUC-S017",
-   "gruppo": null
-  },
-  {
-   "titolo": "Florim nomina Beatrice Lucchese nuovo Amministratore Delegato | Florim",
-   "url": "https://www.florim.com/it/journal/news/florim-nomina-beatrice-lucchese-nuovo-amministratore-delegato",
-   "id": "LUC-S024",
-   "gruppo": null
-  },
-  {
-   "titolo": "Premio Lucchese - XXXVII edizione | Florim",
-   "url": "https://www.florim.com/it/journal/news/premio-lucchese-xxxvii-edizione",
-   "id": "LUC-S025",
-   "gruppo": null
-  },
-  {
-   "titolo": "Il Florim Flagship Store di Roma si espande | Florim",
-   "url": "https://www.florim.com/it/journal/news/il-florim-flagship-store-di-roma-si-espande",
-   "id": "LUC-S038",
-   "gruppo": null
-  },
-  {
-   "titolo": "Nuovo Florim Flagship Store a Seoul | Florim",
-   "url": "https://www.florim.com/it/journal/news/nuovo-florim-flagship-store-a-seoul",
-   "id": "LUC-S039",
-   "gruppo": null
-  },
-  {
-   "titolo": "Ceramic Surfaces - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/",
-   "id": "MUS2-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Il gruppo - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/il-gruppo/",
-   "id": "MUS2-S009",
-   "gruppo": null
-  },
-  {
-   "titolo": "Governance - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/il-gruppo/governance/",
-   "id": "MUS2-S010",
-   "gruppo": null
-  },
-  {
-   "titolo": "Sponsorizzazioni - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/il-gruppo/sponsorizzazioni/",
-   "id": "MUS2-S011",
-   "gruppo": null
-  },
-  {
-   "titolo": "Progetti - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/progetti/",
-   "id": "MUS2-S018",
-   "gruppo": null
-  },
-  {
-   "titolo": "Una storia di innovazione - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/news/una-storia-di-innovazione/",
-   "id": "MUS2-S022",
-   "gruppo": null
-  },
-  {
-   "titolo": "PANARIAGROUP è Gold Partner della Maratona dles Dolomites-Enel 2024 - Panariagroup Industrie Ceramiche S.p.A.",
-   "url": "https://www.panariagroup.it/news/panariagroup-e-gold-partner-della-maratona-dles-dolomites-enel-2024/",
-   "id": "MUS2-S036",
-   "gruppo": null
-  },
-  {
-   "titolo": "Better Together - Liu Jo - Ambire ad uno sviluppo Sostenibile",
-   "url": "https://bettertogether.liujo.com/",
-   "id": "MAR-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "About us",
-   "url": "https://www.liujo.com/it/about-us/about-us.html",
-   "id": "MAR-S003",
-   "gruppo": null
-  },
-  {
-   "titolo": "Retail experience",
-   "url": "https://www.liujo.com/it/retail-experience/retail-experience.html",
-   "id": "MAR-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "Un nuovo equilibrio tra vita e lavoro - Better Together Liu Jo",
-   "url": "https://bettertogether.liujo.com/un-nuovo-equilibrio-tra-vita-e-lavoro/",
-   "id": "MAR-S025",
-   "gruppo": null
-  },
-  {
-   "titolo": "Azienda Magni | Eccellenza nei Sollevatori Telescopici | Magni Telescopic Handlers",
-   "url": "https://www.magnith.com/azienda/",
-   "id": "MAG-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "Magni TH a fianco dell’inclusione: main sponsor a TOGO – Joy of Life 2025 | Magni Telescopic Handlers",
-   "url": "https://www.magnith.com/corporate/magni-th-a-fianco-dellinclusione-main-sponsor-a-togo-joy-of-life-2025/",
-   "id": "MAG-S017",
-   "gruppo": null
-  },
-  {
-   "titolo": "1000° telescopico Magni per la flotta Felbermayr | Magni Telescopic Handlers",
-   "url": "https://www.magnith.com/corporate/1000-telescopico-magni-per-la-flotta-felbermayr/",
-   "id": "MAG-S023",
-   "gruppo": null
-  },
-  {
-   "titolo": "Panini S.p.A.",
-   "url": "https://www.paninigroup.com/it/it/about-us",
-   "id": "BAR-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Panini S.p.A.",
-   "url": "https://www.paninigroup.com/it/it/",
-   "id": "BAR-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Panini S.p.A.",
-   "url": "https://www.paninigroup.com/en/us/news/fifa-and-panini-continue-historic-partnership-to-inspire-football-fans-across-generations",
-   "id": "BAR-S007",
-   "gruppo": null
-  },
-  {
-   "titolo": "Figurine, Fumetti e Manga: Entra nel mondo Panini",
-   "url": "https://www.panini.it/",
-   "id": "BAR-S012",
-   "gruppo": null
-  },
-  {
-   "titolo": "Panini S.p.A.",
-   "url": "https://www.paninigroup.com/en/us/business-areas/collectibles",
-   "id": "BAR-S014",
-   "gruppo": null
-  },
-  {
-   "titolo": "Panini S.p.A.",
-   "url": "https://www.paninigroup.com/en/us/business-areas/distribution",
-   "id": "BAR-S015",
-   "gruppo": null
-  },
-  {
-   "titolo": "Eternoo - Building Materials",
-   "url": "https://www.eternoo.it/",
-   "id": "NES-S004",
-   "gruppo": null
-  },
-  {
-   "titolo": "Eternoo - Eternedile - Chi siamo",
-   "url": "https://www.eternoo.it/azienda/chi-siamo",
-   "id": "NES-S008",
-   "gruppo": null
-  },
-  {
-   "titolo": "Eternoo - Eternedile - Servizi",
-   "url": "https://www.eternoo.it/servizi",
-   "id": "NES-S010",
-   "gruppo": null
-  },
-  {
-   "titolo": "Eternoo - Eternedile - Punti vendita",
-   "url": "https://www.eternoo.it/punti-vendita",
-   "id": "NES-S012",
-   "gruppo": null
-  },
-  {
-   "titolo": "Eternoo",
-   "url": "https://www.eternoo.it/azienda/news/eternoo-pronta-ad-accogliere-nuovi-imprenditori",
-   "id": "NES-S014",
-   "gruppo": null
-  },
-  {
-   "titolo": "Ducati",
-   "url": "https://www.eternoo.it/azienda/progetti-speciali/ducati",
-   "id": "NES-S022",
-   "gruppo": null
-  },
-  {
-   "titolo": "Eternoo",
-   "url": "https://www.eternoo.it/azienda/news/eternoo-insieme-ad-ant-lancia-la-vita-vale-il-progetto-di-prevenzione-per-i-propri-collaboratori",
-   "id": "NES-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "Lavorazione e Vendita Carne Suina | Suincom Group",
-   "url": "https://www.suincom.it",
-   "id": "AGN-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Produzione e Vendita Carne Suina | Suincom Group",
-   "url": "https://www.suincomgroup.it/chi-siamo/",
-   "id": "AGN-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Servizi di lavorazione carne e prosciutti stagionati | Suincom Group",
-   "url": "https://www.suincomgroup.it/lavorazioni/",
-   "id": "AGN-S003",
-   "gruppo": null
-  },
-  {
-   "titolo": "Lavorazione prosciutti stagionati | Suincom Group",
-   "url": "https://www.suincomgroup.it/lavorazioni/lavorazioni-prosciutti-stagionati/",
-   "id": "AGN-S005",
-   "gruppo": null
-  },
-  {
-   "titolo": "Stagionatura prosciutto crudo | Suincom Group",
-   "url": "https://www.suincomgroup.it/stagionatura/",
-   "id": "AGN-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "Disosso prosciutti stagionati | Suincom Group",
-   "url": "https://www.suincomgroup.it/disosso-prosciutti-stagionati-per-conto-terzi/",
-   "id": "AGN-S007",
-   "gruppo": null
-  },
-  {
-   "titolo": "Commercializzazione Prosciutti e carne | Suincom Group",
-   "url": "https://www.suincomgroup.it/prodotti/",
-   "id": "AGN-S008",
-   "gruppo": null
-  },
-  {
-   "titolo": "Certificazioni - Suincom Group",
-   "url": "https://www.suincomgroup.it/certificazioni/",
-   "id": "AGN-S010",
-   "gruppo": null
-  },
-  {
-   "titolo": "Baraldini Quirino S.p.a.",
-   "url": "https://www.baraldinispa.it/it/azienda/",
-   "id": "BAR2-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Opere Realizzate - Baraldini Quirino S.p.A. - Costruzioni Edili dal 1963",
-   "url": "https://www.baraldinispa.it/it/realizzazioni/",
-   "id": "BAR2-S004",
-   "gruppo": null
-  },
-  {
-   "titolo": "Attrezzature",
-   "url": "https://www.baraldinispa.it/it/attrezzature/",
-   "id": "BAR2-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "Baraldini Quirino S.p.a.",
-   "url": "https://www.baraldinispa.it/it/news/provincia-di-modena-tangenziale-di-san-cesario",
-   "id": "BAR2-S010",
-   "gruppo": null
-  },
-  {
-   "titolo": "Baraldini Quirino S.p.a.",
-   "url": "https://www.baraldinispa.it/it/realizzazione/acer-modena-ricorstruzione-di-dieci-alloggi",
-   "id": "BAR2-S013",
-   "gruppo": null
-  },
-  {
-   "titolo": "Baraldini Quirino S.p.a.",
-   "url": "https://www.baraldinispa.it/it/realizzazione/regione-emilia-romagna-realizzazione-edificio-temporaneo-municipio-comune-medolla",
-   "id": "BAR2-S014",
-   "gruppo": null
-  },
-  {
-   "titolo": "Concessionario ufficiale BMW, MINI, BMW Motorrad, Autoclub Center a Modena, Carpi, Reggio nell'Emilia, Casalgrande, Imola, Modena - Autoclub",
-   "url": "https://www.autoclubcenter.it/",
-   "id": "BAR3-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Chi siamo - Autoclub",
-   "url": "https://www.autoclubcenter.it/chi-siamo",
-   "id": "BAR3-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Autoclub Modena - Autoclub",
-   "url": "https://www.autoclub.it/sedi/autoclub-modena",
-   "id": "BAR3-S006",
-   "gruppo": null
-  },
-  {
-   "titolo": "Nuovo showroom Autoclub Modena - Autoclub",
-   "url": "https://www.autoclub.it/articoli/nuovo-showroom-autoclub-modena",
-   "id": "BAR3-S012",
-   "gruppo": null
-  },
-  {
-   "titolo": "Autoclub e Il Tortellante: tradizione e inclusione a Modena - Autoclub",
-   "url": "https://www.autoclub.it/articoli/tortellante-specialmente",
-   "id": "BAR3-S018",
-   "gruppo": null
-  },
-  {
-   "titolo": "Autoclub & Autodromo Internazionale di Imola - Autoclub",
-   "url": "https://www.autoclub.it/articoli/autoclub-autodromo-internazionale-di-imola",
-   "id": "BAR3-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "Azienda - SL Carni",
-   "url": "https://slcarni.it/azienda/",
-   "id": "LEI-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "Prodotti Freschi - SL Carni",
-   "url": "https://slcarni.it/prodotti-freschi/",
-   "id": "LEI-S005",
-   "gruppo": null
-  },
-  {
-   "titolo": "I.T.I Impresa Generale S.p.a – Impresa Edile Modena",
-   "url": "https://www.itispa.com/",
-   "id": "MAZ-S001",
-   "gruppo": null
-  },
-  {
-   "titolo": "Azienda – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/azienda/",
-   "id": "MAZ-S007",
-   "gruppo": null
-  },
-  {
-   "titolo": "Numeri – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/numeri/",
-   "id": "MAZ-S008",
-   "gruppo": null
-  },
-  {
-   "titolo": "Scuola Superiore “G.Galilei” Mirandola – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/portfolio-item/scuola-superiore-g-galilei-mirandola/",
-   "id": "MAZ-S022",
-   "gruppo": null
-  },
-  {
-   "titolo": "Lavori di ripristino chiesa parrocchiale di S. Egidio abate – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/portfolio-item/lavori-di-ripristino-chiesa-parrocchiale-di-s-egidio-abate/",
-   "id": "MAZ-S023",
-   "gruppo": null
-  },
-  {
-   "titolo": "Realizzazione del nuovo Innovation HUB e Data Center di Modena – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/portfolio-item/realizzazione-del-nuovo-innovation-hub-e-data-center-di-modena/",
-   "id": "MAZ-S024",
-   "gruppo": null
-  },
-  {
-   "titolo": "Casa della Comunità Carpi – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/portfolio-item/casa-della-comunita-carpi/",
-   "id": "MAZ-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "Centro sportivo Maranello – I.T.I Impresa Generale S.p.a",
-   "url": "https://www.itispa.com/portfolio-item/centro-sportivo-maranello/",
-   "id": "MAZ-S028",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1773): Il bambino che voleva fare l’auto più bella del mondo.",
-   "url": "https://www.pagani.com/it/storia/#anno-1773",
-   "id": "PAG-S018",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1776): Sconfiggendo draghi.",
-   "url": "https://www.pagani.com/it/storia/#anno-1776",
-   "id": "PAG-S019",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1779): L’università, quei freddi marmi.",
-   "url": "https://www.pagani.com/it/storia/#anno-1779",
-   "id": "PAG-S022",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1780): La mia fabbrica: il Tajer",
-   "url": "https://www.pagani.com/it/storia/#anno-1780",
-   "id": "PAG-S023",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1782): La prima F2.",
-   "url": "https://www.pagani.com/it/storia/#anno-1782",
-   "id": "PAG-S025",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1784): Gli anni Lamborghini.",
-   "url": "https://www.pagani.com/it/storia/#anno-1784",
-   "id": "PAG-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1785): Nasce la Modena Design. Prende forma l’idea della Zonda.",
-   "url": "https://www.pagani.com/it/storia/#anno-1785",
-   "id": "PAG-S028",
-   "gruppo": null
-  },
-  {
-   "titolo": "Storia (timeline, post 1786): La Zonda C12 viene presentata al Salone di Ginevra.",
-   "url": "https://www.pagani.com/it/storia/#anno-1786",
-   "id": "PAG-S029",
-   "gruppo": null
-  },
-  {
-   "titolo": "Pagani Rinascimento | Pagani",
-   "url": "https://www.pagani.com/it/pagani-rinascimento/",
-   "id": "PAG-S054",
-   "gruppo": null
-  },
-  {
-   "titolo": "Inaugurazione Museo | Pagani",
-   "url": "https://www.pagani.com/it/press/inaugurazione-museo/",
-   "id": "PAG-S064",
-   "gruppo": null
-  },
-  {
-   "titolo": "Pagani Automobili inaugura il nuovo Atelier di produzione e il Museo Horacio Pagani | Pagani",
-   "url": "https://www.pagani.com/it/press/pagani-automobili-inaugura-il-nuovo-atelier-di-produzione-e-il-museo-horacio-pagani/",
-   "id": "PAG-S065",
-   "gruppo": null
-  },
-  {
-   "titolo": "Pagani Automobili annuncia il conferimento della Laurea Honoris Causa in Ingegneria del Veicolo a Horacio Pagani | Pagani",
-   "url": "https://www.pagani.com/it/press/pagani-automobili-annuncia-il-conferimento-della-laurea-honoris-causa-in-ingegneria-del-veicolo-a-horacio-pagani/",
-   "id": "PAG-S067",
-   "gruppo": null
-  },
-  {
-   "titolo": "PAGANI AUTOMOBILI. 25 ANNI DI CUORE, MANI E PASSIONE | Pagani",
-   "url": "https://www.pagani.com/it/press/pagani-automobili-25-anni-di-cuore-mani-e-passione/",
-   "id": "PAG-S068",
-   "gruppo": null
-  },
-  {
-   "titolo": "MODENA DESIGN: RINASCE IL MARCHIO STORICO DI PAGANI PER PRODURRE COMPONENTI D’ECCELLENZA. | Pagani",
-   "url": "https://www.pagani.com/it/press/modena-design/",
-   "id": "PAG-S070",
-   "gruppo": null
-  },
-  {
-   "titolo": "HORACIO PAGANI: RAGNO D’ORO UNICEF INDUSTRY AWARD 2013 | Pagani",
-   "url": "https://www.pagani.com/it/news/horacio-pagani-ragno-doro-unicef-industry-award-2013/",
-   "id": "PAG-S083",
-   "gruppo": null
-  },
-  {
-   "titolo": "“Hypercars, every day”: dal 25 gennaio, l’Horacio Pagani Museo e l’Atelier Pagani aprono le porte sette giorni su sette | Pagani",
-   "url": "https://www.pagani.com/it/news/horacio-pagani-museo-apertura-weekend/",
-   "id": "PAG-S091",
-   "gruppo": null
-  },
-  {
-   "titolo": "USCO ITR | Ricambi e accessori escavatori e miniescavatori",
-   "url": "https://www.usco.it/",
-   "id": "GAL-S002",
-   "gruppo": null
-  },
-  {
-   "titolo": "La Storia | USCO ITR",
-   "url": "https://www.usco.it/il-gruppo/la-storia/",
-   "id": "GAL-S004",
-   "gruppo": null
-  },
-  {
-   "titolo": "La sede | USCO ITR",
-   "url": "https://www.usco.it/il-gruppo/la-sede/",
-   "id": "GAL-S005",
-   "gruppo": null
-  },
-  {
-   "titolo": "ITR Meccanica: dove nascono i ricambi ITR",
-   "url": "https://www.usco.it/itr-magazine/itr-meccanica-dove-nascono-i-ricambi-itr-2021/",
-   "id": "GAL-S027",
-   "gruppo": null
-  },
-  {
-   "titolo": "ITR Industries | USCO ITR",
-   "url": "https://www.usco.it/itr-magazine/itr-industries-polo-produttivo-di-eccellenza-del-gruppo-usco-itr-2021/",
-   "id": "GAL-S029",
-   "gruppo": null
-  },
-  {
-   "titolo": "Logistica sostenibile | USCO ITR",
-   "url": "https://www.usco.it/itr-magazine/logistica-sostenibile-2021/",
-   "id": "GAL-S033",
-   "gruppo": null
-  },
-  {
-   "titolo": "Una storia di famiglia dal 1886, Villani Salumi",
-   "url": "https://www.villanisalumi.it/una-storia-di-famiglia",
-   "id": "VIL-S008",
-   "gruppo": null
-  },
-  {
-   "titolo": "Territori dove hanno origine i nostri salumi, Villani",
-   "url": "https://www.villanisalumi.it/i-territori",
-   "id": "VIL-S011",
-   "gruppo": null
-  },
-  {
-   "titolo": "Villani 140 Anni | Villani Salumi",
-   "url": "https://www.villanisalumi.it/villani-140-anni",
-   "id": "VIL-S015",
-   "gruppo": null
+ "standard": 2,
+ "racconta": "Chi sono le famiglie più ricche della provincia di Modena? Le abbiamo messe in fila per fatturato, dall'ultimo bilancio di ogni azienda: dalle piastrelle di Fiorano e Sassuolo ai prosciutti di Castelnuovo Rangone, dalle supercar di San Cesario alle figurine dei Mondiali. Venti famiglie, venti storie: chi ha cominciato in un garage, chi ha attraversato l'oceano, chi porta avanti l'azienda alla quinta generazione.",
+ "capitoli": [
+  {
+   "titolo": "Apertura",
+   "fonti": [
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Santino Levoni, Cavaliere di Francia – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/santino-levoni-cavaliere-di-francia/"
+    },
+    {
+     "testata": "eternoo.it",
+     "titolo": "Ducati",
+     "data": "",
+     "url": "https://www.eternoo.it/azienda/progetti-speciali/ducati"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "IRIS CERAMICA GROUP FESTEGGIA 50 ANNI DA POLLUTION 1972 - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/iris-ceramica-group-festeggia-50-anni-da-pollution-1972/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "MANI E PASSIONE | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/press/pagani-automobili-25-anni-di-cuore-mani-e-passione/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "HORACIO PAGANI: RAGNO D’ORO UNICEF INDUSTRY AWARD 2013 | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/news/horacio-pagani-ragno-doro-unicef-industry-award-2013/"
+    },
+    {
+     "testata": "paninigroup.com",
+     "titolo": "Panini S.p.A.",
+     "data": "",
+     "url": "https://www.paninigroup.com/en/us/business-areas/collectibles"
+    }
+   ]
+  },
+  {
+   "titolo": "20 · Villani",
+   "fonti": [
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Villani: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    },
+    {
+     "testata": "villanisalumi.it",
+     "titolo": "Una storia di famiglia dal 1886, Villani Salumi",
+     "data": "",
+     "url": "https://www.villanisalumi.it/una-storia-di-famiglia"
+    },
+    {
+     "testata": "villanisalumi.it",
+     "titolo": "Villani 140 Anni | Villani Salumi",
+     "data": "",
+     "url": "https://www.villanisalumi.it/villani-140-anni"
+    },
+    {
+     "testata": "villanisalumi.it",
+     "titolo": "Territori dove hanno origine i nostri salumi, Villani",
+     "data": "",
+     "url": "https://www.villanisalumi.it/i-territori"
+    }
+   ]
+  },
+  {
+   "titolo": "19 · Galassini",
+   "fonti": [
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Galassini: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    },
+    {
+     "testata": "usco.it",
+     "titolo": "USCO ITR | Ricambi e accessori escavatori e miniescavatori",
+     "data": "",
+     "url": "https://www.usco.it/"
+    },
+    {
+     "testata": "usco.it",
+     "titolo": "La Storia | USCO ITR",
+     "data": "",
+     "url": "https://www.usco.it/il-gruppo/la-storia/"
+    },
+    {
+     "testata": "usco.it",
+     "titolo": "ITR Meccanica: dove nascono i ricambi ITR",
+     "data": "",
+     "url": "https://www.usco.it/itr-magazine/itr-meccanica-dove-nascono-i-ricambi-itr-2021/"
+    },
+    {
+     "testata": "usco.it",
+     "titolo": "ITR Industries | USCO ITR",
+     "data": "",
+     "url": "https://www.usco.it/itr-magazine/itr-industries-polo-produttivo-di-eccellenza-del-gruppo-usco-itr-2021/"
+    },
+    {
+     "testata": "usco.it",
+     "titolo": "La sede | USCO ITR",
+     "data": "",
+     "url": "https://www.usco.it/il-gruppo/la-sede/"
+    },
+    {
+     "testata": "usco.it",
+     "titolo": "Logistica sostenibile | USCO ITR",
+     "data": "",
+     "url": "https://www.usco.it/itr-magazine/logistica-sostenibile-2021/"
+    }
+   ]
+  },
+  {
+   "titolo": "18 · Pagani",
+   "fonti": [
+    {
+     "testata": "pagani.com",
+     "titolo": "MANI E PASSIONE | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/press/pagani-automobili-25-anni-di-cuore-mani-e-passione/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "HORACIO PAGANI: RAGNO D’ORO UNICEF INDUSTRY AWARD 2013 | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/news/horacio-pagani-ragno-doro-unicef-industry-award-2013/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Pagani Automobili inaugura il nuovo Atelier di produzione e il Museo Horacio Pagani | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/press/pagani-automobili-inaugura-il-nuovo-atelier-di-produzione-e-il-museo-horacio-pagani/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Inaugurazione Museo | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/press/inaugurazione-museo/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "“Hypercars, every day”: dal 25 gennaio, l’Horacio Pagani Museo e l’Atelier Pagani aprono le porte sette giorni su sette | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/news/horacio-pagani-museo-apertura-weekend/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1773): Il bambino che voleva fare l’auto più bella del mondo.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1773"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Pagani Automobili annuncia il conferimento della Laurea Honoris Causa in Ingegneria del Veicolo a Horacio Pagani | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/press/pagani-automobili-annuncia-il-conferimento-della-laurea-honoris-causa-in-ingegneria-del-veicolo-a-horacio-pagani/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1776): Sconfiggendo draghi.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1776"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1779): L’università, quei freddi marmi.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1779"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1780): La mia fabbrica: il Tajer",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1780"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1782): La prima F2.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1782"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1784): Gli anni Lamborghini.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1784"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "MODENA DESIGN: RINASCE IL MARCHIO STORICO DI PAGANI PER PRODURRE COMPONENTI D’ECCELLENZA. | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/press/modena-design/"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1785): Nasce la Modena Design. Prende forma l’idea della Zonda.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1785"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Storia (timeline, post 1786): La Zonda C12 viene presentata al Salone di Ginevra.",
+     "data": "",
+     "url": "https://www.pagani.com/it/storia/#anno-1786"
+    },
+    {
+     "testata": "pagani.com",
+     "titolo": "Pagani Rinascimento | Pagani",
+     "data": "",
+     "url": "https://www.pagani.com/it/pagani-rinascimento/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Pagani: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "17 · Mazzini",
+   "fonti": [
+    {
+     "testata": "itispa.com",
+     "titolo": "I.T.I Impresa Generale S.p.a – Impresa Edile Modena",
+     "data": "",
+     "url": "https://www.itispa.com/"
+    },
+    {
+     "testata": "itispa.com",
+     "titolo": "Centro sportivo Maranello – I.T.I Impresa Generale S.p.a",
+     "data": "",
+     "url": "https://www.itispa.com/portfolio-item/centro-sportivo-maranello/"
+    },
+    {
+     "testata": "itispa.com",
+     "titolo": "Scuola Superiore “G.Galilei” Mirandola – I.T.I Impresa Generale S.p.a",
+     "data": "",
+     "url": "https://www.itispa.com/portfolio-item/scuola-superiore-g-galilei-mirandola/"
+    },
+    {
+     "testata": "itispa.com",
+     "titolo": "Casa della Comunità Carpi – I.T.I Impresa Generale S.p.a",
+     "data": "",
+     "url": "https://www.itispa.com/portfolio-item/casa-della-comunita-carpi/"
+    },
+    {
+     "testata": "itispa.com",
+     "titolo": "Lavori di ripristino chiesa parrocchiale di S. Egidio abate – I.T.I Impresa Generale S.p.a",
+     "data": "",
+     "url": "https://www.itispa.com/portfolio-item/lavori-di-ripristino-chiesa-parrocchiale-di-s-egidio-abate/"
+    },
+    {
+     "testata": "itispa.com",
+     "titolo": "Realizzazione del nuovo Innovation HUB e Data Center di Modena – I.T.I Impresa Generale S.p.a",
+     "data": "",
+     "url": "https://www.itispa.com/portfolio-item/realizzazione-del-nuovo-innovation-hub-e-data-center-di-modena/"
+    },
+    {
+     "testata": "itispa.com",
+     "titolo": "Azienda – I.T.I Impresa Generale S.p.a",
+     "data": "",
+     "url": "https://www.itispa.com/azienda/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Mazzini: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "16 · Lei e Severi",
+   "fonti": [
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Lei e Severi: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    },
+    {
+     "testata": "slcarni.it",
+     "titolo": "Prodotti Freschi - SL Carni",
+     "data": "",
+     "url": "https://slcarni.it/prodotti-freschi/"
+    },
+    {
+     "testata": "slcarni.it",
+     "titolo": "Azienda - SL Carni",
+     "data": "",
+     "url": "https://slcarni.it/azienda/"
+    }
+   ]
+  },
+  {
+   "titolo": "15 · Barbieri",
+   "fonti": [
+    {
+     "testata": "autoclub.it",
+     "titolo": "Nuovo showroom Autoclub Modena - Autoclub",
+     "data": "",
+     "url": "https://www.autoclub.it/articoli/nuovo-showroom-autoclub-modena"
+    },
+    {
+     "testata": "autoclub.it",
+     "titolo": "Autoclub Modena - Autoclub",
+     "data": "",
+     "url": "https://www.autoclub.it/sedi/autoclub-modena"
+    },
+    {
+     "testata": "autoclub.it",
+     "titolo": "Autoclub & Autodromo Internazionale di Imola - Autoclub",
+     "data": "",
+     "url": "https://www.autoclub.it/articoli/autoclub-autodromo-internazionale-di-imola"
+    },
+    {
+     "testata": "autoclub.it",
+     "titolo": "Autoclub e Il Tortellante: tradizione e inclusione a Modena - Autoclub",
+     "data": "",
+     "url": "https://www.autoclub.it/articoli/tortellante-specialmente"
+    },
+    {
+     "testata": "autoclubcenter.it",
+     "titolo": "Concessionario ufficiale BMW, MINI, BMW Motorrad, Autoclub Center a Modena, Carpi, Reggio nell'Emilia, Casalgrande, Imola, Modena - Autoclub",
+     "data": "",
+     "url": "https://www.autoclubcenter.it/"
+    },
+    {
+     "testata": "autoclubcenter.it",
+     "titolo": "Chi siamo - Autoclub",
+     "data": "",
+     "url": "https://www.autoclubcenter.it/chi-siamo"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Barbieri: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "14 · Baraldini",
+   "fonti": [
+    {
+     "testata": "baraldinispa.it",
+     "titolo": "Opere Realizzate - Baraldini Quirino S.p.A. - Costruzioni Edili dal 1963",
+     "data": "",
+     "url": "https://www.baraldinispa.it/it/realizzazioni/"
+    },
+    {
+     "testata": "baraldinispa.it",
+     "titolo": "Baraldini Quirino S.p.a.",
+     "data": "",
+     "url": "https://www.baraldinispa.it/it/azienda/"
+    },
+    {
+     "testata": "baraldinispa.it",
+     "titolo": "Attrezzature",
+     "data": "",
+     "url": "https://www.baraldinispa.it/it/attrezzature/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Baraldini: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "13 · Agnani e Olivieri",
+   "fonti": [
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Agnani e Olivieri: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    },
+    {
+     "testata": "suincom.it",
+     "titolo": "Lavorazione e Vendita Carne Suina | Suincom Group",
+     "data": "",
+     "url": "https://www.suincom.it"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Produzione e Vendita Carne Suina | Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/chi-siamo/"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Commercializzazione Prosciutti e carne | Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/prodotti/"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Servizi di lavorazione carne e prosciutti stagionati | Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/lavorazioni/"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Lavorazione prosciutti stagionati | Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/lavorazioni/lavorazioni-prosciutti-stagionati/"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Stagionatura prosciutto crudo | Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/stagionatura/"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Disosso prosciutti stagionati | Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/disosso-prosciutti-stagionati-per-conto-terzi/"
+    },
+    {
+     "testata": "suincomgroup.it",
+     "titolo": "Certificazioni - Suincom Group",
+     "data": "",
+     "url": "https://www.suincomgroup.it/certificazioni/"
+    }
+   ]
+  },
+  {
+   "titolo": "12 · Nessi",
+   "fonti": [
+    {
+     "testata": "eternoo.it",
+     "titolo": "Ducati",
+     "data": "",
+     "url": "https://www.eternoo.it/azienda/progetti-speciali/ducati"
+    },
+    {
+     "testata": "eternoo.it",
+     "titolo": "Eternoo - Building Materials",
+     "data": "",
+     "url": "https://www.eternoo.it/"
+    },
+    {
+     "testata": "eternoo.it",
+     "titolo": "Eternoo - Eternedile - Servizi",
+     "data": "",
+     "url": "https://www.eternoo.it/servizi"
+    },
+    {
+     "testata": "eternoo.it",
+     "titolo": "Eternoo",
+     "data": "",
+     "url": "https://www.eternoo.it/azienda/news/eternoo-pronta-ad-accogliere-nuovi-imprenditori"
+    },
+    {
+     "testata": "eternoo.it",
+     "titolo": "Eternoo - Eternedile - Chi siamo",
+     "data": "",
+     "url": "https://www.eternoo.it/azienda/chi-siamo"
+    },
+    {
+     "testata": "eternoo.it",
+     "titolo": "Eternoo - Eternedile - Punti vendita",
+     "data": "",
+     "url": "https://www.eternoo.it/punti-vendita"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Nessi: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "11 · Baroni e Sallustro",
+   "fonti": [
+    {
+     "testata": "panini.it",
+     "titolo": "Figurine, Fumetti e Manga: Entra nel mondo Panini",
+     "data": "",
+     "url": "https://www.panini.it/"
+    },
+    {
+     "testata": "paninigroup.com",
+     "titolo": "Panini S.p.A.",
+     "data": "",
+     "url": "https://www.paninigroup.com/en/us/business-areas/collectibles"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Baroni e Sallustro: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "10 · Magni",
+   "fonti": [
+    {
+     "testata": "magnith.com",
+     "titolo": "Magni TH a fianco dell’inclusione: main sponsor a TOGO – Joy of Life 2025 | Magni Telescopic Handlers",
+     "data": "",
+     "url": "https://www.magnith.com/corporate/magni-th-a-fianco-dellinclusione-main-sponsor-a-togo-joy-of-life-2025/"
+    },
+    {
+     "testata": "magnith.com",
+     "titolo": "Azienda Magni | Eccellenza nei Sollevatori Telescopici | Magni Telescopic Handlers",
+     "data": "",
+     "url": "https://www.magnith.com/azienda/"
+    },
+    {
+     "testata": "magnith.com",
+     "titolo": "1000° telescopico Magni per la flotta Felbermayr | Magni Telescopic Handlers",
+     "data": "",
+     "url": "https://www.magnith.com/corporate/1000-telescopico-magni-per-la-flotta-felbermayr/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Magni: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "9 · Marchi",
+   "fonti": [
+    {
+     "testata": "bettertogether.liujo.com",
+     "titolo": "Un nuovo equilibrio tra vita e lavoro - Better Together Liu Jo",
+     "data": "",
+     "url": "https://bettertogether.liujo.com/un-nuovo-equilibrio-tra-vita-e-lavoro/"
+    },
+    {
+     "testata": "bettertogether.liujo.com",
+     "titolo": "Better Together - Liu Jo - Ambire ad uno sviluppo Sostenibile",
+     "data": "",
+     "url": "https://bettertogether.liujo.com/"
+    },
+    {
+     "testata": "liujo.com",
+     "titolo": "About us",
+     "data": "",
+     "url": "https://www.liujo.com/it/about-us/about-us.html"
+    },
+    {
+     "testata": "liujo.com",
+     "titolo": "Retail experience",
+     "data": "",
+     "url": "https://www.liujo.com/it/retail-experience/retail-experience.html"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Marchi: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "8 · Mussini (Panaria)",
+   "fonti": [
+    {
+     "testata": "panariagroup.it",
+     "titolo": "PANARIAGROUP è Gold Partner della Maratona dles Dolomites-Enel 2024 - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/news/panariagroup-e-gold-partner-della-maratona-dles-dolomites-enel-2024/"
+    },
+    {
+     "testata": "panariagroup.it",
+     "titolo": "Ceramic Surfaces - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/"
+    },
+    {
+     "testata": "panariagroup.it",
+     "titolo": "Il gruppo - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/il-gruppo/"
+    },
+    {
+     "testata": "panariagroup.it",
+     "titolo": "Una storia di innovazione - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/news/una-storia-di-innovazione/"
+    },
+    {
+     "testata": "panariagroup.it",
+     "titolo": "Progetti - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/progetti/"
+    },
+    {
+     "testata": "panariagroup.it",
+     "titolo": "Sponsorizzazioni - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/il-gruppo/sponsorizzazioni/"
+    },
+    {
+     "testata": "panariagroup.it",
+     "titolo": "Governance - Panariagroup Industrie Ceramiche S.p.A.",
+     "data": "",
+     "url": "https://www.panariagroup.it/il-gruppo/governance/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Mussini (Panaria): bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "7 · Lucchese",
+   "fonti": [
+    {
+     "testata": "florim.com",
+     "titolo": "Chi siamo | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/azienda/chi-siamo"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Florim nomina Beatrice Lucchese nuovo Amministratore Delegato | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/journal/news/florim-nomina-beatrice-lucchese-nuovo-amministratore-delegato"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Floor Gres | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/azienda/brand/i-marchi-storici/floor-gres"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Cerim | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/azienda/brand/i-marchi-storici/cerim"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Nuovo Florim Flagship Store a Seoul | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/journal/news/nuovo-florim-flagship-store-a-seoul"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Il Florim Flagship Store di Roma si espande | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/journal/news/il-florim-flagship-store-di-roma-si-espande"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Responsabilità sociale | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/azienda/sostenibilita/responsabilita-sociale"
+    },
+    {
+     "testata": "florim.com",
+     "titolo": "Premio Lucchese - XXXVII edizione | Florim",
+     "data": "",
+     "url": "https://www.florim.com/it/journal/news/premio-lucchese-xxxvii-edizione"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Lucchese: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "6 · Pederzini",
+   "fonti": [
+    {
+     "testata": "italpizza.com",
+     "titolo": "Consumatore - Italpizza",
+     "data": "",
+     "url": "https://italpizza.com/consumatore/"
+    },
+    {
+     "testata": "italpizza.com",
+     "titolo": "Contattaci - Italpizza",
+     "data": "",
+     "url": "https://italpizza.com/contattaci/"
+    },
+    {
+     "testata": "italpizza.com",
+     "titolo": "Chi siamo - Italpizza",
+     "data": "",
+     "url": "https://italpizza.com/chi-siamo/"
+    },
+    {
+     "testata": "numero1.it",
+     "titolo": "LOCALI - Numero Uno",
+     "data": "",
+     "url": "https://numero1.it/locali/"
+    },
+    {
+     "testata": "numero1.it",
+     "titolo": "FRANCHISING - Numero Uno",
+     "data": "",
+     "url": "https://numero1.it/franchising-it/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Pederzini: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "5 · Minozzi",
+   "fonti": [
+    {
+     "testata": "fondazione.irisceramicagroup.com",
+     "titolo": "Semi di Futuro - Fondazione Iris Ceramica Group",
+     "data": "",
+     "url": "https://fondazione.irisceramicagroup.com/fondazione/semi-di-futuro/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "IRIS CERAMICA GROUP FESTEGGIA 50 ANNI DA POLLUTION 1972 - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/iris-ceramica-group-festeggia-50-anni-da-pollution-1972/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "Brand, stabilimenti, distributori e spazi espositivi di Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/assets/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "Governance: Fondatore, Presidente e CEO di Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/group/governance/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "INAUGURATO IL MUSEO STORICO DI IRIS CERAMICA GROUP - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/inaugurato-il-museo-storico-di-iris-ceramica-group/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "L'ECONOMIA del CORRIERE DELLA SERA - PARLA MINOZZI: L'ENERGIA E' IL FUTURO DEL BUSINESS - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/leconomia-del-corriere-della-sera-parla-minozzi-lenergia-e-il-futuro-del-business/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "GREEN ENERGY - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/green-energy/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "EMISSIONI ZERO: RAGGIUNTA LA PRODUZIONE A IMPATTO ZERO - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/emissioni-zero-iris-ceramica-group-raggiunge-la-produzione-a-impatto-zero/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "ROMANO E FEDERICA MINOZZI PREMIATI ALLA XXI EDIZIONE DI \"EY IMPRENDITORE DELL'ANNO\" - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/romano-federica-minozzi-premiati-alla-xxi-edizione-ey-imprenditore-dellanno/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "IRIS CERAMICA GROUP E SNAM: NASCE IL PROGETTO DELLA PRIMA INDUSTRIA CERAMICA AL MONDO AD IDROGENO VERDE - Iris Ceramica Group",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/media/iris-ceramica-group-e-snam-nasce-il-progetto-della-prima-industria-ceramica-al-mondo-ad-idrogeno-verde/"
+    },
+    {
+     "testata": "irisceramicagroup.com",
+     "titolo": "H2 FACTORY®",
+     "data": "",
+     "url": "https://www.irisceramicagroup.com/h2-factory/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Minozzi: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "4 · Levoni",
+   "fonti": [
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Santino Levoni, Cavaliere di Francia – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/santino-levoni-cavaliere-di-francia/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Azienda – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/azienda/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Ovvero la tracciabilità della coscia lungo tutto il percorso di filiera – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/intervista-agrocorriere-alcar-uno-ovvero-la-tracciabilita-della-coscia-lungo-tutto-il-percorso-di-filiera/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Alcar Uno – L'arte di lavorare la carne suina",
+     "data": "",
+     "url": "https://alcaruno.it/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Prosciuttificio Il Conte – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/prosciuttificio-il-conte/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Santino Levoni premiato Cavaliere dell’Ordine della Corona Belga – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/santino-levoni-premiato-cavaliere-dellordine-della-corona-belga/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Santino Levoni riceve la Medaglia d’Onore dal Principe di Danimarca – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/santino-levoni-riceve-la-medaglia-donore-dal-principe-di-danimarca/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Santino Levoni – 50 anni di lavoro – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/santino-levoni-50-anni-di-lavoro/"
+    },
+    {
+     "testata": "alcaruno.it",
+     "titolo": "Filiera Uno sulle “pagine” di Foodweb – Alcar Uno",
+     "data": "",
+     "url": "https://alcaruno.it/news/parlano-di-noi/"
+    },
+    {
+     "testata": "globalcarni.it",
+     "titolo": "GlobalCarnimaialino",
+     "data": "",
+     "url": "https://www.globalcarni.it/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Levoni: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "3 · Borsari",
+   "fonti": [
+    {
+     "testata": "borsarigroup.com",
+     "titolo": "Storia - Borsari Group - Agri trading logistics",
+     "data": "",
+     "url": "https://borsarigroup.com/storia/"
+    },
+    {
+     "testata": "borsarigroup.com",
+     "titolo": "Magazzini - Borsari Group - Agri trading logistics",
+     "data": "",
+     "url": "https://borsarigroup.com/magazzini/"
+    },
+    {
+     "testata": "borsarigroup.com",
+     "titolo": "Ricerca e sviluppo - Borsari Group - Agri trading logistics",
+     "data": "",
+     "url": "https://borsarigroup.com/ricerca-e-sviluppo/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Borsari: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "2 · Sghedoni",
+   "fonti": [
+    {
+     "testata": "kerakollgroup.com",
+     "titolo": "Chi siamo | Kerakoll Group",
+     "data": "",
+     "url": "https://www.kerakollgroup.com/it/chi-siamo"
+    },
+    {
+     "testata": "kerakollgroup.com",
+     "titolo": "Luoghi | Kerakoll Group",
+     "data": "",
+     "url": "https://www.kerakollgroup.com/it/luoghi"
+    },
+    {
+     "testata": "kerakollgroup.com",
+     "titolo": "Kerakoll vince Archiproducts Design Awards 2025",
+     "data": "",
+     "url": "https://www.kerakollgroup.com/it/news/kerakoll-vince-gli-archiproducts-design-awards-2025"
+    },
+    {
+     "testata": "kerakollgroup.com",
+     "titolo": "Kerakoll x Florim: una nuova partnership tra colore e design",
+     "data": "",
+     "url": "https://www.kerakollgroup.com/it/news/kerakoll-florim-il-colore-diventa-progetto"
+    },
+    {
+     "testata": "kerakollgroup.com",
+     "titolo": "Kerakoll e Fibre Net per l'innovazione strutturale in Europa",
+     "data": "",
+     "url": "https://www.kerakollgroup.com/it/news/kerakoll-e-fibrenet-uniti-per-crescere-nel-rinforzo-strutturale"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Sghedoni: bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "1 · Mussini (Concorde)",
+   "fonti": [
+    {
+     "testata": "gruppoconcorde.it",
+     "titolo": "Gruppo Concorde. Solidità. Innovazione. Fiducia.",
+     "data": "",
+     "url": "https://www.gruppoconcorde.it/gruppo/"
+    },
+    {
+     "testata": "gruppoconcorde.it",
+     "titolo": "Territorio - Gruppo Concorde",
+     "data": "",
+     "url": "https://www.gruppoconcorde.it/impegno/territorio/"
+    },
+    {
+     "testata": "gruppoconcorde.it",
+     "titolo": "Gruppo Concorde",
+     "data": "",
+     "url": "https://www.gruppoconcorde.it/"
+    },
+    {
+     "testata": "Registro delle Imprese",
+     "titolo": "Mussini (Concorde): bilancio depositato e soci",
+     "data": "",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "titolo": "Coda",
+   "fonti": [
+    {
+     "testata": "ferrari.com",
+     "titolo": "Shareholders structure",
+     "data": "",
+     "url": "https://www.ferrari.com/en-EN/corporate/shareholders-structure"
+    }
+   ]
+  },
+  {
+   "titolo": "Chiusura",
+   "fonti": [
+    {
+     "testata": "borsarigroup.com",
+     "titolo": "Storia - Borsari Group - Agri trading logistics",
+     "data": "",
+     "url": "https://borsarigroup.com/storia/"
+    },
+    {
+     "testata": "kerakollgroup.com",
+     "titolo": "Chi siamo | Kerakoll Group",
+     "data": "",
+     "url": "https://www.kerakollgroup.com/it/chi-siamo"
+    }
+   ]
   }
  ],
+ "fonti_generali": [
+  {
+   "testata": "alcaruno.it",
+   "titolo": "Incontro coi Levoni nell’open space di Alcar Uno – Alcar Uno",
+   "data": "",
+   "url": "https://alcaruno.it/news/incontro-coi-levoni-nellopen-space-di-alcar-uno/"
+  }
+ ],
+ "righe_tolte": [],
  "numero": 47,
  "regione": "Modena",
  "serie": "famiglie",
